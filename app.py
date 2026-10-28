@@ -1368,7 +1368,7 @@ class NovelReaderApp(tk.Tk):
                     self.status_var.set("İndirme durdu" if payload["stopped"] else "İndirme işlemi tamamlandı")
         except queue.Empty:
             pass
-        self.after(2000, self._check_system_theme)
+        self.after(150, self._poll_events)
 
 
 if __name__ == "__main__":
