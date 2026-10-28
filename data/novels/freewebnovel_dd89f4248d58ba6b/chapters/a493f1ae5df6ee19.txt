@@ -1,0 +1,117 @@
+Chapter 60: Silent Battle
+
+The silent battle began. Nakamura’s fifteen volunteers, representing the hope of humanity, gambled their lives in the first direct confrontation with extraterrestrial biology.
+
+These Martian life forms possessed no intelligence, yet they were the apex survivors of billions of years of brutal natural selection. Against them stood fifteen humans armed only with courage and intellect.
+
+"The pathogen is confirmed to be viral in scale, possibly more complex than terrestrial viruses. All samples originate from the uranium mining site," Nakamura noted in his journal. He dedicated the left page to facts and the right to hypotheses.
+
+He knew his time was running out. He had to focus on the fundamentals.
+
+"Mars surface temperatures drop to minus 120 degrees Celsius at night, too harsh for active life. However, within the uranium deposit, due to the decay heat of uranium and polonium isotopes, the ambient temperature stabilizes between minus 30 and plus 10 degrees Celsius. This is the Goldilocks zone for these organisms."
+
+"This explains why we found no life elsewhere. They are localized to the thermal and radioactive oasis of the mine."
+
+"The deposit provides both warmth and energy. Without this source, the organisms go dormant or die."
+
+"In this harsh environment, they evolved rapid reproduction cycles to maximize short windows of opportunity. Humans, with our nutrient-rich bodies and optimal internal temperatures, are like defenseless buffets. Our immune systems are simply too slow to react to their aggression..."
+
+As he finished writing, an assistant rushed in, clutching a stack of data pads. "Doctor, the telemetry for the three hundred patients is compiled."
+
+"Good. Run the statistical analysis and report back immediately."
+
+Nakamura rubbed his temples. He felt a tickle in his throat and a dull throb behind his eyes. The symptoms were starting.
+
+He checked his watch and noted in his journal: 2 hours 11 minutes post-exposure. Mild dizziness. Body temperature 37.6°C. Cognitive function nominal.
+
+He picked up a scalpel, scraped a sample from a piece of uranium ore, and placed it under the electron microscope.
+
+"Colony density is high, hundreds of thousands per sample. It’s possible only a few strains are pathogenic. Under magnification, the cellular lysis is visible. My hypothesis holds: the attack vector is viral."
+
+"Existing broad-spectrum interferons are ineffective. Their protein shell structure is fundamentally different from terrestrial viruses."
+
+"Doctor," the assistant interrupted, looking puzzled. "The statistics are... strange. Patients with low-grade fevers are deteriorating faster, showing signs of respiratory distress. But patients with high fevers, those spiking over 40 degrees are actually stabilizing. Why?"
+
+High fever is better than low fever?
+
+"Why?" Nakamura murmured, pacing the small lab.
+
+He stopped mid-step. An idea struck him like a bolt of lightning.
+
+"Temperature! It has to be temperature!" Nakamura shouted, startling the staff. "These organisms evolved in a cryo-environment. Their heat resistance must be terrible!"
+
+It made perfect sense.
+
+A normal terrestrial virus could overwhelm a cell in minutes. Why were the humans holding on for hours? Why hadn’t anyone died yet?
+
+The human body temperature of 37°C was already uncomfortably hot for the Martian virus. When the fever spiked to 40°C, the virus was being cooked alive.
+
+The high fever wasn’t killing the patients; it was saving them.
+
+"Quick! Initialize thermal stress experiments!" Nakamura ordered, his voice trembling with excitement.
+
+Four hours later, Nakamura collapsed into a coma. But before he fell, he left behind the key to survival: Martian microorganisms are extremely thermophobic.
+
+They were cryophiles, capable of thriving at minus sixty degrees. Zero degrees was their peak activity range. By 20 degrees, their activity dropped by 50%. At 40 degrees, it plummeted by over 90%.
+
+Humanity’s fever was its guardian angel.
+
+It was basic evolutionary theory. Natural selection applies to Mars just as it does to Earth.
+
+On Earth, cave fish living in eternal darkness lose their eyes but develop acute hearing and touch.
+
+On the windy island of Madeira, 200 species of beetles have evolved to be flightless. Those with wings were blown out to sea and drowned; those without wings stayed on the ground and survived.
+
+In the Arctic permafrost and deep ocean trenches, psychrophilic bacteria thrive below 20°C but disintegrate at room temperature.
+
+Survival of the fittest.
+
+Martian life had traded heat resistance for cold tolerance and radiation hardening. They didn’t need to survive heat, so they never evolved the capability.
+
+This gave humanity a weapon. According to Nakamura’s data, sustained exposure to 60 degrees Celsius would sterilize the virus completely.
+
+The lab’s environmental controls were immediately cranked to maximum heat. The facility became a sauna.
+
+Treatment protocols changed instantly. Patients with high fevers were monitored but not treated to lower their temperature. Those with low-grade fevers were given medication to induce hyperthermia, pushing their bodies to the safe limit of 41 degrees.
+
+41 degrees Celsius became the line between life and death.
+
+...
+
+"Status report?" Jason rushed into the Mars Base command center, having just landed via the second shuttle.
+
+"Professor Nakamura is down. Dr. Constantine has taken command," a scientist reported. "Nakamura made a breakthrough before he collapsed. The pathogen is thermophobic. We’re using induced hyperthermia to slow the infection rate."
+
+"Constantine is currently imaging the virus structure with the tunneling microscope to find a chemical kill-vector."
+
+Jason nodded, his fists clenching and unclenching.
+
+Lily stood beside him. She was usually the picture of composure, but today her face was pale. Her father, Dr. Roman, was still comatose in the isolation ward. Even though he wasn’t her biological father, he was the closest family she had.
+
+Jason sighed deeply. Keeping people at near-fatal fever levels was a stopgap measure. It treated the symptom, not the cause.
+
+While 60 degrees would kill the virus, it would also kill the host. The human body begins to shut down proteins at 42 degrees. 44 degrees is almost certainly fatal.
+
+"Can you speed it up?" Jason asked, knowing it was an unreasonable request but unable to stop himself.
+
+...
+
+Bio-Lab, Mars Base
+
+Despite the high-temperature sterilization of the facility, the staff had expanded to thirty researchers. The heat was sweltering, sweat pooling in their suits.
+
+"Protein analysis complete!" Dr. Wendy exclaimed from her workstation. "My god, look at the composition. The capsid contains significant metallic elements, lead and copper. It’s an organometallic shell!"
+
+"Technically, Dr. Wendy, it’s a viral capsid, not a cell wall..." a colleague corrected.
+
+"Oh," Wendy snapped. "This explains everything. The metallic shell allows them to absorb nuclear radiation for energy. Without it, the neutron flux from the uranium would shred their DNA. They’re naturally armored against radiation, but that metal makes them excellent conductors of heat, which is why they fry at high temperatures."
+
+"Exactly," another scientist agreed. "The uranium concentration here is high, likely mixed with plutonium and radon. They evolved to eat radiation, but they can’t handle a hot bath."
+
+"Alright, focus," Dr. Constantine interrupted. "We need a pharmacological agent that can breach that metallic shell without killing the patient. We’re on the clock."
+
+The team nodded and returned to work.
+
+Even with the heat cranked up, the risk of infection remained. They had to handle active samples and interact with patients. One slip of a glove, one micro-tear in a suit, and they would join the rows of the comatose.
+
+During the 2002 SARS outbreak, doctors in full hazmat gear still got infected. This Martian pathogen was far more aggressive. No one was safe.

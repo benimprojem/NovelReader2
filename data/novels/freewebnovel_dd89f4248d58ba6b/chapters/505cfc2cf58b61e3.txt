@@ -1,0 +1,127 @@
+Chapter 36: Nuclear Test
+
+"Professor Hao Yu, how much longer do you estimate this will take?" Jason asked. He was buried under a mountain of administrative work and responsibilities; as curious as he was, he couldn’t stand guard here indefinitely.
+
+"It’s hard to say precisely. At this rate, the assembly will probably take another five or six hours," Professor Hao Yu replied, wiping his brow. "After that, the warhead and the delivery rocket need to be integrated and packaged, a task for the ballistics team, not us. Finally, there will be ultrasonic structural testing. All in all, we’re looking at about two or three more days."
+
+Jason nodded thoughtfully. He picked up the design blueprints for the device and studied them for a moment. The file was as thick as a phone book, filled with dense data streams and complex schematics. With his current level of engineering knowledge, he could barely decipher the broad strokes, let alone offer constructive feedback.
+
+"Professor, isn’t this design a bit... over-engineered? Complexity usually introduces points of failure. Things that are too intricate often aren’t reliable."
+
+"Sigh, Commander, you must understand, the smaller the nuclear yield, the greater the engineering difficulty. Building a city-destroyer is actually quite simple..."
+
+Professor Hao Yu offered a bitter smile. "Time is limited, and our resources are scarce. Creating those 20-nanometer iron membranes was a necessity born of desperation. If I were building a standard megaton-class weapon and had unlimited funding, I certainly wouldn’t have chosen this architecture."
+
+Jason nodded, accepting the explanation. "By the way, once the Helium-3 device is complete, we’ll need to run a live fire test. There are specific protocols for this. You’re aware of them, right? Uh... anyway, when the request gets to my desk, don’t worry. I’ll fast-track the approval."
+
+For weapons of mass destruction, strict safety procedures remained in place, even at the end of the world.
+
+"Understood," Professor Hao Yu said. "I’ll submit the formal report tomorrow." He hesitated mid-sentence, then looked up, his eyes burning with anticipation. "Commander... if the detonation is successful, then my propulsion proposal..."
+
+He trailed off, but his gaze remained fixed on Jason.
+
+Jason couldn’t help but recall the professor’s "Gigaton-Class Helium-3 Nuclear Pulse Propulsion Plan." A murmur rose in his heart. *That plan... how should I put it? It’s absolute lunacy.*
+
+But then he thought of the stalling progress on the other survival projects. He finally made up his mind.
+
+"If this test succeeds, we will officially reopen the review board for your propulsion plan."
+
+"Then it’s a deal!" Professor Hao Yu exclaimed, his fatigue vanishing. "I’ve been refining that proposal for months. I guarantee it is foolproof!"
+
+---
+
+When Jason walked out of the laboratory, his mood was complicated. Although the concert earlier that night had successfully boosted morale, a massive weight still pressed down on his chest.
+
+The "Noah’s Ark" project was failing to meet expectations.
+
+Half the allotted time had already passed. Of the more than one hundred sub-projects required to build the colony ship, only half were on schedule. The other half were lagging critically behind. It wasn’t because the people were lazy, nor was it a lack of effort.
+
+It was a lack of energy.
+
+Due to time constraints, they hadn’t been able to construct additional nuclear fission plants. The current power grid was running at maximum capacity 24/7, but it simply wasn’t enough.
+
+Industrial production required massive amounts of electricity, particularly for the smelting of non-ferrous metals.
+
+On Earth, refining iron (Fe) or copper (Cu) from their ores is typically done through carbothermic reduction, heating the ore in the presence of carbon (coal/coke) to strip away the oxygen.
+
+But there is no coal on the Moon. Without carbon, they were forced to use electrolysis to refine metal, a process that consumes an enormous amount of electricity to break the chemical bonds.
+
+This gave Jason a headache. Without copper, they couldn’t make cables. Without iron, they couldn’t make rebar or hull plating. As a result, the internal construction of the colony ship was severely delayed. The raw ores were piled up like mountains in the storage yards, but they lacked the juice to process them.
+
+According to the morning briefing, the fabrication of the large-scale life support systems had barely begun. If the ship launched before these systems were installed, everyone would suffocate or freeze in the void.
+
+They had to find more power.
+
+Jason and Lily walked side by side through the corridor, both brooding over the same problem.
+
+Although the agricultural automation plan had been a success, freeing up a significant amount of energy, that surplus had already been allocated in the original budget. It was gone before it even arrived. They needed an unexpected windfall of energy to accelerate the lagging projects.
+
+But where could they find it?
+
+They could start dismantling the current Lunar Base to scrap the metal, but that was a measure of last resort. If they stripped their home bare before the ship was ready, where would people live?
+
+The only viable option was to cancel the original Hydrogen Bomb manufacturing program and replace it entirely with Helium-3 weapons.
+
+Manufacturing standard hydrogen bombs was an energy sink. Producing deuterium and tritium was incredibly troublesome. Deuterium had to be distilled from water, and then subjected to electrodeposition, heavy on energy consumption. Tritium was even harder to get, requiring slow breeding in nuclear reactors.
+
+A huge chunk of the base’s energy budget was currently dedicated to producing fuel for these bombs. If they could cut that, they could divert all that power to the smelters.
+
+Manufacturing Helium-3 bombs required almost no energy for fuel production because they already had nearly two thousand tons of Helium-3 in inventory. It was ready to use.
+
+This was the only way out. Jason could only silently pray that Professor Hao Yu’s device actually worked.
+
+---
+
+Three days passed quickly.
+
+Professor Hao Yu did not disappoint. A report quietly appeared on Jason’s desk:
+
+Application for Live Fire Testing of 1-Megaton Class Helium-3 Tactical Weapon.
+
+It was done.
+
+Jason felt a tremor of excitement. He flipped through the first few pages; the technical specs matched what he had seen in the lab, and the safety review board had already signed off. He grabbed his pen and scrawled a single word across the cover:
+
+APPROVED
+
+.
+
+The efficiency of the new provisional government was terrifyingly high. The approval was signed in the morning, and the test was scheduled for that same afternoon.
+
+Over a hundred observers gathered in the command center, including Jason, Professor Hao Yu, Leo, and the base’s top scientific minds.
+
+Everyone understood the gravity of this moment. If this succeeded, humanity would gain a weapon exponentially more powerful than anything in its previous arsenal. Furthermore, the feasibility of nuclear pulse propulsion would be confirmed.
+
+"I hereby announce that humanity’s first Helium-3 nuclear weapon test officially begins! The codename for this operation is
+
+Project Daybreak
+
+."
+
+Jason read the proclamation aloud as the clock ticked down.
+
+"This test is estimated to have a yield of 1 million tons of TNT. The target zone is the Acri Crater. All observation personnel, please prepare."
+
+Acri Crater was a desolate depression two thousand kilometers from the base. A detonation there would pose no risk to the base’s structural integrity or mining operations.
+
+At the command, the Helium-3 warhead, encased in a massive steel containment unit, was transported from the assembly plant to the launch pad roughly one hundred kilometers outside the base perimeter. A thirty-meter-tall tactical rocket stood waiting on the tower.
+
+"Launch vehicle ready."
+
+"Telemetry satellites locked."
+
+"Observation team in position."
+
+"All systems green. Awaiting final authorization."
+
+"Launch," Jason announced solemnly.
+
+He pressed the confirmation key. A ten-minute countdown timer appeared on the main screen. This was a mandatory safety buffer; within these ten minutes, the launch could be aborted at any second. An emergency instant launch was possible, but it required a 64-character alphanumeric code that only Jason possessed.
+
+Ten minutes... nine minutes...
+
+As the countdown progressed, the tension in the room thickened. Professor Hao Yu was practically vibrating. This bomb was the culmination of ten years of his life, his magnum opus. How could he not be nervous? His hands clenched and unclenched rhythmically, betraying his anxiety.
+
+"Ten, nine, eight, seven... three, two, one, zero!"
+
+On the screen, the rocket engines ignited, and the missile roared silently into the black sky.

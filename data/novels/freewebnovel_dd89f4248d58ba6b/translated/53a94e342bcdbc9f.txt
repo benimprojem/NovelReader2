@@ -1,0 +1,123 @@
+Bölüm 26: Yıldız Ateşi Projesi
+
+Jason'ın ofisinin kapısı Dr. Roman'ın arkasından tamamen kapanmamıştı ki tekrar açıldı.
+
+İçeri giren adam ufak tefek, zayıftı ve altmışlı yaşlarındaydı, saçlarının şakakları beyazlamıştı.Ama yaşlı bir adam gibi hareket etmiyordu;20'li yaşlarındaki genç bir adam gibi hareket ediyordu.
+
+O, Profesör Hao Yu'ydu.
+
+Eski dünyada Hao Yu savunma sanayisinin devlerinden biriydi.Ünlü FAA tipi kıtalararası balistik füzelerin ve DA serisi taktik nükleer savaş başlıklarının tasarımını denetledi.Medeniyetleri sona erdirmek için tasarlanmış şeyler inşa eden bir adamdı.
+
+Ancak çöküşten önceki barış çağında becerileri geçerliliğini yitirmişti.Hükümetler kıyamet silahı satın almayı bıraktı ve ay üsleri inşa etmeye başladı.Emekli olmayı reddeden Hao Yu, görünüşte reaktörün korunmasına yardımcı olmak için Ay'a gelmişti.
+
+Ama Jason gerçeği biliyordu.Hao Yu buraya enerji santralleri inşa etmeye gelmemişti.O, Ay'ın sahip olduğu ama Dünya'nın sahip olmadığı tek şey için gelmişti.
+
+Helyum-3.
+
+"Jason!"Hao Yu'nun sesi, küçük yapısının önerdiğinden çok daha yüksek sesle gürledi."Nükleer silah önerim onaylanmalı! Konsey korkaklarla dolu!".
+
+Jason haftalardır devam eden baş ağrısıyla mücadele ederek şakaklarını ovuşturdu."Profesör, özgeçmişinizi biliyorum. Ama konsey teorik olduğu için planınızı reddetti. Teorik için zamanımız yok."
+
+"Dünyalılar gibi düşündükleri için reddettiler!"Hao Yu, Jason'ın masasına bir veri tableti çarptı."Gemiyi hareket ettirmek için standart Hidrojen Bombalarını kullanmak istiyorlar. Güvenli. Kanıtlandı. Ve hepimizi öldürecek."
+
+Jason daha dik oturdu."Açıklamak."
+
+Hao Yu standart bir termonükleer reaksiyonun görüntüsünü yansıttı.
+
+Hao Yu hızlı bir şekilde konuşarak, "Standart füzyon Döteryum ve Trityum gerektirir" dedi."Döteryum kolaydır; onu sudan çıkarıyoruz. Peki Trityum? Bu bir kabus. Doğal olarak mevcut değil. Onu nükleer reaktörlerde üretmemiz gerekiyor."
+
+Hao Yu titreyen parmağını duvardaki elektrik şebekesi göstergesine doğrulttu.
+
+"Bir gram Trityumun enerji kredisi olarak 30.000 dolar maliyeti var. Orion Projesi için bir milyon tonluk gemiyi kaldırmaya yetecek kadar Trityum üretmek için, sırf yakıtı üretmek amacıyla reaktörlerimizi sekiz ay boyunca %100 kapasiteyle çalıştırmamız gerekir!".
+
+"Ama sekiz ayımız yok" dedi Jason yumuşak bir sesle.
+
+"Kesinlikle!"Hao Yu bağırdı."Eğer muhafazakar planı takip edersek, pahalı bir Trityum dağına ve güzel bir uzay gemimize sahip olacağız ve motor hazır olmadan iki ay önce hepimiz Ay'ın atmosferinde yanacağız."
+
+"Yani," dedi Jason öne doğru eğilerek."Helyum-3'ü kullanmak istiyorsun."
+
+"Depoda bekleyen bin tonumuz var!"Hao Yu'nun gözleri bir fanatiğin ışıltısıyla parladı."Bu, oksijen madenciliğimizden kaynaklanan bir atık ürün. Orada duruyor ve bizi bekliyor."
+
+Jason verilere baktı.Helyum-3 temiz enerjinin Kutsal Kâsesiydi.İki proton ve bir nötrondan oluşan bir izotop, kaynaştığında radyasyon üretmiyordu.
+
+"Ama bir sorun var, değil mi?"Jason sordu."Kolay olsaydı zaten yapıyor olurduk."
+
+"Tutuşma sıcaklığı" diye itiraf etti Hao Yu, ancak güveni sarsılmadı."Helyum-3 inatçıdır. Ateşlenmesi için 100 milyon dereceye ihtiyacı vardır. Standart bir atom bombası tetikleyicisi yalnızca 50 milyon dereceye ulaşır.".
+
+Jason, "Yani sigortayı ateşleyemezsin" dedi."Bu da yakıtı işe yaramaz hale getiriyor."
+
+"Ben yakabilirim" diye ısrar etti Hao Yu."Daha büyük bir maça ihtiyacım var."
+
+Fizikçi konsola dokunarak yeni bir şemayı ortaya çıkardı.Rus iç içe geçmiş yıkım oyuncağına benziyordu.
+
+[SİLAH PLANI ÖNERİSİ: TİP-Z "YILDIZ ATEŞİ"]* Aşama 1: Fisyon Tetikleyicisi (Atom Bombası)
+
+* Aşama 2: Füzyon Sürücüsü (Standart Hidrojen Bombası)
+
+* Aşama 3: Birincil Yük (Helyum-3)
+
+* Tah.Verim: 1,0 Gigaton (1.000 Megaton)
+
+"Üç aşamalı bir çağlayan" diye açıkladı Hao Yu, sanki patlamayı havada şekillendiriyormuş gibi elleri hareket ediyordu."Hidrojen Bombasını yakmak için küçük bir Atom Bombası kullanıyoruz. Hidrojen Bombası Helyum-3'ü ateşleyecek ısıyı üretiyor. Ve Helyum-3... bize bir yıldızın gücünü veriyor.".
+
+Jason sayılara baktı."Gigaton mu?"
+
+Hao Yu, "Termonükleer silahların teorik bir üst sınırı yoktur" dedi."Dünyadaki 'Çar Bombası' 50 megatondu. Şok dalgası dünyayı çevreledi.
+
+gezegen üç kez
+
+.Yirmi kat daha güçlü bir şey inşa etmek istiyorum."
+
+"Bir bomba mı?"Jason sordu.
+
+Hao Yu, "Bizi yörüngeye fırlatacak bir bomba. Sonra rotayı düzeltmek için geleneksel iticileri kullanırız" dedi."Bir ton Helyum-3, 75 megaton TNT'ye eşittir. Bir Gigaton savaş başlığı inşa etmek için yalnızca 13,3 ton gaza ihtiyacım var."
+
+Oda sessizliğe gömüldü.
+
+Bu delilikti.Daha büyük bir ateş yakmak için Hidrojen bombasını sadece kibrit çöpü olarak kullanmak.Bu, ayı ikiye bölebilecek türden bir silahtı.
+
+Ama mantık tuttu.Bol miktarda Helyum-3 vardı.Bunu üretmeleri gerekmiyordu;sadece onu ateşlemeleri gerekiyordu.Enerji krizini çözdü.Zaman krizini çözdü.
+
+Jason alçak bir sesle, "Bu bir kumar," dedi.
+
+"Öyle." Hao Yu ciddiyetle başını salladı."Teoriyi test etmek için atomik bir tetikleyiciye ihtiyacım var. Zenginleştirilmiş uranyuma ihtiyacım var."
+
+"Fazla uranyumumuz kalmadı, Profesör. Eğer onu size verirsem ve bu başarısız olursa..."
+
+Hao Yu cümlesini "O halde standart tahrikli bombaları yapmak için yeterli malzememiz kalmadı." diye tamamladı."Başarısız olursam burada sıkışıp kalırız. Ölürüz."
+
+Kıyametin klasik ikilemiydi bu.
+
+Muhafazakar Plan: Yavaş, güvenli teknoloji, ancak matematiksel olarak çok geç olması garantili.
+
+Radikal Plan: Hızlı, ucuz, sonsuz güç, ama daha önce hiç test edilmemiş bir teknolojiye dayanıyor.
+
+Jason yaşlı adama baktı.Hao Yu bir politikacı değildi.O, hayatını dehasına yetecek kadar büyük bir savaşı bekleyerek geçirmiş bir silah ustasıydı.
+
+"Ne kadardır?"Jason sordu.
+
+Hao Yu, gerçekte olduğu gibi bir asker gibi hazırda durarak, "Tek tetikleme için bana uranyumu ver" dedi."İki ay içinde sana çalışan bir prototip vereceğim. Bunu hayatım pahasına garanti ederim.".
+
+Jason gözlerini kapattı.Yemekhanede lahana yiyen elli bin kişiyi düşündü.Düşen Ay'ı düşündü.
+
+Güvenlik bir yanılsamaydı.Zaman onların tek gerçek düşmanıydı.
+
+Jason gözlerini açtı.Çakmaktaşı kadar serttiler.
+
+Jason, "Personeli ben tahsis edebilirim" dedi."Fakat size yalnızca bir test cihazına yetecek kadar bölünebilir malzeme verebilirim. İkinci şans yoktur, Profesör."
+
+"Tamamlamak!"Hao Yu bağırdı, yüzü heyecandan kızardı.
+
+Jason elini metal masaya vurdu, ses silah sesi gibi yankılanıyordu.
+
+"Eğer işe yararsa konseyi Gigaton planını benimsemeye zorlayacağım. Yapın.".
+
+Profesör Hao Yu, insanlık tarihinin en büyük bombasını yapmak için odadan dışarı fırlarken, Jason pencereye dönüp karanlık, sessiz kratere baktı.
+
+Tek bir zar atışına tüm insan ırkına bahse girmişti.
+
+------
+
+["Yıldız Ateşi" Projesi Başlatıldı.]
+
+[Kritik Yörünge Bozulmasına Kadar Süre: 5 Ay, 29 Gün.]

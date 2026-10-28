@@ -1,0 +1,119 @@
+Chapter 68: The Mega Deposit
+
+In the blink of an eye, two months had passed.
+
+On November 17th of the New Human Era, the first viable batch of the Martian virus vaccine was successfully synthesized. This marked humanity’s definitive victory over the alien pathogen!
+
+The research teams discovered that exposing the human immune system to specific, heavily irradiated strains of the inactivated virus could induce a mild, permanent immune response. For a civilization that was now constantly on guard, this baseline immunity was all they needed to prevent another catastrophic outbreak.
+
+The biological teams remained deeply fascinated by the Martian lifeforms. They concluded that these microorganisms occupied a bizarre evolutionary gray area between viruses and bacteria. It challenged terrestrial biological paradigms and sparked entirely new avenues of scientific theory. Their research would continue indefinitely.
+
+Meanwhile, the rest of the fleet had not been idle. The Federation Government(New Human Government) had begun drafting massive industrial plans, and geological survey teams had been scouring the Martian surface around the clock.
+
+Good news poured in daily. Not only had they located a super-massive uranium deposit near the Martian North Pole, but they had also mapped out rich veins of iron, aluminum, copper, and titanium. Crucially, these were all surface-level, open-pit deposits, making extraction incredibly efficient.
+
+Mars was proving to be a treasure trove of raw materials. They had definitely come to the right place!
+
+"Did you see? The official geological survey report was just declassified. The estimated reserves of that northern uranium deposit exceed 1.06 million tons! And the quality is staggering; the vast majority is high-grade ore with 0.5% to 1% enrichment, with peak concentrations exceeding 2%."
+
+In the mess halls and laboratories, scientists huddled together, eagerly discussing the findings. They frequently exclaimed in surprise, genuinely moved by the sheer geological wealth of their new home.
+
+"Captain is going to authorize massive industrial expansion this time! We’re just waiting for the final governmental blueprints."
+
+Eyes gleamed with fervent excitement; a collective restless energy gripped the populace.
+
+This was a profound, desperate hunger for industrial security. After narrowly surviving several existential crises, everyone desperately wanted their civilization to become stronger, more resilient, and self-sufficient.
+
+"I heard the Government is already greenlighting the mass production of heavy-duty nuclear power modules. Once the new reactors are online, we can really kick things into high gear."
+
+"Exactly. Power is the bottleneck. The new directive is to push our total nuclear generation capacity to 30 gigawatts. That’s triple our current output!"
+
+Thirty gigawatts! To put that in perspective, that was enough power to sustain a massive, pre-collapse Earth metropolis with a population in the tens of millions! (Like Peak demand of entire New York State)
+
+Discussing these figures, the scientists couldn’t help but feel a swell of pride. They had actively participated in drafting these grand blueprints for the future.
+
+These ambitions didn’t just belong to Jason; they belonged to all of them. They belonged to the entire Federation.
+
+Aboard The Noah, despite a population of only 50,000, the energy drain was astronomical. Maintaining the life-support systems, and the onboard industrial manufacturing sectors required a massive, constant power supply.
+
+When the original Lunar Base had been constructed, it was designed for partial self-sufficiency, capable of independently producing many daily necessities. For instance, everyday plastics were synthesized from inorganic methane, and items like paper or tissues were actually manufactured from specialized, recyclable polymers designed to mimic the feel of cellulose.
+
+These materials could be easily sorted, broken down, and endlessly recycled.
+
+When humanity evacuated, they brought the core Lunar industrial factories aboard The Noah. Running these base industries alongside the critical life-support systems typically consumed between 2 to 4 gigawatts of power and that was before factoring in heavy manufacturing.
+
+The Noah’s primary reactor grid had a maximum safe output of roughly 11 gigawatts, with nuclear fission accounting for 70-80% of that total. It had been more than sufficient for deep space transit.
+
+However, the Government now intended to massively expand surface production. The power demands for large-scale metallurgical smelting and the fabrication of heavy machinery were immense. The original 11-gigawatt ceiling was no longer enough; they had to build new terrestrial reactors.
+
+But that was a problem for tomorrow. Right now, thanks to the defeat of the virus and the discovery of the mega-deposits, the master colonization plans were being aggressively rewritten. The logistics involved were staggeringly complex.
+
+The Noah, Captain’s Quarters
+
+Jason sat at his desk, carefully reviewing a massive data packet. It was the finalized, highly detailed geological survey of a 100,000-square-kilometer sector of the Martian North Pole, a project that had taken two grueling months to complete.
+
+It cataloged a dizzying array of mineral resources. This untouched, red planet was incredibly tempting.
+
+"1.06 million tons of recoverable uranium reserves? Is this a typo?" Jason asked, his brow furrowing in disbelief as he stared at the summary screen.
+
+Based on Earth’s historical mining data, finding a single deposit with a few tens of thousands of tons was considered a major windfall. Over a million tons in one concentrated area seemed mathematically impossible.
+
+"I assure you, Captain, it is not a typo. We have independently verified the core samples multiple times. Frankly, we couldn’t believe it either... But realistically, 1.06 million tons is a conservative estimate. The actual yield will likely be higher!"
+
+The man answering him was Dimo, a brilliant young geologist originally from the Indian Subcontinent, now a proud citizen of the New Federation.
+
+Dimo leaned forward, his voice vibrating with raw enthusiasm. "We hypothesize that this mega-deposit was formed by Mars’s unique, ancient tectonic movements. On Earth, regions like Australia had rich uranium resources, but the sheer concentration density doesn’t even come close to this. Captain, this single deposit is worth more than the GDP of an entire pre-collapse medium nation!"
+
+($760 Billion dollar)
+
+"If we can extract this deposit, we yield 1.06 million tons of raw uranium! Even factoring in the natural isotopic ratio of 0.72%, we can refine roughly 7,600 tons of pure Uranium-235!"
+
+"7,600 tons, Captain! Do you understand the sheer scale of that? It’s enough fission material to power our entire civilization for centuries! Centuries!"
+
+Dimo’s eyes were bloodshot, and he was practically shouting. He was so agitated it looked as if he feared the uranium might get up and walk away if they didn’t start digging that very second.
+
+A geologist foaming at the mouth to start strip-mining. It was a funny sight.
+
+Jason offered a wry smile. These scientists were hyper-fixated on their specific fields; once they caught the scent of a breakthrough, they developed severe tunnel vision.
+
+Lately, however, this fanatical drive had been spreading from the labs into the general civilian population.
+
+Passion is a good thing. We need that drive to survive
+
+, Jason thought.
+
+He didn’t hesitate. He grabbed a stylus and began running the numbers on his datapad. The underlying physics calculations weren’t terribly complex.
+
+Uranium (Atomic number 92, Symbol U) is the primary fuel for nuclear fission, utilized for both power generation and atomic weaponry.
+
+Uranium-238, which makes up over 99.2% of natural uranium, is difficult to utilize in standard reactors. The highly sought-after isotope is Uranium-235, which accounts for a mere 0.72% of the raw material.
+
+When a single Uranium-235 atom undergoes fission, it releases an average of 200{ MeV} of nuclear energy. For a nuclear power grid generating 30 gigawatts of electricity, assuming a standard thermal-to-electrical conversion efficiency of 40%, the daily fuel consumption...
+
+Jason tapped the final equation. ...requires only 79.05 kilograms of Uranium-235 per day.
+
+Just under 80 kilograms of fuel to power a civilization for 24 hours!
+
+Extrapolating that out, The Noah and its expanding surface colonies would only burn through roughly 29 tons of Uranium-235 per year.
+
+At that burn rate, 7,600 tons of refined U-235 would sustain humanity for 262 years!
+
+Over two and a half centuries of guaranteed energy. Jason couldn’t help but marvel at the terrifying efficiency of nuclear physics.
+
+Furthermore, if their engineering teams could eventually design and construct advanced "fast-neutron breeder reactors," they could begin utilizing the millions of tons of U-238 waste material. If they unlocked that technology, humanity wouldn’t have to worry about an energy crisis for tens of thousands of years.
+
+Staring at the final calculation, a fire ignited in Jason’s chest. He stood up abruptly. "Dr. Dimo, you have my word. The development of the northern uranium infrastructure is now our absolute top priority!"
+
+After finally managing to usher the hyperactive geologist out of his office, Jason allowed himself a moment of uncharacteristic excitement, punching the air in his empty quarters.
+
+The Federation no longer had to worry about energy! The relief was intoxicating.
+
+Back on Earth, civilization had still been heavily reliant on fossil fuels, supplemented by solar, wind, hydro, and nuclear power. But on Mars? There were no ancient forests to compress into coal; there were no oceans of crude oil. They were entirely reliant on nuclear fission. Solar power simply couldn’t generate the massive industrial baseload they required.
+
+While they had brought a stockpile of refined uranium from the Lunar Base, it hadn’t been a massive amount. Even with strict rationing, their reserves would have run dry in a decade. If they had been forced to run the reactors at maximum capacity for heavy industry, they would have depleted their fuel in three to four years.
+
+That impending energy crisis had been a dark cloud hovering in the back of everyone’s minds. Recent events had simply overshadowed it with more immediate threats. But it had always been there, a ticking clock counting down to total blackout.
+
+Now, the planet had practically handed them two and a half centuries of time. It was like a man dying of thirst in the desert suddenly stumbling into a massive, pristine underground reservoir.
+
+Jason finally understood Dimo’s fanaticism. Faced with a gift of this magnitude, the urge to start digging immediately was impossible to resist.

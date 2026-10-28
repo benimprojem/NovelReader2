@@ -1,0 +1,157 @@
+Bölüm 23: Orion Projesi
+
+Brifing odasındaki sessizlik uzun sürmedi.Felix'in az önce söylediklerinin farkına varılması odadaki üç bin seçkinin üzerine çökünce sessizlik bozuldu.
+
+Oda patladı.Bu, bilimsel bir konferansın kibar alkışı değildi;saf, histerik baskının serbest bırakılmasıydı.Yetişkin adamlar yumruklarını çelik masalara vuruyorlardı.Mühendisler biyologlara sarılıyordu.Bazıları yüzlerini ellerine gömerek açıkça ağlıyordu.
+
+Bu odaya, kendilerine altı ay ömür veren çürüyen bir yörünge olan ölüm cezasıyla karşı karşıya kalarak girmişlerdi.Hile koduyla çıkıp gidiyorlardı.
+
+Jason masanın başına oturup kaosu izledi.Tezahürat yapmadı ama dudaklarındaki sırıtışı gizlemek için burnunu ovuşturdu.Stratejik değerini hemen anladı.
+
+Bu bir "Envanter"di.
+
+Geleneksel uzay yolculuğunda roket denkleminin zorbalığı mutlaktı: Daha fazla ağırlık kaldırmak için daha fazla yakıta ihtiyacınız vardı.Bu yakıtı kaldırmak için *daha fazla* yakıta ihtiyacınız vardı.Bu, insanlığı yerçekimi kuyularına hapseden bir kısır döngüydü.
+
+Ancak bu Uzaylı Gemisi döngüyü kırdı.
+
+1.0386 milyon ton.
+
+Bu sihirli sayıydı.Kargo ambarlarına elli bin kişiyi, on milyon ton toprağı ya da kelimenin tam anlamıyla bir okyanus dolusu suyu yüklemeleri önemli değildi.Motorların yalnızca 1,0386 milyon tonu itmesi gerekecekti.
+
+"Sessizlik!"Jason sonunda havladı, güçlü sesi gürültüyü yarıp geçti."Durulmak!"
+
+Coşku yavaşça azaldı, yerini problem çözmenin uğultulu enerjisi aldı.
+
+Jason ayağa kalkarak, "Bir açığımız var" dedi."Fakat hala bir fizik sorunumuz var. Ay büyüklüğünde bir nesne için bir milyon ton hafiftir, ancak bir uzay gemisi için inanılmaz derecede ağırdır."
+
+Ekranı işaret etti."Zafer, insan mühendisliğinin zirvesidir. Ana iticileri 5.000 tonluk itme kuvveti üretiyor. Bu gemiyi hareket ettirmek için, ataletle mücadele etmek için 1.000.000 tonluk itme kuvvetine ihtiyacımız var."
+
+Odadaki gülümsemeler azaldı.
+
+Jason soğuk bir tavırla, "Altı ayda iki yüz Victory sınıfı motor üretecek endüstriyel kapasiteye sahip değiliz" dedi."Arabamız var ama motorumuz yok."
+
+Oda yeniden sessizliğe büründü.Gerçeklik kontrolü gelmişti.İtemeyecekleri devasa bir uzaylı eseriyle birlikte Ay'da mahsur kalmışlardı.
+
+"aslında...bir yol var."
+
+Baş Fizikçi Felix öne çıktı.Gözleri manik, tehlikeli bir ışıkla parlıyordu.
+
+Felix, ana ekrana yeni bir şematik göstermek için veri tablasına dokunarak, "Geleneksel roketlere ihtiyacımız yok" dedi."Kaba kuvvete ihtiyacımız var. İnsanlığın şimdiye kadar ustalaştığı en şiddetli enerji kaynağına ihtiyacımız var."
+
+Ekranda bir görüntü belirdi.Şık bir bilim kurgu iticisi değildi.Kaba, çirkin ve korkutucuydu.
+
+[Orion Projesi]
+
+Felix "Nükleer Darbeli Tahrik" diye duyurdu.
+
+Odaya bir şok dalgası yayıldı.
+
+Felix hızla, "Bu yeni bir fikir değil," diye açıkladı, sözleri ağzından dökülüyordu."Amerikalılar bunu 1958'de önerdi. Konsept basit: Geminin arkasından atom bombaları atıyoruz ve onları patlatıyoruz. Şok dalgasını sürüyoruz."
+
+"Sen deli misin?"bir biyolog arkadan bağırdı."Radyasyon! G kuvveti! Mürettebatı jöleye çevireceksiniz!"
+
+"Hayır, yapmayacağım," diye karşı çıktı Felix, Uzaylı Gemisi'nin şemalarını işaret ederek."1958'deki proje Dünya'nın atmosferindeki serpinti nedeniyle başarısız oldu. Ama bakın neredeyiz! Dünya öldü. Uzay bir boşluk. Kirlilik artık önemli değil."
+
+Felix, Jason'a döndü."Kaptan, bu gemi Orion için yapıldı."
+
+"Açıkla" dedi Jason.Felix iki parmağını kaldırarak "İki sebep" dedi."Birincisi: İtici Plaka. Orijinal tasarımda, nükleer patlamayı absorbe etmek için devasa bir çelik plaka inşa etmeleri gerekiyordu. Ancak Uzaylı Gemisi'nin gövdesi yok edilemez. Otuz yıl boyunca onu lazerler ve elmas matkaplarla tek bir çizik bile almadan vurduk. Gövde mükemmel bir itici plaka."
+
+"İkincisi: G-Force."Felix geminin iç yapısının şemasına dokundu."Bu bir mucize. Geminin dahili bir çekim alanı var. Testlerimiz, dış kinetik kuvvetlerin iç hacme aktarılmadığını gösteriyor."
+
+Felix kalabalığa bakıp sırıttı."Atalete meydan okuyor. Gemi hızlanıyor ama iç referans çerçevesi sabit kalıyor. Arkamızda ve içimizde devasa bir bombayı patlatabiliriz... kahveniz bile dalgalanmaz."
+
+Jason arkasına yaslandı.Bu delilikti.Çok güzeldi.
+
+"Mekanik mi?"Jason sordu.
+
+Felix, "Arka şarjörü nükleer şekilli patlayıcılarla dolduruyoruz" diye açıkladı."Bir üniteyi fırlatıyoruz. Arkasından hidrojen açısından zengin plastikten oluşan katı disklerden oluşan bir reaksiyon kütlesi fırlatıyoruz. Nükleer bomba patlıyor. Plastik buharlaşarak yüksek hızlı plazmaya dönüşüyor. Plazma gövdeye çarpıyor."
+
+Felix ekranda bir rakamı göstererek, "Hesaplamalarımıza göre," dedi."Mars'a 125 gün var. Bu yolculukla sadece topallamıyoruz. Tüm yolu hızla koşuyoruz."
+
+Bilim adamları artık başlarını sallıyorlardı.Matematik işe yaradı.Uzaylı süper yapılarının olduğu bir dünyada, nükleer patlamalara binmek tek mantıklı tepki gibi geliyordu.
+
+"Ancak," Felix'in sesi alçaldı."Tedarik sorunumuz var"
+
+Coşkulu atmosfer anında buharlaştı.
+
+"Cephane," dedi Felix sertçe."Binlerce darbe ünitesine ihtiyacımız var."
+
+Austin, Jason'ın yanından "Cephanelikte üç taktiksel nükleer silahımız var" dedi."Üç."
+
+Felix, "Binlere ihtiyacımız var" diye tekrarladı."Atom Bombası yapmak için zenginleştirilmiş Uranyum-235'e ihtiyacımız var. Bu da binlerce santrifüjün 7/24 çalışmasını gerektirir. Çok yavaş."
+
+Felix, "Hidrojen bombaları daha iyi" diye devam etti."Daha fazla güç, daha az kütle. Ama Trityum'a ihtiyaç duyuyorlar."
+
+"Trityum..." Bir mühendis inledi."Maliyetini biliyor musun? Gramı otuz bin dolar. Bir nükleer reaktörde Lityum-6'yı bombalayarak onu üretmemiz gerekiyor."
+
+Felix doğrudan Jason'a bakarak, "Elektriğe ihtiyacımız var" dedi."Sürücüye yetecek kadar Trityum üretmek için, büyük miktarlardaki gücü parçacık hızlandırıcılara ve reaktörlere yönlendirmemiz gerekiyor. Gigawatt'lara ihtiyacımız var."
+
+Başka bir mühendis ayağa kalkarak, "Yönlendirme için kimyasal iticilere de ihtiyacımız var" diye bağırdı."Milyon tonluk bir gemiyi nükleer silahlarla yönlendiremezsiniz! İnce kontrole ihtiyacımız var! Binlerce ton yüksek kaliteli yakıta ihtiyacımız var!"
+
+"Ve binekler!"diye bağırdı bir metalurji uzmanı."Harici teçhizat için titanyum-alüminyum alaşımına ihtiyacımız var. İzabe tesislerini hızlandırmamız gerekiyor!"
+
+Oda kaosa sürüklendi.
+
+"Hidroponik için güce ihtiyacım var!"Dr. Roman kendi bölgesini savunarak bağırdı."Eğer gücü fizikçilere verirseniz, daha yola çıkmadan açlıktan ölürüz!"
+
+"Eğer fırlatmazsak düşeriz!"Felix çığlık atarak karşılık verdi.
+
+"Titanyum!"
+
+"Lityum!"
+
+"Güç!"
+
+Talepler dağ gibi yığıldı.Üs zaten kırmızı çizgideydi.Işıkların açık kalması ve havanın solunabilir olması için her makine maksimum kapasitede çalışıyordu.
+
+BAM
+
+.
+
+Jason elini tekrar masaya vurdu.Titreşim su bardaklarını sarstı.
+
+"Yeterli!"
+
+Bağırışlar kesildi.
+
+Jason ayağa kalktı.Yorgun görünüyordu."İnsanüstü Lider"in halesi omuzlarında ağırlaştı.Jason alçak ve tehlikeli bir sesle, "Takımlarınızın yanına dönün," diye emretti."Somut planlar hazırlayın. İstek listeleri istemiyorum. Lojistik istiyorum. Tam olarak kaç gram Trityum, kaç ton çelik ve kaç watt güç olduğunu bilmek istiyorum."
+
+"Her şeyde eksiğimiz var; su, elektrik, zaman. Önemli olan tek şey verimlilik. Kaynakları israf ederseniz bizi öldürürsünüz."
+
+"Görevden alındı."
+
+Bilim adamları imkansız matematiğe başlarken veri pedleri parlayarak odadan dışarı çıktılar.
+
+Jason onların gidişini izledi.Austin'e görevi devralmasını işaret etti, sonra dönüp yan kapıdan dışarı çıktı.
+
+En yakın tuvaleti bulup kapıyı kilitledi.
+
+Lavaboya eğilip yüzüne soğuk su çarptı.Su geri dönüştürüldü, hafif bir kimyasal kokusu vardı ama şok işe yaradı.
+
+Aynada kendine baktı.Gözleri kan çanağına dönmüştü.Onu bir süper asker yapan gelişmiş metabolizma, enerji rezervlerini, tayınların yenileyebileceğinden daha hızlı tüketiyordu.
+
+Cebine uzanıp buruşuk bir sigara paketi çıkardı.Bir tane kalmıştı.
+
+Derin bir nefes çekerek yaktı.Duman ciğerlerini yaktı ve onu toprakladı.
+
+Duruşmadan beri geliştirdiği sinirli bir alışkanlık olan saçlarını taramak için elini kaldırdı.
+
+Elini çekti.
+
+Parmaklarının etrafına sarılı birkaç tel siyah saç vardı.
+
+Jason onlara baktı.
+
+O bir Süper İnsandı.Hücreleri normal bir insandan üç kat daha hızlı yenilendi.Bin beş yüz yıl yaşaması gerekiyordu.
+
+Stres
+
+diye düşündü saçını lavaboya atarken.
+
+Ölümsüzlüğün bile bir kırılma noktası vardır.
+
+Sigarasını bitirdi, izmaritini ezdi ve üniformasını düzeltti.
+
+Binlerce nükleer silaha ihtiyaçları vardı.Altı ayları vardı.
+
+"En kötü ihtimalle ölürüz," diye fısıldadı Jason yansımasına.

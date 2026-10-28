@@ -1,0 +1,109 @@
+Chapter 122: Signals from Outer Space
+
+Just as humanity’s era of explosive technological advancement was gaining momentum, something entirely unexpected occurred...
+
+Far beyond the inner planets, in the frigid abyss of the Oort Cloud.
+
+Astronomers generally understand the Oort Cloud to be a massive spherical shell of icy debris, the remnant material left over from the formation of the Sun and its planets five billion years ago. It serves as the birthplace of long-period comets. Stretching from roughly 50,000 to 100,000 astronomical units away from the Sun, its outer edge lies nearly a light-year away, almost a quarter of the distance to Proxima Centauri.
+
+At this extreme distance, the Sun is nothing more than a particularly bright star, its light faint and cold.
+
+Even light itself takes over a year to travel from the inner system to this desolate frontier. Consequently, the comets born here take millions of years to complete a single orbit, remaining invisible to human observers until they plunge inward, hundreds of millions of kilometers closer to the Sun.
+
+But at this very moment, something else was moving through the Oort Cloud.
+
+A colossal spacecraft, measuring approximately 150 kilometers in diameter, was tearing through the void. If a human physicist had been present to observe it, they would have been paralyzed with shock: the vessel was traveling faster than the speed of light!
+
+Its massive hull was enveloped in a shimmering, bubble-like membrane that caused the faint starlight around it to bend and distort in impossible ways. It was hurtling directly toward the inner Solar System at a velocity far exceeding standard physics!
+
+This faster-than-light (FTL) motion did not technically violate any known laws of relativity; the most accurate human term for it would be "warp drive."
+
+A warp drive propels a vessel forward by altering the curvature of spacetime itself, compressing space in front of the ship and expanding it behind. It is essentially the movement of space, not the ship. Like a person standing perfectly still on a rug; if someone pulls the rug, the person moves forward. The physics of moving spacetime, however, are infinitely more complex. Because the ship remains locally stationary within its enclosed warp bubble, it bypasses the relativistic mass-dilation effects that make accelerating to light-speed impossible. Thus, theoretically, a warp drive can achieve any velocity.
+
+This was the holy grail of human science fiction, fully realized and operational in this leviathan spacecraft. If the Noah’s science division could study it, it would trigger a frenzy of research that would change humanity forever!
+
+For an advanced interstellar civilization, FTL travel was the ultimate defense mechanism, primarily because of the extreme sensory confusion it caused for any observers.
+
+Attempting to track an FTL vessel using standard light-based sensors yielded bizarre, contradictory results:
+
+If an observer watched the vessel moving directly away from them, they would see it receding at exactly the speed of light. However, extreme Doppler shifting would stretch the light waves so severely that the ship’s visual signature would redshift into near-invisibility.
+
+If viewed from a perpendicular angle, the phenomenon became even stranger. Depending on the exact angle and velocity, the ship’s image would be stretched into a bizarre, elongated blur, smearing across the void like an infinite ribbon of light. If the vessel was moving significantly faster than light, the observer would see a series of disconnected, strobing points that slowly blurred together.
+
+These were the only ways to "see" a warp ship, and both required incredibly specific viewing angles.
+
+The most terrifying aspect? If an observer stood directly in the ship’s path, they would see absolutely nothing. The vessel was moving faster than the photons reflecting off its hull. It was outrunning its own image!
+
+Only after the ship had already passed the observer would the light finally reach them. In a fleeting, phantom moment, they would see the ship fly past them at the speed of light, while simultaneously, a secondary "ghost" image would appear to fly backward along the trajectory, like a video playing in reverse!
+
+While it seemed like time travel, it was merely an extreme parallax illusion caused by superluminal speeds. The observer wasn’t seeing the ship itself, but rather a delayed, distorted projection of its light.
+
+Because the ship outpaced its own light, the photons emitted most recently reached the observer’s eyes first, followed by the older photons. The resulting image was a continuous, paradoxical projection of the ship moving backward.
+
+These bizarre optical effects meant that tracking an FTL vessel with conventional light-based sensors was impossible. They were ghosts in the void.
+
+This informational distortion was the greatest tactical advantage an interstellar civilization could possess. You could never know exactly where an FTL ship was... unless you possessed superluminal sensors of your own!
+
+The massive black vessel continued its silent plunge through the Oort Cloud for a considerable distance before the shimmering membrane suddenly collapsed. It violently dropped out of warp, decelerating to sub-light speeds.
+
+Only then did its true condition become visible. The 150-kilometer-long ellipsoid was heavily battle-scarred. Its pitted, black armored surface sparked with massive electrical discharges. The moment it breached the light-speed barrier and entered real space, a violent, secondary explosion tore through its rear section.
+
+Perhaps that was the exact reason it had so desperately fled into the Solar System...
+
+...
+
+Meanwhile, back on Mars
+
+Professor Thomson, who oversaw the Noah’s deep-space telemetry arrays, suddenly noticed an anomalous fluctuation on his primary monitors.
+
+It was a faint, highly rhythmic radio wave. He frowned, leaning closer to the screen. He immediately doubted it was human in origin; the signal was far too structured to be random cosmic background noise.
+
+Astronomy was a heavily subsidized department under the Federation’s new R&D budget. There were even ambitious blueprints to construct a massive, kilometer-wide radio telescope array on the Martian surface! However, due to severe labor shortages, the project remained purely theoretical.
+
+For now, they relied on a moderately sized radio dish salvaged from the old Lunar Base, which Thomson managed from his cramped observatory lab.
+
+He meticulously analyzed the waveform. The transmission wasn’t very long, but it possessed all the hallmarks of artificial intelligence. Six of the data packets were perfectly consistent, flanked by two repeating header bands. It looked exactly like a string of encrypted data code.
+
+Thomson and his graduate assistant, Timothy, immediately ran the signal through every decryption algorithm in the human database. None of them worked.
+
+"The architecture doesn’t match any known terrestrial encoding," Thomson muttered to himself, rubbing his chin. "How strange. Is it just corrupted static, or is it heavily encrypted?"
+
+Suddenly, Timothy shouted, pointing a shaking finger at his terminal. "Professor! It’s back! The signal is broadcasting again!" As the data cascaded down his screen, Timothy’s eyes widened in sheer disbelief.
+
+Thomson rushed over. The telemetry array was being flooded with a massive, continuous burst of encoded data! It wasn’t just a brief ping like before; it was a dense, overwhelming data dump... equivalent to seventy-three pages of raw text!
+
+Seventy-three pages!
+
+Both men stared at the monitors, utterly paralyzed. What in God’s name was this?
+
+Thomson’s fingers flew across his keyboard, frantically trying to triangulate the source. While he couldn’t pinpoint the exact coordinates, the telemetry data confirmed one terrifying fact: the signal was originating from somewhere far beyond the orbit of Pluto!
+
+A highly structured, artificial radio broadcast from deep space. What did that mean?
+
+Their hearts pounded against their ribs. Timothy turned to his mentor, his face ashen. "Professor... did the aliens come back for revenge?"
+
+"Don’t talk nonsense!" Thomson snapped, his hands trembling violently as he authorized an immediate override. He drafted a frantic summary report and slapped a "
+
+CRITICAL EMERGENCY
+
+" tag on it, sending it directly to the central administration.
+
+...
+
+The moment Jason received the encrypted alert in his quarters, his heart skipped a beat, and a wave of vertigo hit him. In a split second, a dozen apocalyptic scenarios flashed through his mind, and cold sweat beaded on his forehead.
+
+What did this signal mean? Was it a peaceful first contact, or an invasion fleet?
+
+Jason bit his lip hard, using the pain to force down his rising panic. Although the Federation had enjoyed six months of unprecedented technological growth, they hadn’t even fully reverse-engineered one percent of the Precursor technology. If they were about to face a fully operational interstellar civilization, humanity would be swatted out of the sky like a gnat.
+
+Even with the jury-rigged alien weapons they had mounted on the Noah, they might manage to scratch the enemy’s paint before being utterly annihilated.
+
+"Initiate an Alpha-Level Emergency Session!" Jason barked into his comms unit, activating the general alarm. He began issuing rapid-fire orders as he sprinted toward the command center.
+
+"Reroute all auxiliary power to the deep-space telemetry arrays! Maximize sensor gain!"
+
+"Enact immediate radio silence! Shut down all active broadcasts and visible light emissions across the colony! Recall all surface drones!"
+
+"Get every available cryptographer to the war room immediately. I want that signal deciphered yesterday!"
+
+"And... find Calvin and get him up here now!"

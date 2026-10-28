@@ -1,0 +1,133 @@
+{
+  "id": "freewebnovel",
+  "name": "FreeWebNovel",
+  "domain": "freewebnovel.com",
+  "enabled": true,
+  "selectors": {
+    "title": [
+      "h1",
+      "meta[property='og:title']",
+      "title"
+    ],
+    "cover": [
+      "meta[property='og:image']",
+      ".book-img img",
+      ".book-cover img",
+      "img.cover"
+    ],
+    "description": [
+      "meta[name='description']",
+      "meta[property='og:description']",
+      ".summary",
+      ".desc-text",
+      ".book-summary"
+    ],
+    "author": [
+      "a[href*='/author/']",
+      ".author a",
+      ".book-author"
+    ],
+    "status": [
+      ".book-status",
+      ".novel-status",
+      ".book-info .status",
+      ".info-item.status"
+    ],
+    "genres": [
+      "a[href*='/genre/']",
+      "a[href*='/genres/']",
+      ".genres a",
+      ".tag a"
+    ],
+    "chapter_title": [
+      ".chapter-title",
+      "h1",
+      "h2",
+      "title"
+    ],
+    "chapter_content": [
+      "#chapter-content",
+      ".chapter-content",
+      ".txt",
+      ".reading-content",
+      ".chapter_content",
+      "article"
+    ]
+  },
+  "chapter_discovery": {
+    "strategy": "next_chain",
+    "preserve_page_order": true,
+    "start_url_suffix": "chapter-1",
+    "start_link_text_patterns": [
+      "^start reading$",
+      "^read first$",
+      "^first chapter$",
+      "^begin reading$",
+      "^read from beginning$"
+    ],
+    "next_link_selectors": [
+      "a[rel=\"next\"]",
+      "a#next_chap",
+      "#next_chap a",
+      "a.next_chap",
+      ".next_chap a",
+      "a[aria-label*=\"Next\" i]",
+      "a[title*=\"Next\" i]",
+      ".next-chapter a",
+      "a.next-chapter",
+      ".chapter-next a",
+      ".chapter-nav a.next",
+      ".chapter-control a.next",
+      "a.next",
+      "a[class*=\"next\" i]",
+      "a[id*=\"next\" i]"
+    ],
+    "next_link_text_patterns": [
+      "^next(?:\\s+chapter)?(?:\\s*[›»→>]+)?$",
+      "^next\\s+chapter\\b",
+      "^next\\s*›?$",
+      "^next\\s*→?$",
+      "^older chapter$",
+      "^next chapter\\s*→?$",
+      "^next\\s*chapter\\s*→?$"
+    ],
+    "list_next_selectors": [
+      ".pagination a[rel='next']",
+      ".pagination a.next",
+      "a[rel='next']",
+      ".page-nav a.next",
+      ".page a.next"
+    ],
+    "list_next_text_patterns": [
+      "^next$",
+      "^next page$",
+      "^›$",
+      "^older$"
+    ],
+    "list_page_path_patterns": [
+      "/page/\\d+/?$",
+      "/list/\\d+/?$"
+    ]
+  },
+  "content_cleanup": {
+    "remove_selectors": [
+      "[class*=\"advert\" i]",
+      "[id*=\"advert\" i]",
+      "[class*=\"ads-\" i]",
+      "[id*=\"ads-\" i]",
+      "[class*=\"popup\" i]",
+      "[id*=\"popup\" i]",
+      "[class*=\"recommend\" i]",
+      "[id*=\"recommend\" i]",
+      ".reader-setting",
+      ".reader-settings",
+      ".font-setting",
+      ".translation-toolbar",
+      ".chapter-tools",
+      ".chapter-actions",
+      ".social-share"
+    ],
+    "remove_exact_lines": [],
+    "remove_text_patterns": []
+  }
+}

@@ -1,0 +1,77 @@
+Chapter 146: Holding a Treasure?
+
+The Gravitational Wave Telescope hadn’t spotted the alien spaceship earlier because the mass parameters had been set too low. Now, with the search parameters expanded, it had finally locked onto the target but the results were utterly baffling...
+
+The Viridian vessel was only three-thousandths the physical size of Sedna, yet its gravitational pull was ten times stronger. It was an entire order of magnitude heavier than the planet!
+
+"That’s physically impossible!"
+
+It was simply outrageous. Jason was completely at a loss for words, a knot of unease twisting in his stomach.
+
+It was utterly inexplicable. The command staff exchanged bewildered glances, a surreal sense of absurdity washing over them.
+
+Is the telescope malfunctioning?
+
+That was everyone’s first thought.
+
+However, Austin and his security officers were just relieved to have eyes on the target. As long as the pulsating gravitational signature remained firmly docked on Sedna, they were satisfied. The bizarre anomaly of its mass was a problem for the scientists, not the military.
+
+Professor Thomson pondered the data and quickly narrowed it down to two possibilities: either the alien telescope was generating a faulty reading, or the Viridian spaceship was actually that impossibly dense!
+
+While not an immediate tactical threat, it was a profound scientific mystery. The Federation’s survival crisis was far from over, and any intel regarding the alien fleet needed to be scrutinized carefully especially something this bizarre.
+
+Jason finally made a decision. "Convene an emergency science council!"
+
+Since this wasn’t a direct security threat, the attendee list was small, consisting mainly of the Federation’s top physicists and astrophysicists. Faced with the impossible data, the room full of brilliant minds frowned in collective bafflement. Like Jason, they felt a sense of surreal absurdity.
+
+After fifteen minutes of tense debate, Felix, a senior physicist, took the floor. "...I don’t believe the Gravitational Wave Telescope is malfunctioning. I just cross-referenced its telemetry with the other known celestial bodies in the scan, and the mass readings for the planets and asteroid belts are perfectly accurate."
+
+"Is it possible the telescope only generated an error for the alien vessel? Statistically, the probability is near zero. Quantum computers don’t make selective mechanical errors; if the algorithm is sound, it processes everything correctly. It either calculates the entire map wrong, or it calculates it all right. To assume that out of thousands of data points, it only miscalculated the exact target we are looking for... it’s highly improbable." Felix finished his assessment and sat back down.
+
+Another scientist immediately stood up, his voice agitated. "But it violates basic physics! Based on the scanned volume and the gravitational output, the dreadnought’s average density exceeds 6,000 tons per cubic meter!"
+
+"That density is six thousand times that of water and eight hundred times that of solid iron! The math has to be wrong."
+
+Jason scribbled calculations on his datapad. Even if the alien ship was a completely solid block of metal with zero hollow space, its density was vastly higher than any known element! Osmium, the densest naturally occurring metal known to humanity, only had a density of 22.59 tons per cubic meter nowhere near 6,000!
+
+"Besides... how could a ship that heavy even move?" someone argued. "The sheer energy required to accelerate that much mass into warp space is astronomical. I’d much rather believe the telescope is broken."
+
+It completely defied aerospace logic. Shouldn’t a spacecraft be designed to be as light as possible? Why was this spaceship built like a collapsed star?
+
+The Viridian Empire was a true interstellar power. Even though humanity had successfully bluffed them, no one dared to underestimate their capabilities. If their bluff was called, the Viridians could exterminate the Federation in an afternoon. Their technological foundation was centuries ahead of humanity’s. Therefore, no one dismissed this density anomaly as a waste of time. Perhaps... solving this counterintuitive mystery could unlock a new path for human spaceflight.
+
+"First, we must definitively prove whether the telescope is glitching or if their ship is actually a supermassive object," Jason said, tapping the table to regain order. Until that fact was established, the theoretical debate was pointless. "Does anyone have a method to verify the data?"
+
+Professor Thomson immediately proposed a solution. "That’s easy to verify... A supermassive object generates a massive gravitational well, which physically alters the orbital trajectories of nearby celestial bodies. We can verify the ship’s true mass by tracking the real-time orbital mechanics of the debris fields around Sedna."
+
+The astrophysics team quickly drafted a calculation model. The math wasn’t overly complex, and they had the results within half an hour.
+
+The results were chilling: the loose meteorites and debris near Sedna were experiencing a gravitational pull over ten times stronger than historical models predicted! Even Sedna’s own orbital trajectory was being micro-warped!
+
+The orbital mechanics didn’t lie. The alien telescope was functioning perfectly. The data was accurate.
+
+A heavy silence fell over the room as the scientists stared blankly at the main screen, utterly paralyzed by the implications.
+
+"A density of 6,000 tons per cubic meter is beyond our comprehension of material science. We can’t even forge an alloy that hits 30 tons per cubic meter. There has to be a structural variable we aren’t seeing!"
+
+"Furthermore, a supermassive hull is a logistical nightmare for space travel. According to the basic laws of kinetic energy, the more mass you have, the exponentially more thrust you need to move... unless the mass itself *is* the energy source?"
+
+The room erupted into frantic whispers. The situation was bizarre, and no one had a solid hypothesis. Was the gap between the Federation and the Viridian Empire truly this unfathomable?
+
+"Outside of exotic natural celestial bodies... it’s physically impossible to forge anything with that kind of density," someone muttered.
+
+Hearing this, a wild spark of inspiration flashed in Jason’s mind. "Everyone, is it possible the Viridians are using super-dense celestial bodies as an internal power source? What if they have a fragment of a neutron star or a piece of a white dwarf contained inside the ship?"
+
+The scientists looked at him as if he had grown a second head. Professor Hao Yu bluntly shot down the idea. "Director, the only reason a white dwarf is that dense is because its immense, localized gravity is crushing its own atoms together. The repulsive force between its electrons is barely holding back total gravitational collapse."
+
+"If you somehow ’mined’ a chunk of a white dwarf and removed it from that massive gravitational field, the electron degeneracy pressure would instantly take over. That chunk of ultra-dense matter would violently and instantaneously expand, triggering a catastrophic explosion!"
+
+"The exact same principle applies to neutron star matter," Hao Yu concluded, with the other scientists nodding in firm agreement. Exotic stellar fragments couldn’t exist stably outside their parent stars.
+
+Jason was speechless for a moment. In truth, the idea had been sparked by an old Earth sci-fi novel he’d read where a neutron star fragment destroyed a planet. He had blurted it out without thinking through the quantum mechanics. However, his strategic mind refused to let the idea go. No matter how he looked at the problem, it was the only theory that fit the gravitational data.
+
+"Think outside the box," Jason countered. "If an advanced empire has the technological capability to actually mine a white dwarf or a neutron star, wouldn’t they also have the containment fields necessary to keep those fragments stable?"
+
+"Furthermore, you just said that removing them from the gravity well causes them to rapidly expand and explode," Jason continued, leaning forward. "What if they managed to slow down and control that explosive expansion? Could that be used as a hyper-dense energy source?"
+
+"It’s the exact same principle as our own nuclear fusion reactors. As long as you can throttle and control the rate of the nuclear explosion, you harness it as an energy source. What if they are doing the same thing, but using the controlled expansion of exotic stellar matter?"

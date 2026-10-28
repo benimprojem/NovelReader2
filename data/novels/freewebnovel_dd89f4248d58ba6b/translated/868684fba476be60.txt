@@ -1,0 +1,113 @@
+Bölüm 49: Buz Soğutma
+
+"Ha? Buz mu?"
+
+"Ivanov, sen bir dahisin!"
+
+Teklifi duyduktan sonra aşağıdaki grup ani bir aydınlanma yaşamış gibi görünüyordu.Nasıl bu kadar katı bir düşünce tarzına düştüklerinden yakınarak hararetli bir tartışmaya girdiler.
+
+Termal radyasyon ve vakum yalıtımı gibi kavramlar bu yüksek IQ'lu bireylerin aklına gelen ilk şeylerdi ama aynı zamanda düşülmesi en kolay tuzaklardı.Ancak soğutma için basit buz kullanmak onların tamamen gözünden kaçan bir şeydi.
+
+Bu tür hızlı ve kirli çözüm, Wolfpack'in tam olarak en çok hayran olduğu şeydi.Tıpkı o zamanki nükleer tahrik planı gibiydi; basit, etkili ve gösterişli teknik detaylardan yoksundu, ancak yine de harika şeyler başarma kapasitesine sahipti.Bu Wolfpack estetiğiydi.
+
+Profesör Hao Yu da konuşurken iç çekerek tepki gösterdi."Gerçekten kaba bir yöntem bu..."
+
+Mantıksal olarak konuşursak, bir soğuk hava deposunda suyun dondurularak buza dönüştürülmesi ve daha sonra ısı dağıtımı için kullanılması işe yaramaz.Soğuk hava deposunun mekanizması klimaya benzer;sadece ısıyı etrafa dağıtır.Ancak uzay aracındaki buz Ay'dan çıkarılmıştı.Olduğu gibi kullanılmaya hazır, harici bir kaynaktı!
+
+Profesör Hao Yu, soğutma için buz kullanmanın geçici bir önlem olduğunu biliyordu ama bu iyi bir önlemdi.Acil krizi minimum mühendislik çalışmasıyla çözebilir.Neden yapmıyorsunuz?
+
+Buz, büyük miktarda ısıyı emerek güçlü bir soğutma etkisi sağlayabilir.Ayrıca, buzun tamamı eridiğinde, uzay aracı muhtemelen daha fazlasını kazabilecekleri Mars'a ulaşmış olacaktı...
+
+Buz kazma düşüncesi Profesör Hao Yu'ya bir anlık ilham kaynağı oldu.Sonunda gerçekten pratik, büyük bir projeye karar verdi!Bu gençlerin yanındayken, sanki canlılık ve enerjiyle dolu olarak kendi gençliğine dönmüş gibi hissetti.
+
+Gerçekten temel, uzun vadeli çözüme gelince, bunu Tesla Enstitüsü'ne bırakalım.Wolfpack Tasarım Büromuz partilerini bozmayacak, hahaha!
+
+Bunu düşünerek,
+
+Profesör Hao Yu kendini tutamayıp kahkaha attı.Elini salladı."Pekala millet, plan bu!"
+
+...
+
+Tesla'lar hala titizlikle araştırma yapıyor ve çeşitli teknik engellerle mücadele ederken, Wolfpack'in teklifi çoktan sunulmuş durumdaydı.Profesör Hao Yu planın taslağını hazırladıktan sonra onu doğrudan Jason'ın iş e-postasına gönderdi.
+
+Ofisinde oturan Jason tamamen şok olmuştu.Sadece iki saat içinde nasıl bir plan üretilebilir?Wolfpack Tasarım Bürosu bu sorunu önceden fark etmiş miydi?
+
+"Bir numaralı bürodan beklendiği gibi..." Jason bir duygu dalgası hissetti.
+
+Dosyayı açtığında şakakları zonkluyordu.Buna resmi bir plan denemez... Sadece birkaç satırlık metin ve birkaç diyagramdan oluşuyordu.
+
+Jason sabırsız bir adam değildi.Merakını bastırıp okumaya devam etti.
+
+Soğutma için buz kullanma.Muhteşem.Tek kelimeyle mükemmel!Sonunda alkışlama isteği duydu.
+
+Wolfpack Tasarım Bürosu'nun planı öncelikle Nuh'un buz deposunu kullandı.Bu aslında geminin buz bloklarıyla dolu büyük bir gölete benzeyen su deposuydu.
+
+Ay'dan çıkarılan buz eksi yüz santigrat derecenin üzerinde bir sıcaklıkta duruyordu.Şimdi bile çok az bir kısmı erimişti.Mürettebat su kullanmak isterse buz bloklarının bir kısmını çıkarıp ısıtmak zorundaydı.
+
+Yalnızca ısıtma işlemi bile uzay aracının enerjisinin önemli bir kısmını tüketiyordu.Wolfpack'in planı gerçekten ustacaydı: Dondurucu havayı dışarı çıkarmak ve sıcak havayı tekrar içeri döndürmek için buz deposunun üstüne bir üfleme sistemi kurmak. Bu şekilde, uzay aracının ortam sıcaklığı etkili bir şekilde kontrol edilebiliyordu.
+
+Sadece birkaç üfleyici ve birkaç havalandırma hortumundan oluşan bu kadar basit bir plan, doğal olarak çok fazla kelimeye veya karmaşık planlara ihtiyaç duymuyordu.
+
+Bu basit strateji aynı anda iki hedefe ulaştı!Bir yandan uzay aracının içindeki sıcaklığı düşürdü.Öte yandan tüketim için buzu eritti.
+
+En büyük gerçekler genellikle en basit olanlardır.Mühendislik tasarımı, işleri olabildiğince karmaşık hale getirmekle ilgili değil, daha ziyade "uygunluk ve netlik" peşinde koşmakla ilgilidir.Karmaşık sorunları en basit çözümlerle çözmek, gerçek gücün işaretidir.Başkalarının kaçırdığı şeyleri düşünmek gerçek yetenektir.
+
+Jason bu planın geçici bir çözüm olduğunu biliyordu ama reddedemezdi.Fazla etkiliydi.Gerekli mühendislik çalışmaları yarım günden daha kısa sürede tamamlanabildi.
+
+Ya buz biterse?Mars'ta bunun için kazı yapın.Peki ya Mars'taki buz biterse?O halde Tesla Enstitüsü'nün planını bekleyin!
+
+Belgenin sonunda Profesör Hao Yu'nun karakteristik şakacı sözleri vardı.
+
+Jason gülümseyerek başını salladı.Eğer Tesla'lar Wolfpack'in sözlerini görseydi muhtemelen felç geçirirlerdi...
+
+Elbette Tesla Enstitüsü'nün Wolfpack'ten daha aşağı seviyede olduğunu ima etmiyordu;bu sadece iki grubun tamamen farklı felsefelere sahip olduğu anlamına geliyordu.Wolfpack cesur ve sertti, Tesla'lar ise rafine ve titizdi.
+
+Planı tesadüfen Dr. Felix'e iletti.
+
+Tesla Enstitüsü'nün içinde çok sayıda yetenekli öğrenci coşkuyla tartışıyordu.İki saatlik tartışmanın ardından belirli bir yön bulundu, ancak pek çok ayrıntının hâlâ mükemmelleştirilmesi gerekiyordu.
+
+Basit bir ifadeyle Kıdemli Bilim Adamları, grafen kullanarak yeni bir tür radyant ısı çubuğu geliştirmeyi umuyorlardı.Bu radyatör standart oranın iki katından daha fazla radyasyon kapasitesine sahip olacaktır.Daha sonra ısı sirkülasyonu etkisini arttırmak için sıvı nitrojen kullanılacaktır.
+
+Planın tamamı aşırı karmaşık değildi ama basit de değildi.Nihai bir karar verilmeden önce kapsamlı denemeler ve testler yapılması gerekecektir.
+
+"Eh, bugünkü toplantı böylece sona eriyor. Umarım herkes deneysel sonuçları hızlı bir şekilde üretebilir."Dr. Felix rahat bir nefes aldı.Nihai sonuçların daha geç değil, daha erken gelmesi gerekiyordu;aksi takdirde uzay aracının içindeki sıcaklık birkaç derece daha artarak dayanılmaz hale gelebilir.
+
+Aniden telefonu titredi.Açtı ve Jason'dan gelen bir e-posta gördü.
+
+"Ne? Wolfpack Tasarım Bürosu'nun planı çıktı mı?"
+
+Felix şok olmuş ve meraklanmıştı.Enstitü'nün verimliliğinin zaten çok yüksek olduğunu hissediyordu, ancak diğer tarafın bir planın hazır ve taslak haline getirilmiş olmasını beklemiyordu!
+
+Tıklayarak açtı.Metnin birkaç satırına ve bunun son derece basit uygulanabilirliğine bakıldığında ifadesi birkaç kez değişti.
+
+"Millet, bir dakika bekleyin. Bu Wolfpack Tasarım Bürosunun planı!"
+
+Ayrılmak üzere olan araştırmacılar birbiri ardına durup geri döndüler.
+
+Merakla ekrana baktılar.Basit, hızlı müdahale planını gördüklerinde psikolojik bir yenilgi hissettiler."Harika... bunu neden düşünemedim?"
+
+Bütün bu üst düzey tartışmanın ne faydası vardı?Bir anda kendilerini sınıf dışı hissettiler.
+
+Onlara eski bir fıkrayı hatırlattı:Meslekten olmayan bir kişi yanlışlıkla fizik alanında doktora derecesine sahip kişilerle dolu bir grup sohbetine katıldı.Doktorların bir sorunu tartışmasını izledi: On bin metre yükseklikten bir su damlası düşerse etkisi ne olur?
+
+Doktorlar kinetik enerji formüllerinden, evrensel çekimden, son hızdan ve hava direnci denklemlerinden bahsederek bu konuyu hararetli bir şekilde tartıştılar.Üst düzey bir jargon karmaşasıydı.Ancak birkaç saat geçmesine rağmen Doktorlar hâlâ bir fikir birliğine varamamıştı.Bazıları darbenin ölümcül olacağını söylerken, diğerleri çelik levhalara nüfuz edebileceğini savundu.
+
+Sonunda, meslekten olmayan kişi kafası karışmış bir şekilde şunu yazdı: "Hiçbiriniz hiç yağmura yakalanmadınız mı?"
+
+Daha sonra grup sohbetinden derhal çıkarıldı.
+
+Elbette bu şaka kitap kurtlarıyla alay ediyor.Tesla'lar şu anda tam olarak o kitap kurtları gibi hissediyorlardı; o kadar çok araştırma yapmışlardı ki, çabalarının tek bir sağduyulu cümleden daha az işe yaradığını gördüler.Güvenleri darbe aldı.
+
+Alkış!Alkış!Alkış!
+
+Alkışlamada başı çeken kişi Dr. Felix'ti."Kısa ve etkili bir plan. Bize bu dersi öğrettiğiniz için teşekkür ederiz Wolfpack!"
+
+İkna olsalar da olmasalar da aşağıdaki herkes alkışlara katıldı.En azından katı bir zihniyete düştüklerini ve buz deposunu soğutma için kullanmayı gerçekten düşünmediklerini itiraf ettiler.
+
+"Fakat!"Dr. Felix sesi yükselerek devam etti."Henüz kaybetmedik! Onların planı geçici. Bizimki ise uzun vadede etkili!"
+
+Evet, kaybetmemişlerdi!Wolfpack planı buz bittiğinde başarısız olacaktı ama Tesla planı yüz, hatta bin yıl boyunca kullanılabilirdi!
+
+Tesla'lar güvenlerini yeniden kazandılar.Kapsamlı planın tamamlanmasını hızlandırmak için fazla mesai yapmaya hazır olarak çok çalışmaya hazırlandılar.
+
+Bu bir onur savaşıydı.Bu cesur bilim adamları bunun ağırlığını hissettiler ve savaşmaya istekliydiler.Şu anda para, dinlenme ve boş zaman akıllarının bir köşesine atılmıştı.

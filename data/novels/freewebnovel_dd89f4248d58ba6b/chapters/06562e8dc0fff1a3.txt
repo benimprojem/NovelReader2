@@ -1,0 +1,73 @@
+Chapter 120: Nuclear Fusion
+
+Hearing this, Jason asked with some surprise, "Then why not use this kind of high-efficiency battery to power high-energy weapons?"
+
+He was wondering if it was possible to use decay batteries to replicate weapons like the Gauss rifle. He was utterly captivated by the weapon that had saved his life. Ever since using it, standard human firearms paled in comparison.
+
+Jason knew that for the foreseeable future, humanity would remain firmly in the era of electromagnetism. Whether for weaponry or daily infrastructure, they were inseparable from electromagnetic technologies.
+
+Because of this, he cared deeply about the development of high-energy batteries. From small household appliances to the overall safety of the Noah, everything relied on higher-performance power storage.
+
+Electricity is notoriously difficult to store on a massive scale. Currently, there was no efficient way to store excess power from the generators; it had to be consumed as it was produced. Although the Noah had multiple backup generators, its power grid wasn’t as robust as the old planetary grids on Earth. From a security standpoint, it simply wasn’t enough.
+
+If they could mass-produce high-capacity batteries, it would undoubtedly elevate their power grid security to a whole new level.
+
+The Noah was the sole home of the Federation. From a safety perspective, an artificial ecosystem was incredibly fragile compared to a natural planet. Maintaining environmental balance was like walking a tightrope; they couldn’t afford a single misstep. The catastrophic danger of a sudden, ship-wide power outage was self-evident.
+
+Furthermore, true space-faring weaponry required the massive power output of these super batteries.
+
+Upon hearing his thoughts, Lily quickly shook her head. "There are two major problems. First, these isotope decay batteries are massive and cannot be miniaturized with our current technology. They are generally only suited for large installations like satellites or probes. Second, they generate electricity through elemental decay, meaning their output is constant and very difficult to spike rapidly. Laser rifles and particle beam weapons require a massive, instantaneous discharge of power. Trying to instantly accelerate a nuclear reaction to meet that demand is a recipe for a catastrophic meltdown."
+
+"If the containment technology fails, the battery becomes a bomb. We simply don’t have the control systems for that yet."
+
+Jason frowned, thinking it over. Isotope decay batteries had existed for decades. If they were easy to weaponize, scientists back on Earth would have done it long ago. He had oversimplified the engineering challenge.
+
+Lily continued, "We have recovered some alien artifacts that seem to be compact power sources, but we haven’t deciphered their underlying physical principles yet."
+
+As they talked, Jason felt the weight of the endless technological road ahead... it was as vast as the sea of stars, and humanity had barely dipped its toes in the water.
+
+Logically, humanity should have had several centuries, maybe even a millennium, to develop before taking to the stars. Instead, they had been violently evicted from their home planet.
+
+However, drawing inspiration from the Alien artifacts, they were compressing decades of normal technological evolution into a single year. Jason was quite satisfied with this progress. At the very least, they now had a clear roadmap for their technological development.
+
+He let out a soft burp, indicating he was full, but he kept munching on the remaining lobster tail anyway.
+
+These lobsters were a fresh luxury introduced just in the last six months. The subterranean water extracted from Mount Sharp had a high salinity, making it perfect for artificial seawater aquaculture. Thanks to this, the diet aboard the Noah had diversified, significantly improving the crew’s quality of life.
+
+He glanced at the tray, then suddenly pushed the last piece of lobster toward Lily. "Here, you can have the last one!"
+
+He didn’t think much of the gesture; it was almost subconscious. They had been working closely together for over two years and were practically inseparable. Sharing food like this felt natural.
+
+"Speaking of which, how are the tests for the laser ignition system coming along?" Jason asked casually, wiping his mouth with a napkin.
+
+This system was the foundational trigger for their next-generation Tetrahydrogen nuclear warheads, and he monitored its progress closely. No matter how clumsy nuclear weapons were in the grand scheme of the cosmos, they remained humanity’s ultimate trump card. Even these primitive explosives packed an immense destructive yield, far surpassing their current laser or ion cannons.
+
+Lily paused to think, instantly adopting her serious, professional demeanor. "Currently, our targeting lasers can simultaneously ignite 49 hydrogen pellets, each one millimeter in diameter. That’s our maximum limit right now. Scaling it up to ignite over a hundred targets simultaneously will require at least several more months of refinement."
+
+Jason nodded. "Take your time. We have abundant resources and energy now, and we’ll continue to funnel support into the weapons labs. Honestly, our military capabilities are dreadfully weak. If it weren’t for the few functional weapons we salvaged from the alien wreck, we’d be completely defenseless."
+
+Lily agreed. "Actually... those alien weapons are mostly just decorative for us right now. Our reactors can’t output enough power to properly charge them. Even when we manage to fire them, the yield is likely less than one-tenth of their original design capacity."
+
+"If we want to use them at their full potential, we need super-capacity batteries. And to charge those, we need an entirely new tier of power generation: controllable nuclear fusion!"
+
+At the mention of controllable nuclear fusion, a heavy silence fell between them.
+
+The engineering bay and reactor core of the alien vessel had been completely obliterated in the crash. The expedition team had recovered absolutely zero data regarding fusion technology. This meant humanity would have to solve the fusion puzzle entirely on its own, a deeply disheartening reality for the Noah’s energy physicists.
+
+It was clear that over the next few years, nearly every scientific field would experience massive breakthroughs, except for nuclear fusion.
+
+Controllable fusion was hailed as the "holy grail" of energy. If they could harness it to generate stable electricity like standard fission reactors, it would revolutionize their entire civilization, effectively eliminating the need for energy rationing. The raw materials required for fusion were virtually inexhaustible. However, given their current technological trajectory, mastering fusion remained a distant dream.
+
+"We won’t crack that technology for at least a few decades," Jason said somberly. He had discussed the issue at length with prominent physicists like Professor Hao Yu and Felix; they all agreed that achieving commercial fusion was impossible in the short term.
+
+Back on Earth, the absolute peak of fusion research was achieved at a prominent research facilities on Earth. Their fully superconducting tokamak reactor managed to sustain a high-confinement plasma state for about 101.2 seconds.
+
+And that milestone was merely containing the plasma within a magnetic field, the absolute most basic first step. They were still lightyears away from actually extracting usable electricity from the process.
+
+Jason felt a sharp pang of regret. He desperately wished they had working fusion reactors. Nearly all the advanced weaponry they had recovered required the staggering energy output of a fusion core to function properly.
+
+"The engineering hurdles for controllable fusion are simply too high for us right now," Lily explained. "It will only become feasible once we perfect our room-temperature superconductors, advanced cooling arrays, and magnetic containment fields."
+
+"Of course," she added calmly, "that strange metallic sphere your team brought back might be a data drive. It could hold the exact blueprints we need. But deciphering its alien code is going to take a very long time."
+
+Jason frowned, remaining silently lost in thought.

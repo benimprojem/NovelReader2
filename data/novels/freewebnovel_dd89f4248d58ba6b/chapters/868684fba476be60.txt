@@ -1,0 +1,117 @@
+Chapter 49: Ice Cooling
+
+"Huh? Ice?"
+
+"Ivanov, you’re a genius!"
+
+Upon hearing the proposal, the group below seemed to have a sudden epiphany. They broke into animated discussion, lamenting how they had fallen into such a rigid way of thinking.
+
+Concepts like thermal radiation and vacuum insulation were the first things these high-IQ individuals thought of, but they were also the easiest traps to fall into. Using simple ice for cooling, however, was something that had completely escaped them.
+
+This kind of quick and dirty solution was exactly what the Wolfpack admired most. It was just like the nuclear propulsion plan from back then, simple, effective, and lacking in pretentious technical fluff, yet capable of accomplishing great things. This was the Wolfpack aesthetic.
+
+Professor Hao Yu also reacted, sighing as he spoke. "It really is a crude method..."
+
+Logically speaking, freezing water into ice inside a cold storage unit and then using it for heat dissipation wouldn’t work. The mechanism of a cold storage unit is similar to an air conditioner; it just moves heat around. However, the ice on the spacecraft had been mined from the Moon. It was an external resource, ready to be used as is!
+
+Professor Hao Yu knew that using ice for cooling was a stopgap measure, but it was a good one. It could solve the immediate crisis with minimal engineering work. Why not do it?
+
+The ice could absorb a massive amount of heat, providing a potent cooling effect. Besides, by the time all the ice melted, the spacecraft would likely have reached Mars, where they could simply dig for more...
+
+The thought of digging for ice struck Professor Hao Yu with a flash of inspiration. He finally conceived of a truly practical major project! Being around these young people, he felt as if he had returned to his own youth, full of vigor and drive.
+
+As for the truly fundamental, long-term solution, let’s leave that to the Tesla Institute. Our Wolfpack Design Bureau won’t crash their party, hahaha!
+
+Thinking of this,
+
+Professor Hao Yu couldn’t help but burst into laughter. He waved his hand. "Alright everyone, this is the plan!"
+
+...
+
+While the Teslas were still meticulously researching and struggling with various technical hurdles, the Wolfpack’s proposal had already been submitted. After Professor Hao Yu drafted the plan, he sent it directly to Jason’s work email.
+
+Sitting in his office, Jason was utterly shocked. How could a plan be produced in just two hours? Had the Wolfpack Design Bureau noticed this problem ahead of time?
+
+"As expected of the number one bureau..." Jason felt a stir of emotion.
+
+When he clicked open the file, his temples throbbed. This could hardly be called a formal plan... It consisted of just a few lines of text and a couple of diagrams.
+
+Jason was not an impatient man. He suppressed his curiosity and read on.
+
+Using ice for cooling. Brilliant. Simply brilliant! By the end, he had the urge to applaud.
+
+The Wolfpack Design Bureau’s plan primarily utilized the Noah’s ice storage. This was essentially the ship’s water reservoir, shaped somewhat like a large pond filled with blocks of ice.
+
+The ice mined from the Moon was sitting at a temperature of over minus one hundred degrees Celsius. Even now, very little of it had melted. If the crew wanted to use water, they had to extract a portion of the ice blocks and heat them.
+
+Just the heating process alone consumed a significant amount of the spacecraft’s energy.
+
+The Wolfpack’s plan was truly ingenious: install a blower system above the ice storage to draw out the freezing air and cycle the hot air back in. This way, the spacecraft’s ambient temperature could be effectively controlled.
+
+Such a rudimentary plan, just a few blowers and some ventilation hoses naturally didn’t require many words or complex blueprints.
+
+This simple strategy achieved two goals at once! On one hand, it lowered the temperature inside the spacecraft. On the other, it melted the ice for consumption.
+
+The greatest truths are often the simplest. Engineering design isn’t about making things as complex as possible, but rather about pursuing "appropriateness and clarity." Solving complex problems with the simplest solutions is the mark of true strength. Thinking of what others miss is true ability.
+
+Jason knew this plan was a temporary fix, but he couldn’t refuse it. It was just too effective. The necessary engineering work could be completed in less than half a day.
+
+What if the ice runs out? Dig for it on Mars. What if the ice on Mars runs out? Then wait for the Tesla Institute’s plan!
+
+At the end of the document, there was Professor Hao Yu’s characteristic playful remark.
+
+Jason shook his head with a smile. If the Teslas saw the Wolfpack’s remark, they would probably have a stroke...
+
+Of course, he wasn’t implying that the Tesla Institute was inferior to the Wolfpack; it just meant the two groups had completely different philosophies. The Wolfpack was bold and rough, while the Teslas were refined and meticulous.
+
+He casually forwarded the plan to Dr. Felix.
+
+Inside the Tesla Institute, numerous talented students were enthusiastically debating. After two hours of discussion, a specific direction had been found, though many details still needed perfecting.
+
+In simple terms, the Senior Scientists hoped to develop a new type of radiant heat rod using graphene. This radiator would have radiation capabilities more than double the standard rate. Then, liquid nitrogen would be used to enhance the heat circulation effect.
+
+The entire plan wasn’t overly complex, but it wasn’t simple either. It would require extensive experimentation and testing before a final decision could be made.
+
+"Well, that concludes today’s meeting. I hope everyone can produce the experimental results quickly." Dr. Felix breathed a sigh of relief. The final results needed to come sooner rather than later; otherwise, the temperature inside the spacecraft might rise by a few more degrees, becoming unbearable.
+
+Suddenly, his phone vibrated. He opened it and saw an email from Jason.
+
+"What? The Wolfpack Design Bureau’s plan is out?"
+
+Felix was shocked and curious. He felt his Institute’s efficiency was already very high, yet he hadn’t expected the other side to have a plan ready and already drafted!
+
+He clicked it open. Looking at the few lines of text and the brutally simple feasibility of it, his expression changed several times.
+
+"Everyone, wait a moment. This is the Wolfpack Design Bureau’s plan!"
+
+The researchers who were about to leave stopped and turned back one after another.
+
+They looked curiously at the screen. Upon seeing the simple, rapid-response plan, they felt a sense of psychological defeat. "Brilliant... why didn’t I think of that?"
+
+What was the use of all that high-level discussion? They felt instantly outclassed.
+
+It reminded them of an old joke:
+
+A layman accidentally joined a group chat full of PhDs in physics. He watched the Doctors discussing a problem: What would be the effect if a drop of water fell from a height of ten thousand meters?
+
+The Doctors discussed it animatedly, citing kinetic energy formulas, universal gravitation, terminal velocity, and air resistance equations. It was a mess of high-level jargon. However, after several hours, the Doctors still hadn’t reached a consensus. Some said the impact would be lethal, while others argued it could penetrate steel plates.
+
+Finally, the layman typed, confused, "Have none of you ever been caught in the rain?"
+
+He was then promptly removed from the group chat.
+
+Of course, this joke mocks bookworms. The Teslas felt exactly like those bookworms right now, having researched so much, only to find their efforts less useful than a single sentence of common sense. Their confidence took a hit.
+
+Clap! Clap! Clap!
+
+It was Dr. Felix who took the lead in applauding. "A concise and efficient plan. Thank you, Wolfpack, for teaching us this lesson!"
+
+Whether they were convinced or not, everyone below joined the applause. At the very least, they admitted they had fallen into a rigid mindset and truly hadn’t thought of using the ice storage for cooling.
+
+"However!" Dr. Felix continued, his voice rising. "We haven’t lost yet! Their plan is only temporary. Ours is effective for the long term!"
+
+Yes, they hadn’t lost! The Wolfpack plan would fail once the ice ran out, but the Tesla plan could be used for a hundred, even a thousand years!
+
+The Teslas regained their confidence. They prepared to work hard, ready to pull overtime to rush the entire comprehensive plan to completion.
+
+This was a battle for honor. These spirited scientists felt the weight of it, and they were willing to fight. At this moment, money, rest, and leisure were all thrown to the back of their minds.

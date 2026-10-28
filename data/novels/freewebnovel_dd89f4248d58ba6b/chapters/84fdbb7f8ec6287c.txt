@@ -1,0 +1,103 @@
+Chapter 132: Decryption
+
+Aboard the Noah, inside the astronomical observatory.
+
+A cascading series of data codes illuminated the main screen. The entire room stared blankly at the display, frozen in place. Even their breathing seemed to stop.
+
+After about fifteen excruciating minutes, the rapid flickering on the screen finally ceased.
+
+This data stream consisted of radio waves broadcasted by the extraterrestrial vessel. If printed on standard A4 paper, the raw code would fill 417 pages!
+
+"Report: We... have not been attacked!"
+
+"Repeating: We have not been attacked!"
+
+Jason received the alert from the Security Department instantly, and the heavy knot of anxiety in his chest finally unraveled.
+
+The Security Department wasn’t just made up of military personnel; it included a vast array of weapons experts and tactical analysts who constantly monitored their surroundings.
+
+The true terror of a light-speed strike lay in its invisibility. It could not be detected in advance. The moment you actually saw the weapon... it meant the impact had already occurred. This reality made interstellar encounters highly paranoid affairs, as only faster-than-light phenomena could provide advanced warning.
+
+"Run an analysis on this transmission immediately! I’m granting you unrestricted access to the central supercomputer. Do it now!" Jason barked, leaping from his seat with a surge of adrenaline.
+
+However, the very arrival of a radio broadcast meant the immediate threat of war had drastically plummeted. A wave of profound relief washed over him, mirroring the reactions of the scientists around him, who were already hugging each other in quiet celebration.
+
+War? No one wanted war. Humanity was currently surviving purely on a bluff.
+
+The fact that they hadn’t been vaporized, and instead received a data packet, strongly suggested the aliens wanted to open a diplomatic channel!
+
+From another angle, this meant humanity’s grand deception was working flawlessly. The "Dark Forest" hypothesis, the idea that all civilizations strike first out of fear might not be an absolute law, or perhaps the aliens had simply been successfully intimidated.
+
+Jason exhaled a long breath. The first hurdle was cleared, but the marathon was far from over. The alien dreadnought was still out there, which meant the charade had to continue.
+
+He knew humanity couldn’t afford to relax. They couldn’t give the extraterrestrials a single reason to doubt them. After all, humanity could not withstand a real military test! They were playing the role of a highly advanced, god-like empire, and every tiny detail had to be airtight to survive alien scrutiny.
+
+So far, their opening move had been solid.
+
+But now, a massive hurdle presented itself: how to decipher this alien code!
+
+If it took humanity weeks or even months to translate a simple radio broadcast, it would shatter their illusion of technological supremacy.
+
+"Get this translated as fast as possible! Time is critical!" Jason urged the team. He knew rushing scientists rarely helped, but he couldn’t stop himself. He refused to let their disguise crumble over a minor technical delay.
+
+Just a few minutes later, a lead cryptographer jumped up, his eyes wide. "Commander Jason! The first section of the data appears to be a complete linguistic dictionary sequence. The second part... is a brief text. A message!"
+
+"Are you saying they didn’t encrypt it?"
+
+"Exactly. There’s no hostile encryption, just standard data encoding. They clearly want us to read it. But... this is a fully fleshed-out language, with over ten thousand root words and complex grammatical rules."
+
+The expert wiped his brow, looking stressed. "The first few hundred pages are the dictionary, and the final page is the actual message. What I’m trying to say is... even if our supercomputer parses the dictionary, it might produce a terrible translation!"
+
+Jason frowned. The expert was right.
+
+Humanity’s legacy machine translation tools were notoriously flawed. Back on Earth, using standard commercial software to translate between human languages often resulted in clunky, mangled sentences or complete nonsense. If computers struggled to translate human languages accurately, how could they possibly handle an alien syntax on the first try?
+
+This was the fundamental limit of their current artificial intelligence. If perfect translation algorithms existed, human linguists would have been out of a job long ago.
+
+Jason rubbed his temples. What were their options? Force a raw machine translation?
+
+Faced with a completely alien language, they had to rely on the supercomputers. It was physically impossible for human linguists to learn and translate it manually within a matter of hours.
+
+"Just run the decryption. Time is our biggest enemy right now. We only need the general gist of the message!" Jason ordered.
+
+"A rough idea? We can do that," the cryptographer assured him. "We’ve been analyzing their ambient radio chatter for over half a month, so we have baseline acoustic models. With this provided dictionary, the supercomputer should crack the short text within an hour!"
+
+The expert was true to his word. Forty-five minutes later, the raw translation hit the main screen. A crowd of officials quickly gathered around to read it.
+
+It wasn’t a coherent sentence. It was a string of jagged concepts.
+
+"... Viridian Civilization ... Stars ... Energy ... War ... Peace ... Destruction ..."
+
+What a garbage translation!
+
+Jason cursed inwardly.
+
+The middle sections were a jumbled mess of incomprehensible nouns and missing verbs. The alien language likely lacked human equivalents for prepositions, utilizing a completely alien grammatical structure. The computer could only spit out these isolated anchor words. A highly accurate translation was possible, but it would require human linguists weeks to refine it, time they simply did not have!
+
+Jason scowled at the screen. "Everyone, listen up. We have to respond to them immediately, or they will realize we aren’t the advanced empire we claim to be. Look at these words. What is this message actually saying?"
+
+He needed to pool the collective intellect of the room to make an informed call.
+
+Dr. Arthur Lambert stroked his chin, speaking up first. "I don’t think there’s much debate regarding the first three terms. They are identifying themselves as the Viridian Civilization, and their objective is to utilize our local star for energy. This aligns perfectly with our previous hypothesis."
+
+The room nodded in agreement, Jason included.
+
+"However," Dr. Lambert continued, "the final three words ’war,’ ’peace,’ and ’destruction’ are dangerously ambiguous."
+
+One interpretation was a plea for mercy: We do not come for war, we come in peace. Please do not cause our destruction. But another interpretation was a threat: We are coming in to resupply. Choose peace, or choose war and face destruction.
+
+Two completely different meanings from the exact same words. If they thought outside the box, those three words could be arranged to mean dozens of different things.
+
+The room erupted into quiet murmurs as different factions argued for different interpretations. Only one was correct, but they had absolutely no way of knowing which one it was.
+
+A sharp headache pierced Jason’s skull. The sheer number of variables made it impossible to gauge the Viridians’ true posture, paralyzing his ability to make a strategic decision.
+
+He was furious. He absolutely despised this primitive machine translation!
+
+Every linguist and cryptographer on the ship was already burning out their brains trying to crack the syntax manually, but Jason knew it was a lost cause for the immediate timeframe. It would take weeks to master the alien grammar.
+
+Yet, humanity needed to broadcast a reply within the next few hours. A swift, decisive response was the ultimate proof of a superior civilization.
+
+They were actually incredibly fortunate to have intercepted the alien radio chatter weeks in advance. Without that head start, translating even these six basic keywords would have been impossible today.
+
+But right now, the clock was ticking. What was their next move?

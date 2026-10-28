@@ -1,0 +1,93 @@
+Chapter 145: A Mysterious Gravitational Source
+
+This alien artifact was remarkably intuitive. By simply inputting different parameters, a variety of visual data would materialize. It was fascinating, Jason found himself experimenting with it like a child with a brand-new toy.
+
+The images possessed a unique, haunting astronomical beauty. Because the object of observation was gravitational waves, the display looked like a series of rhythmic, ripple-like radiation sources.
+
+In reality, humanity exists within a constant state of these superimposed waves. They are invisible and intangible, yet they are the very fabric of reality. Gravity is technically the weakest of the four fundamental forces; the gravitational pull between two protons is only a fraction of the electromagnetic force between them, so small it is practically negligible.
+
+However, on a macroscopic scale, gravity becomes the sole law governing the motion of the universe. At its strongest, surpassing even the strong nuclear interaction, it creates singularities from which not even light can escape, forces that would tear a neutron star to shreds.
+
+It was a miracle of accumulation. Gravity was the ultimate underdog story, rising from the weakest of forces to the absolute pinnacle of cosmic power.
+
+Even Austin, who generally lacked a scientific background, was captivated by the elegance of the display.
+
+Jason discovered that the telescope could "see" objects hundreds of millions of light-years away, providing rough estimates of their mass, size, and distance. However, due to the inherent weakness of gravitational waves, the machine had its limits. The greater the distance, the higher the computational demand on the quantum core and the more massive the target had to be to remain visible.
+
+A quick test confirmed that at intergalactic distances, the telescope could only resolve massive sources like stars, neutron stars, and black holes. Smaller celestial bodies like planets were simply too faint to detect across such a void.
+
+But within the range of a single light-year, the accuracy was staggering. Even small asteroids and comets became visible.
+
+The telescope did have one major drawback: unlike an optical or radio telescope, it couldn’t provide a literal image of a surface. It represented targets as wavy, pulsating dots. It could track position and movement with absolute precision, but it couldn’t tell you what a ship looked like.
+
+Still, it was infinitely superior to any human-made telescope. At the very least, no planet or dust cloud could block its "vision."
+
+"The Viridian vessel is massive. Its mass should be significant, and since they’re relatively close to us, we should be able to track them with ease," Professor Thomson said cautiously, pulling up a stream of data on the main screen.
+
+Jason nodded. "Let’s get to work then. We’ve gone through a lot of trouble to keep an eye on them."
+
+This was the priority. Without visual confirmation of the Viridian fleet’s status, the Federation had no real sense of security.
+
+"Sedna’s mass is approximately 10^{20} kilograms," Professor Thomson noted, scribbling calculations. "As for the Viridian ship, since we don’t know their specific hull composition or internal structure, we can’t be precise... its diameter is roughly 150 kilometers. Let’s assume its overall density is slightly less than water. That puts its mass between 10^{14} and 10^{16} kilograms. Regardless, it certainly won’t be as light as the Noah."
+
+The telescope’s detection threshold was roughly ten billion tons, 10^{11} kilograms. Ships like the Noah which were colossal in scale but mostly hollow, weighing only a few million tons were actually too "light" for the telescope to detect.
+
+Following Thomson’s instructions, Jason entered the search parameters and hit the command key. Instantly, over a thousand distinct gravitational sources flooded the screen.
+
+These included the debris field of the shattered Earth and the clouds of meteorites left in the wake of the Moon’s destruction. The Solar System was teeming with small bodies in the 10^{14} to 10^{20} kilogram range.
+
+It took the team a full minute to filter through the noise and locate the specific gravitational signature of Sedna. And then...
+
+The ship was gone.
+
+The space beside the planet was empty.
+
+"What happened?"
+
+In an instant, Jason felt a cold shiver run down his spine. An ominous thought gripped him: Had the ship found a way to cloak itself? Or had they already left Sedna?
+
+Panic flared. The Gravitational Wave Telescope, the very thing they had bet everything on, seemed to have failed them. Austin and the security officers clenched their fists, sweat beading on their brows. If the alien ship had vanished, what did that mean for their safety?
+
+If the Viridians had completed their repairs and were now actively concealing their movements, the Federation was blind. They wouldn’t see them coming until they were right on top of them.
+
+"Are you absolutely certain those are Sedna’s coordinates?" Jason asked, his voice tight with disbelief.
+
+"Yes... that is Sedna. There’s no mistake." The team double-checked the astronomical data; it was impossible to miss a target that large.
+
+"Then where is the ship? Where is the alien vessel!" Austin demanded, his voice rising in urgency.
+
+The screen showed no secondary gravitational source. Logically, there should have been a smaller pulsating dot representing the massive alien dreadnought.
+
+The group scoured the data, but they couldn’t find a single matching signature near the planet. Furthermore, with hundreds of tiny gravitational sources on the screen, it was impossible to tell which might be a ship and which were just random meteorites.
+
+Jason’s heart hammered against his ribs. He was seconds away from declaring a general emergency.
+
+"...Could it be the search parameters?" Professor Thomson muttered, looking equally shaken. Sweat dripped from his forehead. "Wait... if they are positioned too close to the planet, their gravitational signatures might be overlapping. That’s a possibility."
+
+The team spent another hour conducting a targeted sweep, painstakingly eliminating every minor source of gravity one by one. And yet... they found nothing.
+
+"They’re all just rocks. No alien ships," Thomson whispered. "Maybe the overlap theory is correct. Maybe the ship is still docked at Sedna and the planet’s mass is simply drowning it out."
+
+The security team breathed a collective, shaky sigh of relief. It was a plausible explanation, but it offered little comfort. Failing to detect the ship after all this effort was a bitter pill to swallow.
+
+Thomson added, "Remember, gravitational waves travel at the speed of light. What we are seeing is the state of things roughly 12 hours ago. If they had left Sedna earlier than that, we would have seen a distinct secondary signature moving away... yes, they must still be there."
+
+Jason frowned, feeling helpless. In the vastness of space, a time lag was an inescapable reality. As long as the aliens weren’t currently burning toward Mars, he could live with the uncertainty.
+
+He tried to steady his nerves and patted Austin on the shoulder. "Austin, I’m leaving the watch to you. Monitor this twenty-four-seven. If a single pixel moves, I want to know."
+
+He turned to the lead scientist. "Professor Thomson, you’ll handle the maintenance and calibration of the telescope. Is that understood?"
+
+Austin saluted solemnly. But Thomson remained frozen, staring intently at the screen. His voice was a hollow rasp. "Something isn’t right."
+
+Jason and Austin tensed instantly. "What is it?"
+
+Thomson seemed dazed, his fingers flying across the console as he ran a new set of calculations. "I just widened the search parameters to account for higher mass densities... Look!"
+
+The team looked up at the main display. A small, densely packed sphere had appeared right next to Sedna.
+
+But there was a problem. Its gravitational signature was pulsing with an intensity ten times greater than the planet itself.
+
+Professor Thomson gasped in pure shock. "Is that the Viridian ship? How is its mass that high? It’s denser than the core of a star!"
+
+"A mass of 10^{21} kilograms!" Thomson wiped sweat from his face, his voice trembling. "That ship... it’s ten times more massive than the entire planet of Sedna! That’s physically impossible!"

@@ -1,0 +1,95 @@
+Chapter 91: The Longevity Hypothesis
+
+"There is just so much left to do..." After authorizing the completion of the new steelmaking blast furnace, Jason finally let out a long, heavy sigh of relief.
+
+The steel produced in this rapid, high-yield process was crude steel. Its baseline quality was only mediocre, barely passing standard structural thresholds. However, the engineering teams didn’t care; right now, sheer volume was vastly more important than perfection. These were mass-produced industrial machines, not luxury spacecraft. There was no need for pristine finishing or aesthetic packaging. If a few units broke down from material stress, it simply didn’t matter.
+
+Furthermore, the Martian atmosphere possessed virtually no free oxygen.
+
+Without oxygen and moisture, the metal wouldn’t rust. The single greatest structural drawback of using crude steel was entirely negated by the dead environment. If a robot broke down, it could simply be hauled back, melted down, and fully recycled. There was zero risk of material degradation.
+
+Over the next few weeks, both the Noah and the expanding mining zones became bustling hives of non-stop activity.
+
+Inside the Aegis Industrial Complex, automated assembly lines were being replicated and brought online one after another, exponentially increasing the colony’s industrial capacity.
+
+Out in the mining zones, the fleet of super-excavators and automated transport robots was swelling. In large enough numbers, these massive machines possessed the literal power to move mountains and alter landscapes, methodically leveling entire ridges and leaving colossal craters scattered across the barren surface.
+
+The number of supporting blast furnaces had already increased to five! The sheer energy required to power this industrial grid had pushed the colony’s electricity consumption far beyond the initial projections. But that was a minor concern; they were literally mining uranium. If they needed more power, they could just build more nuclear reactors.
+
+Looking over the telemetry, Jason couldn’t help but feel that humanity’s new industrial era possessed a kind of rampant, brutal beauty.
+
+No plan survives contact with reality. Many of their industrial projects had wildly exceeded expectations and been completed well ahead of schedule. So what were they supposed to do? They couldn’t just sit there and let the machines idle. They had to constantly improvise, drafting temporary expansion plans on the fly to keep the momentum going.
+
+The mass production of super-excavators and super-trains required a staggering amount of steel, a volume impossible to predict in the original survival blueprints. Therefore, steel production had to be aggressively, temporarily scaled up.
+
+With each new contingency plan implemented, the original, conservative forecasts became largely obsolete. The entire industrial ecosystem grew larger and vastly more complex by the day. But overall, despite severely overrunning their resource and electricity budgets, the colony’s industrial capacity remained highly refined, ordered, and efficient.
+
+In Jason’s mind, exceeding the initial resource consumption limits wasn’t a problem at all. Even if there was a degree of extravagance or wasted effort, it was a fair price to pay for rapid growth. With an army of excavators working around the clock, raw resources were practically overflowing, piled into massive, artificial mountains near the airlocks.
+
+Inside the Noah, the dedicated industrial sector now vastly eclipsed the residential zones, spanning a staggering 260 square kilometers!
+
+The sector was brilliantly lit and packed with heavy machinery. Countless automated conveyor belts crisscrossed the cavernous space, transporting raw materials to hundreds of different production lines. The human workforce bustled about, completely absorbed in their tasks.
+
+Currently, the human engineers’ primary duties consisted of monitoring telemetry, performing high-level maintenance on the automated machinery, and patching software bugs. Once the final phases of the factory’s construction were complete, even the routine maintenance would be handled entirely by dedicated repair drones.
+
+While he was deeply satisfied with their progress, Jason also felt a dull headache forming behind his eyes.
+
+With the first phases of the Aegis Industrial Complex fully operational, many of the scientific laboratories had finally been freed from their infrastructure duties. Suddenly given the resources to pursue their own specializations, the colony’s technological development tree had exploded in a dozen different, disorganized directions. It left Jason feeling slightly overwhelmed.
+
+With so many wildly different scientific fields advancing simultaneously, how could one man possibly manage them all? He could only maintain a rough, high-level understanding of the progress. Unless a technology was directly related to the Perfect Element or their immediate survival, he had to trust his department heads to manage the details.
+
+While there were countless minor research avenues, the colony’s efforts were generally focused on five major pillars:
+
+automated heavy industry, unraveling the Perfect Element, isolating the Longevity Virus, developing a new fleet of orbital shuttles, and manufacturing space-to-space weaponry.
+
+Despite their incredible successes, a lingering sense of unease gnawed at Jason. It was a feeling that had been building for a long time, but recently, it had become unusually pronounced.
+
+The Aegis Industrial Complex was operating autonomously. The excavators were hauling in endless resources. The stockpiles aboard the Noah grew larger every day, and the crew’s living conditions were rapidly improving... What was there left to worry about?
+
+Jason rubbed his temples, his brow furrowing deeply. He genuinely couldn’t put his finger on it.
+
+Is it one of the new biological projects? Are we moving too fast? Jason pondered. Seeking a distraction, he pulled up the latest classified datapad sent by Professor Constantine regarding the Longevity Virus.
+
+"The Longevity Virus is exponentially more complex than we initially hypothesized," the report began. "Its fundamental biological nature is highly contradictory. Outside of a host, it exhibits incredibly low vitality and an abysmal reproduction rate. Frankly, we have no idea how this organism managed to survive in the Martian soil until now."
+
+"Furthermore, upon invading a human host, the pathogen actually dies off very quickly because it cannot naturally adapt to the internal biochemical environment of the human body."
+
+"Most concerningly, its genome contains massive segments of ’junk DNA’, strange, highly complex genetic sequences that appear to have no functional purpose, alongside vast amounts of redundant coding."
+
+Jason’s frown deepened as he read Professor Constantine’s summary.
+
+If there was one thing human beings instinctively disliked, it was a system whose underlying principles they couldn’t understand.
+
+"The standard, baseline Martian microbes we’ve cataloged are only slightly more complex than Earth-based viruses," the report continued. "Our current scientific models can easily analyze and map them. But the Longevity Virus is an extreme biological outlier. Comparing its genetic complexity to the standard Martian microbes is like comparing a modern supercomputer to a simple abacus."
+
+"Our entire biology department is completely baffled by this evolutionary leap. How could an organism this unbelievably complex naturally evolve from a localized cluster of primitive, single-celled microbes?"
+
+Reading this, Jason’s stomach tightened. Was this the source of his lingering anxiety? Was the Longevity Pathogen a ticking time bomb?
+
+But the allure it presented to humanity was simply too intoxicating to ignore. Many of their most brilliant scientists were already in their fifties; in a few short years, their cognitive and physical faculties would begin to naturally decline. If they could successfully harness a pathogen that safely extended the human lifespan by 50 years, the benefits to the colony would be incalculable!
+
+But this miraculous temptation might also carry a catastrophic, hidden crisis. It was an agonizing dilemma.
+
+Reading further, Constantine outlined the department’s working theories: "
+
+Hypothesis Alpha
+
+: We suspect the Longevity Virus is currently in a transitional evolutionary state. It is attempting to evolve from a simple virus into a highly complex bacterium, which would explain the massive influx of new genetic material. If true, it may eventually become the first true, native bacterium of Mars!"
+
+That explanation made a degree of logical sense. Jason nodded slowly to himself.
+
+"However... the senior geneticists in our research group have proposed
+
+Hypothesis Beta
+
+, which is far more disturbing: The pathogen did not evolve upward from a simpler microbe. Instead, due to some unknown, localized extinction event, it regressed from a vastly higher, more complex form of life down to its current, parasitic stage. We have never witnessed such extreme biological devolution before. Admittedly, this is a highly speculative, theoretical conjecture."
+
+A regression from a higher, complex life form down to a virus? If that was actually true, it implied that something truly extraordinary and horrifying had happened on Mars in the ancient past.
+
+Professor Constantine was clearly plagued by the same doubts. He concluded the report with a proposed action plan: "We are officially requesting permission to utilize CRISPR gene-editing protocols to artificially ’prune’ away the redundant, junk genes.
+
+We want to isolate the absolute core genetic sequence to determine if the stripped-down pathogen can still safely stimulate human stem cell activity without the unpredictable variables."
+
+Jason sat in silence, staring at the datapad before standing up and pacing the length of the captain’s quarters. He forced his unease down. The biology team was being incredibly cautious, and as long as the pathogen was kept strictly quarantined within the maximum-security labs, they could prevent a biological crisis.
+
+He made his decision. He would issue a hard mandate: absolutely no human trials would be authorized until the pathogen’s core mechanisms were 100% understood and verified. Furthermore, anyone who had previously been exposed to the ambient Martian pathogens including himself would now be subjected to rigorous, mandatory medical evaluations every single month.

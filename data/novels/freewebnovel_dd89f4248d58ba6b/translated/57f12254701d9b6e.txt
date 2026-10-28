@@ -1,0 +1,87 @@
+Bölüm 71: Büyük Tasarım
+
+Hadi matematik yapalım.1,06 milyon tonluk uranyum rezervi, ilgili molibden, bakır ve diğer eser minerallerle birleştiğinde... bunlar saf damarlar değil.Ana kayaya gömülüdürler.Bunları çıkarmak, en az iki ila üç yüz milyon ton ham toprağın kazılmasını ve işlenmesini gerektirir!
+
+Ve bu yalnızca tek bir kaynak düğümüdür.Sektöre dağılmış bağımsız demir, bakır, alüminyum ve titanyum yatakları da hesaba katıldığında... en az iki ila üç milyar ton kayayı taşımayı düşünüyorlardı.
+
+Tamam, kulağa şaşırtıcı miktarda malzeme gibi geliyor ama bunlar sadece küçük şeylerdi.Gerçek kabus buzdu!
+
+Jeologlar Mars'ın Kuzey Kutbu yakınlarında dört büyük buzul altı gölünün haritasını çıkarmıştı.İhtiyatlı tahminler hacmin üç bin kilometreküp buz ve su olduğunu gösteriyor.Bu da kabaca üç yüz milyar tona karşılık geliyor.
+
+Üç yüz milyar ton buz!Everest Dağı'nın toplam kütlesi 300 milyar tondu!
+
+Sıvı su olsaydı, yüksek kapasiteli pompalardan oluşan bir ağ kurmak basit bir lojistik sorun olurdu.Ancak buz tamamen farklı bir canavardı.Bu dört gölün yalnızca en alt katmanları sıvı su içeriyordu;büyük çoğunluğu katı permafrosttu.
+
+Bu William'ın ölümü olacaktı.Üç yüz milyar ton... bu sayı neye benziyordu?O andaki adrenalinin onu böyle imkansız bir övünmeye itmesine nasıl izin vermişti?
+
+William'ın çaresiz mırıldanmasını duyan İvanoviç bile nezaketle ağzını kapalı tuttu.Günün sonunda onun imalat kotaları, William'ın çıkarma kotalarıyla karşılaştırıldığında çocuk oyuncağıydı.
+
+"...Yönetmen William, cesaretiniz nerede? Kendinize olan güveniniz nerede? Neden bu kadar korkuyorsunuz?"Profesör Hao Yu, kendini geri çekmeden onu eleştirerek gürledi."Kimse sizden oraya el küreğiyle çıkmanızı istemiyor! Mühendisliğe güvenmeniz gerekiyor! Ölçeğe güvenmeniz gerekiyor!"
+
+Profesör Hao Yu bu konuda kötü bir şöhrete sahipti, herkesi eleştirdi.Bu bakımdan baş virolog Dennis'e benziyordu.Ancak Dennis soğuk ve cerrahi açıdan sertken, Profesör Hao Yu vahşi, abartılı ve gürültücüydü.
+
+"Bu kotaları karşılamak için geleneksel yöntemleri terk etmeliyiz. Aşırı makineleşmeye ve tam otomasyona ihtiyacımız var! Eski paradigmalarımızı temelden yıkmalıyız..."
+
+Profesör Hao Yu'nun gürleyen sesi odada yankılandı."Eski bir mühendislik atasözü vardır: 'Verimimizin tek sınırı hırsımızın ölçeğidir!' Ne demek istediğimi tam olarak anlıyorsunuz!"
+
+William sessiz kaldı.Profesörün asıl amacını anlamıştı.
+
+"Haklı," diye başını salladı Dr. Felix, uzun süredir akademik rakibiyle aynı fikirdeydi."Makinenin her parçası, sıfırdan akıllı, tamamen otonom ve ultra ağır hizmete uygun olacak şekilde tasarlanmalıdır. Aksi takdirde, sınırlı insan gücümüzle asla bir adım bile atamayız."
+
+Dr. Felix, "Artık kendimizin Dünya'ya bağlı düşünme tarafından kısıtlanmasına izin veremeyiz" diye devam etti."Bütçe açıkları, çevresel düzenlemeler veya emisyon standartları konusunda endişelenmemize gerek yok. Maden çıkarmamız gereken tamamen ölü bir gezegenimiz var. Hayal gücümüzü serbest bırakmalı ve kolektif zekamızın her zerresini saf üretime dökmeliyiz!"
+
+Bunu duyan bilim adamları hep birlikte başlarını salladılar.William'ın solgun teni bile biraz renk aldı.
+
+Oda anında kaotik, hızlı bir beyin fırtınası oturumuna dönüştü.Zeki beyinler sınırlamalarından kurtulduğunda sonuçlar korkunç derecede etkilidir.Onların "çılgınlıkları" katı fiziğe dayanıyordu ve imkansız gibi görünen ancak matematiksel olarak kontrol edilen kavramlara yol açıyordu.Masanın üzerinde çılgın, cüretkar fikirler uçuşmaya başladı.
+
+Bu ölçekte madencilik yapmak için ilk darboğaz ulaşımdı: ham cevherin Nuh yakınındaki rafineri sektörlerine geri taşınması.Ay Üssü'nde kullanılan standart taşıma trenleri yolculuk başına maksimum yirmi bin ton kargoya ulaşıyordu.Milyarlarca ton karşısında bunlar adeta oyuncak vagonlardı.
+
+Birisi elektrikli tahrik motorlarının yükseltilmesini ve trenlerin sayısının on kat artırılmasını önerdi.Bu, yolculuk başına iki yüz bin tonluk yük taşımaya olanak tanıyacak.Hacimdeki on kat artış, uzunluğun, genişliğin ve yüksekliğin kabaca 2,1 kat artması anlamına geliyordu.
+
+"Hayır, iki yüz bin ton hala şaka!"başka bir mühendis hemen itiraz etti."Milyarlarca tonluk kotaya karşın bu, kovada bir damla."
+
+"O halde... neden elektrikli tahrikleri doğrudan nükleer tahrik sistemiyle değiştirmiyorsunuz? Trene bir Uçak gemisinin güç çıkışını verin. Kara dretnotuna ne dersiniz? Genişliğini ve uzunluğunu büyük ölçüde ölçeklendiriyoruz. Uçak gemisi boyutunda bir tren tasarlarsak, yük kapasitesi kolayca bir milyon ton sınırını aşabilir..."
+
+Birisi sadece yüksek sesle düşünüyordu, adeta bilim kurgu konuşuyordu.
+
+Ancak saçmalığa rağmen odanın etrafındaki gözler parlamaya başladı.Eğer gerçekten nükleer enerjiyle çalışan bir süper tren tasarlasalardı, tek bir yolculukta 1 ila 2 milyon ton arasında ham madde taşınabilirdi.Verimlilik astronomik olurdu!
+
+Oda şaşkın bir sessizliğe büründü ve bunu kolektif bir farkındalık izledi.Yolculuk başına bir milyon ton.Bunu inşa etmeliyiz.
+
+"Hayır, hayır, kesinlikle hayır! Bu işe yaramaz!"İvanoviç'in yüzü panikle buruştu.Eğer nükleer enerjiyle çalışan bir kara trenini gerçekten onaylasalardı, onu üretmeye zorlanacak olan Aegis Endüstriyel Kompleksi olacaktı.Bu onun imkansız kotalarını daha da kötüleştirmez mi?
+
+Hızla sesini yükseltti."Bayanlar ve baylar, bu kadar kütleye sahip bir araç yapısal olarak imkansızdır! Onu destekleyebilecek raylarımız yok ve hiçbir standart lastik veya sırt bileşiği bu tür bir zemin basıncına dayanamaz. Bu bir fizik kabusu!"
+
+"Nasıl imkansız?"William aniden kükredi; daha önceki kaygısının yerini saldırgan bir ilham almıştı."Unutmayın, Mars'ın yerçekimi Dünya'nınkinin yalnızca üçte biri kadardır! Yapısal yük büyük oranda azaldı! Yer basıncına gelince, tamamen kullanabileceğimiz pek çok geçici çözüm var..."
+
+Diğer mühendisler teker teker William'a destek oldular.Yerçekimi farkı önemliydi;Malzeme biliminin zorlukları çözülebilir.
+
+Bir mühendis kaşlarını çatarak "Hâlâ temel bir engel var: nükleer santralin kendisi" dedi."Tren bir deniz gemisi değildir. Fiziksel boyutları ve ağırlık-güç oranları tamamen farklıdır..."
+
+Profesör Hao Yu, "Bayanlar ve baylar, yüksek verimli nükleer reaktörlerin minyatürleştirilmesi Wolfpack Tasarım Bürosu tarafından zaten çözüldü. Bu sorun değil," diye araya girdi Profesör Hao Yu.
+
+Gerçekte ekibi, Mars'a yaptığı uzun yolculuk sırasında reaktör tasarımını gizlice mükemmelleştiriyordu ve bu, onu açığa çıkarmak için mükemmel bir zamandı.Odanın etrafındaki şaşkın, iri gözlü ifadeleri gören Hao Yu, çaresizce gülmek istedi.Bunun yerine tamamen soğukkanlı, sıradan bir tavır takınmayı zorladı.
+
+En kritik bileşen zaten bitti mi?Konseyin geri kalanı, farkında olmadan Hao Yu'nun egosunu şişirerek şaşkın bir sessizlik içinde oturdu.
+
+Profesör Hao Yu, sesi derin bir tatmin duygusuyla gürleyerek, "O halde mesele halledildi. Süper Trenin yapısal ve mekanik tasarımı tamamen bizim tarafımızdan halledilecek" dedi.Wolfpack Tasarım Bürosu yakın zamanda birçok parlak zekayı bünyesine katmıştı ve onların araştırma yetenekleri tüm zamanların en yüksek seviyesindeydi.
+
+Bunu duyan William derin bir nefes aldı.Kurt Sürüsü'nün itibarını biliyordu;teslim edeceklerdi.
+
+Ancak İvanoviç tuzağa düşmüştü.Matematiği çürütemedi ve yalnızca bıkkınlıkla iç çekebildi.Ancak içten içe mühendisinin kalbi hızla atıyordu.Nükleer enerjiyle çalışan bir tren yapmayı çok istiyordu.
+
+Taşımacılığın geçici olarak çözülmesiyle birlikte ikinci darboğaz çıkarma oldu.Ay'da kullanılan otomatik ekskavatörler hâlâ doğrudan, uzaktan insan müdahalesine ihtiyaç duyuyordu.Bu çok verimsizdi ve aşamalı olarak kaldırılması gerekiyordu.Tamamen otonom, yüksek verimli madencilik makinelerine ihtiyaçları vardı.
+
+Eğer nükleer enerjiyle çalışan trenler masada olsaydı, o zaman nükleer enerjiyle çalışan süper ekskavatörler... bir sorun olmamalıydı, değil mi?Genel fikir birliği buydu.
+
+Ancak tamamen otonom bir ekskavatör teknolojik olarak trenden daha karmaşıktı.Sadece ham güce ihtiyacı yoktu;cevher damarlarını yönlendirmek, tanımlamak ve tehlikelerden kaçınmak için gelişmiş yapay zekaya ihtiyaç vardı.
+
+Gelişmiş Yapay Zeka Laboratuvarı'ndan Bayan Sullivan kendinden emin bir şekilde "İnsansız pilotluk, otonom jeolojik tarama ve dinamik çıkarma rutinleri... Bunun için yazılım mimarisinin tamamen yeteneklerimiz dahilinde olduğunu garanti edebilirim" dedi.
+
+"Bu durumda enstitüm Süper Ekskavatörün fiziksel şasisini ve sensör entegrasyonunu üstlenecek," diye başını salladı Dr. Felix.Hao Yu'nun Kurt Sürüsü trene bindiğinden beri Felix, rakibinin tüm ihtişamı almasına izin vermeyecekti.
+
+"Teşekkür ederim. Hepinize teşekkür ederim," diye nefes verdi William, sonunda tünelin sonunda bir ışık gördü.
+
+Bu arada İvanoviç migren ağrısının yaklaştığını hissetti.Bu planların ölçeği şaşırtıcıydı ve gereken üretim toleransları acımasız olacaktı.
+
+Ancak strese rağmen kan kulaklarında uğulduyordu.Sadece bu imkansız devleri döverek tutkusunu gerçekten arttırabilirdi.Emri altındaki genç mühendislerin de aynı derecede heyecanlanacağını biliyordu!

@@ -1,0 +1,6 @@
+{
+  "sites": [
+    {"id": "novelbuddy", "name": "NovelBuddy", "domain": "novelbuddy.me", "enabled": true, "config": "novelbuddy.json"},
+    {"id": "freewebnovel", "name": "FreeWebNovel", "domain": "freewebnovel.com", "enabled": true, "config": "freewebnovel.json"}
+  ]
+}

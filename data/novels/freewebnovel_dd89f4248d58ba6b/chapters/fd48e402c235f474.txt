@@ -1,0 +1,121 @@
+Chapter 81: Weapon Research
+
+The astrophysics symposium ended in silence, and everyone left with heavy hearts.
+
+Even the optimists were shaken; Arthur Lambert looked deeply preoccupied as he rushed back to the Tesla Institute.
+
+Whenever humanity gathered to discuss the true nature of the cosmos, one conclusion was always inescapable: the universe was incomprehensibly vast, and humanity was terrifyingly small.
+
+This was Jason’s first time attending such a high-level theoretical discussion, and the psychological impact was profound. He felt incredibly uneasy. Yet, as the leader of the Federation, he couldn’t let his anxiety show; he simply kept his brow furrowed as he walked back to his office.
+
+His mind was entirely consumed by the logistics of an interstellar war.
+
+Preparing for the worst before it happened was the fundamental duty of a leader. If you waited until the enemy was at the gates to start building weapons, you were already dead.
+
+So, what exactly did the Federation have in its arsenal?
+
+Aside from a handful of nuclear warheads maintained for symbolic defense, they were practically bare-handed. Old World firearms, machine guns, mortars, and chemical missiles were effective against other humans, but against an advanced alien warship, they were less than garbage.
+
+Laser arrays and electromagnetic pulse (EMP) weapons were the obvious next steps, though humanity’s current prototypes were laughably weak. They were merely a foundation for future research. Back on the Old World, both Western and Eastern superpowers had tested directed-energy weapons; their maximum output was barely enough to melt a fragile orbital satellite.
+
+On a cosmic scale, that kind of firepower was a joke. Jason didn’t expect those technologies to undergo a miraculous, civilization-saving leap in just a few years. EMP technology was similarly bottlenecked; the energy required to generate a ship-killing pulse was simply too massive for their current grid.
+
+Therefore, their most reliable option remained the nuclear warhead.
+
+Despite being slow, relatively easy to intercept, and tactically clumsy, thermonuclear weapons were still humanity’s absolute peak of destructive power. In theory, the yield of a hydrogen bomb could be scaled up infinitely.
+
+However, due to geopolitical stagnation and the relative peace of the late 21st century, Old World nuclear research had practically flatlined. The absolute pinnacle of human engineering was currently a one-billion-ton yield Helium-3 warhead.
+
+And for the Federation, the core ingredient Helium-3 was a strictly finite resource. They had managed to extract roughly two thousand tons of it from the lunar surface before fleeing. While that was plenty for their immediate power needs, it wasn’t nearly enough to supply a prolonged galactic war. Once it was gone, it was gone forever. They couldn’t synthesize more.
+
+Furthermore, a one-billion-ton yield sounded apocalyptic, but in the context of an interstellar war, it was barely a firecracker.
+
+Jason understood this perfectly.
+
+Just how much energy was required to physically shatter a planet like Earth?
+
+Back in the Old World, politicians used to claim that their combined nuclear arsenals could "destroy the Earth ten times over." It was a laughable, arrogant myth. If you detonated all 37,000 nuclear warheads simultaneously, the combined yield would only be a few tens of billions of tons of TNT equivalent. It wouldn’t even scratch the Earth’s crust.
+
+The Chicxulub meteor impact that wiped out the dinosaurs released energy equivalent to 120 trillion tons of TNT. And to the Earth? It was just another crater.
+
+One hundred and twenty trillion tons. Ten thousand times the destructive power of the entire Old World nuclear arsenal, and the planet kept spinning. It was a sobering reminder of just how massive celestial bodies actually were.
+
+Yes, 37,000 nuclear bombs could completely incinerate the biosphere and drive humanity extinct ten times over. But destroying humanity was not the same as destroying the Earth. Humanity did not represent the planet.
+
+Therefore, Jason knew exactly how terrifying the alien weapon that had shattered the Old World truly was. It operated on a scale of physics humanity couldn’t even comprehend.
+
+He forced himself to stop thinking about the impossible. He needed to focus on what they could build. He desperately needed a more violent, highly scalable weapon system.
+
+An idea began to form in his mind: a thermonuclear weapon that utilized standard hydrogen for fusion.
+
+Hydrogen was the most abundant element in the universe, accounting for over 90% of all baryonic matter. If they could figure out how to fuse standard hydrogen isotopes into a weapon, they could scale the yield infinitely, and they would never have to worry about running out of ammunition!
+
+In theoretical physics, this was known as a Tetrahydrogen Bomb the ultimate, final form of a nuclear weapon.
+
+Conventional hydrogen bombs required extremely rare isotopes like deuterium and tritium. Refining them required massive industrial infrastructure, consumed terrifying amounts of electricity, and had a severe production bottleneck. Furthermore, tritium was highly radioactive with a half-life of only 12.3 years, meaning those warheads had a painfully short shelf-life and couldn’t be stockpiled for long-term defense.
+
+The Helium-3 warhead designed by Hao Yu was far more advanced and violent. Because they had mined the Helium-3 directly from the lunar regolith, it skipped the massive industrial refinement process. But the supply was critically low.
+
+Therefore, Jason wanted to pursue the holy grail of nuclear physics: the Tetrahydrogen Bomb.
+
+Deep within the core of a star, four standard hydrogen atoms are crushed together under immense gravity to fuse into a single helium atom, releasing a colossal amount of energy. This is the tetrahydrogen fusion reaction, the engine that powers the universe.
+
+A Tetrahydrogen Bomb would perfectly replicate this stellar process. It wouldn’t require rare deuterium, unstable tritium, or precious Helium-3. It only needed standard, universally abundant hydrogen.
+
+It solved the resource bottleneck entirely. Its yield and production could be expanded infinitely. It was the ultimate weapon.
+
+So why hadn’t the Old World built one?
+
+Because the physics involved were borderline impossible. Standard nuclear fusion only required forcing two atomic nuclei to collide. A Tetrahydrogen reaction required forcing four hydrogen nuclei to collide at the exact same microsecond!
+
+The mathematical difficulty wasn’t just doubled; it was magnified by a factor of a hundred.
+
+Naturally, Jason couldn’t just issue a dictator-style decree demanding they build a miniature sun. He needed to consult the experts.
+
+...
+
+When the Security Department caught wind of the upcoming meeting, the officers were ecstatic.
+
+Humanity finally had a tangible, imaginary enemy to prepare for, which meant massive budget approvals for new weapons and tactical gear. Laser arrays, electromagnetic railguns, the very names sounded cutting-edge and lethal.
+
+Marcus’s dark face twitched with excitement, and he let out a loud, aggressive cheer.
+
+Austin immediately slapped him on the back of the head. "Keep it down, idiot!"
+
+In truth, Austin was just as thrilled, but he kept his face completely neutral. Having served as the head of security for a while now, he had learned the political value of stoicism. He couldn’t act like a trigger-happy meathead like Marcus.
+
+"When we get in there, keep your mouth shut and don’t embarrass me," Austin warned.
+
+"Yes, sir!"
+
+...
+
+It was a closed-door executive meeting, attended only by Jason, the top brass of the Security Department, and the directors of the major research institutes.
+
+The agenda covered the theoretical feasibility of Tetrahydrogen warheads, ship-mounted laser arrays, and heavy electromagnetic railguns.
+
+Professor Hao Yu stared at Jason’s proposal, his expression a mix of scientific fanaticism and deep concern. "A Tetrahydrogen warhead... sir, the physics here are punishing."
+
+"At the core of a star, the temperature sits around fifteen million degrees Celsius, and the pressure is roughly three hundred billion atmospheres. The temperature we can simulate. But that kind of crushing, sustained pressure? It’s physically impossible for us to artificially generate."
+
+Three hundred billion atmospheres was an incomprehensible metric. The maximum pressure generated in the microsecond before a standard hydrogen bomb detonated was only around one million atmospheres.
+
+"Perhaps... if we artificially spike the ignition temperature far beyond stellar norms, we could theoretically lower the pressure requirement," Hao Yu muttered, his brow furrowed in intense calculation.
+
+"Yes," Dr. Felix chimed in, nodding slowly. "As the thermal kinetic energy of the plasma rises, the required pressure for nuclear ignition decreases. But we don’t have a reliable mathematical model for that kind of hyper-thermal reaction. Even with our new Helium-3 detonators, which produce the highest ignition temperatures ever recorded, we have no idea if it’s enough to trigger a four-way fusion event..."
+
+Seeing the room fall silent even the usually trigger-happy Hao Yu was hesitating, Jason realized he had underestimated the engineering wall.
+
+The ultimate weapon wasn’t going to be built in a weekend. If it were easy, the Old World superpowers would have built it decades ago.
+
+"Alright," Jason said smoothly, leaning back. "Let’s put a pin in the Tetrahydrogen project for now. I just wanted to plant the seed. You can all take the theory back to your labs and let it simmer. There’s no hard deadline on this."
+
+The scientists nodded in palpable relief. They were already stretched to the breaking point trying to automate the ship’s industrial base. The Wolfpack Design Bureau was drowning in blueprints for the heavy transport trains, and the Tesla Institute was rushing the nuclear excavators. They simply didn’t have the manpower to build a miniature star right now. They would tackle the theory when their schedules opened up.
+
+"However, the directed-energy and electromagnetic weapons you proposed are highly feasible," Hao Yu suddenly added, his eyes brightening. "The Old World had working prototypes, but they were severely hindered by atmospheric blooming and gravity drag. Their destructive power was, frankly, pathetic barely enough to punch through an armored car. But if we mount them in a hard vacuum, with zero atmospheric interference..."
+
+Hao Yu smiled thinly, leaving the sentence unfinished. He didn’t want Jason to expect Death Star superlasers right away, but the potential was there.
+
+"It’s the only logical path forward," Jason replied, shaking his head. "High-velocity kinetic and directed-energy weapons are the absolute baseline for naval combat in a vacuum. We have to start small and scale up."
+
+"If we don’t start the research now, we’ll never have them when we need them. I’m counting on all of you."

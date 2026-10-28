@@ -1,0 +1,177 @@
+Bölüm 19: Ölüm Sarmalı
+
+Gözlemevindeki sessizlik ağırdı ama Dr. Thomson'ın göğsündeki baskı hissi daha da ağırdı.
+
+Arkasını dönecek vakti bile yoktu.Üst düzey bir bilim adamının keskin sezgisi onu ele geçirmişti; kimsenin tahmin etmediği bir felaketin boşlukta sessizce gelişeceğine dair bir önsezi.
+
+Parmakları klavyenin üzerinde gezindi.Düşünmek için durmadı.Aklında yanan denklemleri basitçe sıraladı:
+
+[Kinetik Enerji Formülü]
+
+[Sürtünme Katsayısı]
+
+[Akışkan Dinamiği]
+
+[Yörünge Mekaniği
+
+]
+
+Değişkenler ekranı doldurdu.
+
+Thomson vuruşu
+
+Girin
+
+.
+
+Üssün süper bilgisayarı insanın düşündüğünden daha hızlıydı.Sonuç bir saniyeden kısa sürede ortaya çıktı.
+
+Thomson dev bir elin kalbini sıktığını hissetti.Yüzündeki kan çekildi ve onu korkunç derecede solgun bıraktı.Numaraya baktı ve yıllardır inanmadığı Tanrı'ya bir hata yaptığı için dua etti.
+
+"Profesör! Bakın ne buldum!"
+
+Laboratuvarın kapısı kayarak açıldı.Genç öğrencisi Timothy hâlâ heyecanla koşuyordu.Ödül gibi bir plastik film kutusu tutuyordu.
+
+"Buz yakaladım! Tuzak işe yaradı!".
+
+Timothy durdu.Akıl hocasının yüzündeki ifadeyi gördü.Thomson genellikle katıydı, iş akışını kesintiye uğratan herkesi azarlayan bir adamdı.Ama bugün azarlamadı.Az önce hayalet görmüş bir adama benziyordu.
+
+Dünya patladığından beri ikisi de ailelerini kaybetmişti.İlişkileri artık öğretmen-öğrenciden daha yakınlaşmış, baba-oğul gibiydiler.
+
+"Timothy," dedi Thomson, sesi iliklerine kadar uzanan bir yorgunlukla titriyordu."Buraya gelin. Hesaplamalarımı kontrol edin."
+
+Thomson kanıtı ekrandaki yeniden elde etmek için kendini zorladı.Formülleri adım adım yazdı.Normal şartlarda bunu uykusunda yapabilirdi.Artık her tuş vuruşu hayatının bir yılını tüketiyormuş gibi hissediyordu.
+
+"Bu..."
+
+Timothy eğilerek verileri taradı.Gençlik heyecanı yerini şaşkınlığa bıraktı.
+
+"Ah... anlıyorum. Parçacık bulutunun içinden geçen bir kürenin sürtünme katsayısını mı hesaplıyorsun? Matematik sağlam görünüyor. Ama neden modelliyorsun..."
+
+Timothy dondu.
+
+Parametreleri tanıdı.
+
+Kütle: 7,34 × 10²² kg (Ay)
+
+Hız: 1,022 km/s
+
+Orta: Silika Tozu ve Su Buharı
+
+Gözleri büyüdü.Bunun bir halüsinasyon olduğunu umarak onları ovuşturdu.Değildi.
+
+Terör mutlaktı.Timothy'nin bacakları dayanamadı ve yere çöktü, akıl hocasına ıslak gözlerle baktı.
+
+"Tanrı bizi terk mi etti?"
+
+---------
+
+Kaptan Jason raporu dakikalar sonra aldı.
+
+İlk başta kan kafasına hücum etti.Oda döndü.Sanki gökyüzü gibiydi, ondan geriye kalanlar onun üzerine çöküyordu.
+
+Bu nasıl mümkün olabilir?
+
+Bir dalga daha durmadan, bir başkası onları boğmak için yükseldi.Henüz gıda krizini bile çözememişlerdi.
+
+"Düşemiyorum... Düşemiyorum..."
+
+Jason mantrayı kendi kendine fısıldadı.Umutsuzluk onu bunaltmakla tehdit etti ama o buna karşı koydu.Dudağını o kadar sert ısırdı ki ağzı kanla doldu.Keskin, bakır tadı onu toprakladı.
+
+Ay Üssü Bir'in Komutanıydı.Umutsuzluğa kapılma lüksü yoktu.
+
+Raporu bir kez daha okudu.Mesleği gereği fizikçi olmasa da mantık temel mekanikti.Sürtünme kinetik enerjiyi ısıya dönüştürür.Sürükleme hızı azaltır.
+
+Sonuç kaçınılmazdı.
+
+Jason'ın alnından bir damla soğuk ter aktı."Lily," diye bağırdı iletişim cihazına."Acil durum konseyi toplantısı. Şimdi. Bütün Bölüm Başkanlarının ve Kıdemli Bilim Adamlarının derhal brifing odasında olmasını istiyorum."
+
+"Ne?"Lily'nin sesi kulağında çıtırdadı, stresli geliyordu."Kaptan, kıdemli personelin şu anda çekilmesi üretim hatlarını aksatacaktır. Hasat hazırlığının ortasındayız..."
+
+"Umurumda değil!"Jason kükredi."Bu bir emirdir!"
+
+------
+
+Toplantı kaos içinde başladı.
+
+Bilim adamları sıraya girerken bir kargaşa yaşandı. Pek çok kişi, yabancı ve asker olan Jason'ın yavaş yavaş bir diktatöre dönüştüğünü ve başka bir moral verici konuşma için eleştirel çalışmalarını kesintiye uğrattığını hissetti.
+
+Jason tartışma zahmetine girmedi.Oturmadı.
+
+"Sessiz ol" dedi, sesi gürültüyü bastırarak."Eleştirel istihbaratım var. Bu iyi bir haber değil. Kendinizi hazırlayın."
+
+Oda, tavrındaki değişimi hissederek sakinleşti.
+
+Jason ana ekranı etkinleştirdi.Basit bir diyagram çizdi: Ay, mahvolmuş Dünya ve dönen bir gaz tabakası.
+
+Jason, "Tahtaya bakın," diye başladı."Bu bizim gerçekliğimiz. Ay, Dünya'nın yörüngesinde dönüyor."
+
+"Dünya yok edildiğinde kütle dağılımı değişti. Yer çekimi değişti, yörüngemiz kabaca 0,21 dışmerkezli bir elipse dönüştü."
+
+"Yörünge değiştikçe yolumuzun yakın tarafı bizi gezegene yaklaştırıyor. Ve şu anda patlamadan arta kalan devasa gaz ve toz bulutunun içinden geçiyoruz."
+
+"Hepiniz yoğunluğun düşük olduğunu biliyorsunuz; Dünya'nın eski atmosferinin yüz binde birinden daha az. Bu, su buharı, kum ve havanın bir karışımı. Toksik olmadığı için bunu görmezden geldik."
+
+Jason duraklayarak odayı taradı.
+
+"Zehirli olmadığı için bir hata yaptık."
+
+Bilim adamları fısıldamaya başladı.Noktaları birleştiriyorlardı.
+
+Jason sertçe, "İnce bir atmosfer bile sürtünme yaratır," dedi."Ay büyüklüğünde bir cisim bu gazın içinden geçtiğinde çok büyük bir sürtünme oluşur. Bu sürtünme kinetik enerjiyi ısıya dönüştürür."
+
+"Beyler, Ay ivme kaybediyor. Biz yavaşlıyoruz !.".
+
+Mırıltılar kesildi.Yüzler solgunlaştı.
+
+Yörüngede yavaşlamanın tek bir anlamı vardı.
+
+"Hız azaldığında," diye devam etti Jason, "merkezcil kuvvet yerçekimi kuvvetinin altına düşer. Ay, Dünya'ya daha da yaklaşmaktadır."
+
+"Enerji kaybettikçe yörüngemiz bozulur. Yerberi düşüyor."
+
+"Bu bir ölüm sarmalı."
+
+Jason yeni bir slayt açtı.
+
+"Üç terminal senaryosu belirledik."
+
+"[Birinci Senaryo: Etki.
+
+Dünya'ya yaklaştıkça meteorların yoğunluğu artıyor.Büyük bir asteroide çarpma olasılığı hızla artıyor.On kilometrelik bir kaya on üç büyüklüğünde bir depreme neden olur ve bu üssü buharlaştırır.
+
+]
+
+".
+
+"[İkinci Senaryo:
+
+Roche Sınırı.Kayalardan kaçınırsak, sonunda Dünya'nın gelgit yerçekiminin Ay'ı parçalamasına yetecek kadar yaklaşırız.Parçalanıyoruz.
+
+]
+
+"
+
+.
+
+"[Üçüncü Senaryo:
+
+Çarpışma
+
+.]"
+
+"Eğer kayalardan ve yer çekiminden kurtulabilirsek... Dünya'ya çarparız."
+
+Odadaki sessizlik mutlaktı.Bir mezarın sessizliğiydi bu.
+
+Jason, Thomson'ın hesaplamalarını gündeme getirdi.Ekran, onların sonunu anlatan yoğun bir matematik duvarıyla doluydu.
+
+"İhtiyatlı tahminlere göre 'Güvenlik Penceresi' kısa."
+
+"Altı ay sonra asteroit çarpma riski kritik hale geliyor.".
+
+"On iki ay sonra... yörünge geri dönüşü olmayan bir noktaya doğru çürüyor."
+
+Jason konseye baktı; insanlığın son umudu.
+
+"Düşüyoruz" dedi Jason, sesi ağırdı."Ve bunu durdurmak için altı ayımız var."

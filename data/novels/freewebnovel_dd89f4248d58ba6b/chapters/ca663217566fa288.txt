@@ -1,0 +1,103 @@
+Chapter 48: Wolfpack Vs Tesla
+
+After Dr. Roman left, Jason immediately forwarded the thermal regulation report to both the Wolfpack Design Bureau and the Tesla Institute.
+
+Scientists existed to solve problems. Why else have these prestigious institutes if the Administrator was expected to fix every technical glitch himself?
+
+Upon receiving the brief, Professor Hao Yu and Dr. Felix, the respective directors, recognized the urgency of the situation and convened immediate strategy meetings.
+
+This project marked the first direct skirmish between the Wolfpack Design Bureau and the Tesla Institute. Although the senior scientists publicly dismissed the idea of a "competition", insisting that scientific discovery was not a sport, the younger researchers were full of vigor. They harbored a strong competitive spirit and subtle rivalries.
+
+The public, starved for entertainment, latched onto the narrative immediately. It became the ship’s favorite topic of gossip.
+
+"Tesla or Wolfpack? Who are you backing?"
+
+"Whoever fixes the heat first gets my vote!"
+
+"Please, what do you know about thermodynamics? You think they’d even look at your resume?"
+
+"Hey, I graduated from a top-tier university on Earth..." The speaker trailed off, realizing the absurdity of the statement. On the Noah, Top universities graduates were as common as grass.
+
+While citizens petitioned the government for universities and libraries, a request Jason was already working on fulfilling, the technical problem of the "rising internal temperature" was largely dismissed by the public as a minor inconvenience. They had faith in their new civilization. How could the great New Human Civilization be stumped by a little heat?
+
+At the Tesla Institute
+
+:
+
+When the directive dropped, the team assembled within ten minutes. There were only thirty of them, but they were the elite of the elite.
+
+The institute was brand new, and morale was high. Most were young geniuses, guided by experienced titans like Dr. Felix.
+
+Felix nodded, satisfied with the discipline. The only drawback was that their laboratory equipment was still being installed.
+
+"Good morning, everyone. We have received an urgent priority task."
+
+"Please review the report on your screens. As industrial capacity ramps up, waste heat is accumulating inside the ship faster than our current systems can shed it. The internal temperature has risen by 2.2 degrees Celsius in a week. The Government requires a solution to dissipate this excess thermal energy into the vacuum."
+
+Felix presented the data clearly and efficiently.
+
+Some of the researchers frowned. Heat dissipation wasn’t theoretically difficult. The challenge was large-scale heat dissipation in a vacuum without venting atmosphere.
+
+Heat is a high-entropy form of energy. Unlike electricity or kinetic energy, it’s hard to convert or move efficiently.
+
+Cooling a room on Earth is simple: you use an air conditioner to pump heat from inside to outside, using the atmosphere as a heat sink. But in space, there is no air outside. You can’t just pump the hot air out, or you’d suffocate the crew. The Noah was a closed system.
+
+The scientists began to debate, pulling up formulas and simulations.
+
+"In a vacuum, convection and conduction are impossible. We rely solely on radiation," one researcher noted. "According to the Stefan-Boltzmann law, the radiative power is proportional to the fourth power of the surface temperature. Hotter surfaces radiate faster."
+
+"Correct. Also, surface properties matter. A rough, black surface radiates heat much more efficiently than a smooth, white one."
+
+One scientist stood up. "The universe is essentially a perfect black body sink. Since the ship’s internal temperature is higher than the background radiation of space, we use heat pipes to transfer thermal energy from the core to external radiators. That’s the current system. I propose we simply upgrade the external radiation capacity."
+
+"I’ve been working on a new graphene composite," another interjected. "Dark, high surface area, excellent emissivity. We could coat the existing radiator fins."
+
+"We could also increase the density of the internal coolant loops..."
+
+"There was a liquid nitrogen cooling rod design used in the XZ Sector projects back on Earth..."
+
+The discussion was lively but orderly. They sought an elegant, efficient, scientifically sound solution.
+
+Felix nodded secretly. The quality of these young minds was exceptional.
+
+Although no one said it aloud, the underlying motivation was clear: We cannot lose to the Wolfpack.
+
+At the Wolfpack Design Bureau
+
+:
+
+In stark contrast to the polite academic discourse at Tesla, the Wolfpack Design Bureau was chaos.
+
+Researchers were shouting, faces flushed, arguing passionately. The atmosphere was less like a university and more like a war room.
+
+If Tesla was about elegance and precision, Wolfpack was about brute force and practicality. Professor Hao Yu’s philosophy was simple: If it works, it doesn’t matter how ugly it is.
+
+Looking at the blueprints piling up on his desk, Professor Hao Yu’s face darkened.
+
+The proposals were technically sound, but... they were insane.
+
+Thermoelectric generator arrays? Massive deployable solar sails used as radiators? One team even proposed retrofitting the entire hull with a new cooling skin.
+
+"Everyone! Quiet down!" Hao Yu shouted. He appreciated the ambition, but they needed focus.
+
+"First, look at this plan." He projected an image onto the main screen.
+
+It was the most popular proposal among the staff: A massive, retractable radiator array that would extend kilometers from the ship.
+
+"This plan is scientifically valid," Hao Yu said. "It has a strong ’industrial aesthetic.’ But..."
+
+He paused for effect. "This single project would consume 80% of our institute’s entire resource and industrial quota for the year!"
+
+"If you all agree, we can do it. But it means we won’t be building anything else for the next six months. No weapons testing. No engine upgrades. Just radiators."
+
+Silence fell over the room. That hit them where it hurt. They were engineers; they wanted to build everything. Blowing their entire budget on a cooling system was unacceptable.
+
+The opposition grew immediately. Even the designer of the plan looked sheepish. They had let their imaginations run wild without considering the logistics.
+
+So, what was the solution? Energy-efficient, effective, and cheap.
+
+While most were still stuck on complex thermal radiation physics, a young man in the back suddenly shouted.
+
+"Why don’t we just use the ice?!"
+
+"Don’t we have a hundred million tons of ice in the cargo hold?"

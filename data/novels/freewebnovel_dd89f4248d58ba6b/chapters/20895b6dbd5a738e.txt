@@ -1,0 +1,111 @@
+Chapter 101: Advice
+
+The scientists immediately tensed up as they began to experiment around the mysterious blast door. They quickly discovered that the moment a drone crossed the threshold into the next room, its video feed degraded significantly.
+
+Bzzzt
+
+... One of the screens flashed with heavy static, and a drone’s telemetry signal suddenly flatlined completely. It had ventured too far!
+
+The operators immediately halted the drone squad’s advance and frantically ran diagnostics. Across the board, all the remaining active video feeds were violently shuddering, and the control latency was spiking.
+
+Jason frowned deeply, watching the remaining feeds. From the perspective of the other drones, the unit that had lost its connection was simply standing completely motionless in the dark room, its fail-safe protocols having locked its servers due to the lost signal.
+
+Was there really some kind of localized anomaly inside that room?
+
+The engineering team ran test after test around the doorframe, but their instruments picked up absolutely nothing: no localized magnetic fields, no electromagnetic pulses, no ionizing radiation...
+
+After several minutes of panicked troubleshooting, the lead communications engineer finally arrived at a rather mundane, almost embarrassing conclusion: there was no anomaly. The wireless signal simply couldn’t penetrate the walls.
+
+The UFO was naturally constructed from heavy, radiation-shielding alloys. Since standard wireless telemetry relied on electromagnetic waves, the ship’s internal bulkheads acted like a massive Faraday cage, effectively blocking the signal.
+
+The only reason they had been able to maintain a connection this far was because the outer hull was riddled with structural fractures, allowing the signal to bleed through the cracks. However, once the drones moved deeper into the ship, with multiple intact bulkheads between them and the surface receiver, the signal degraded rapidly until it finally dropped out.
+
+Hearing this explanation, Jason was at a loss for words. The scientific team was so hyper-vigilant that they had panicked over a basic line-of-sight connectivity issue. That was two false alarms in less than an hour...
+
+Alright, I can’t blame them
+
+, Jason thought to himself.
+
+They’re just being incredibly cautious... and caution is exactly what we need right now!
+
+"Moving through this bulkhead door will take us into the mid-section of the vessel," a middle-aged communications specialist explained, sounding both annoyed at himself and excited by the prospect. "However, this door frame represents the absolute limit of our current signal penetration."
+
+"What is the maximum functional range of the drones?" Jason asked.
+
+"Currently, our maximum penetration depth is about 800 to 1,000 meters, which barely covers the outermost ring of the ship. Our wireless signal simply can’t punch through more than two or three of those heavy interior walls."
+
+The specialist shook his head helplessly. "This is basic physics. Our own ship, the Noah, is built with heavy radiation shielding that kills Wi-Fi. We shouldn’t be surprised that an advanced alien warship does the exact same thing..."
+
+Jason nodded. It seemed remote piloting would only allow them to explore the very edges of the wreck, which was far too limiting. He thought for a moment. "What about hardlining the connection? Can we equip a drone with a spool of fiber-optic cable and have it drag a physical tether behind it to explore deeper?"
+
+A senior robotics engineer grimaced. "Director, that isn’t really feasible either. You’ve seen the terrain inside the ship; the deck is a mess of jagged metal, deep fissures, and debris. If a drone tries to drag a delicate fiber-optic tether behind it, the cable will inevitably get snagged on a sharp edge or pinched in a crack after only a few dozen meters. It would actually reduce our operational range, not expand it."
+
+The drone squad was officially bottlenecked. Their wireless signal was choked by the ship’s armor, and a physical tether was impossible to navigate through the wreckage.
+
+"So, does this mean a human team has to go in?" Jason frowned, a vague sense of unease settling back into his gut.
+
+"Not immediately," the communications specialist replied. "We can use the drones to haul in portable signal repeaters! We can slowly build a daisy-chain of base stations down the corridors to extend our wireless range. However... remote exploration will always have its limits. We firmly believe that a manned expedition will still be required to navigate the deeper, more complex sectors."
+
+Jason remained silent for a long moment before finally making his decision. "Here is the plan: we use the repeater method to explore every single accessible inch of the outer ring. We map the layout, salvage anything useful, and identify any structural hazards! Once we hit a wall that the drones genuinely cannot bypass, then we send in a human strike team!"
+
+The next phase of the operation proceeded smoothly. After confirming there were no immediate, active threats in the outer ring, humanity grew bolder. The automated excavators were reactivated, carefully clearing away the remaining rock and sediment to fully expose the UFO’s cracked hull.
+
+The spider drones mapped the perimeter, while newly fabricated, heavy-duty salvage drones were deployed to physically drag useful debris out of the wreckage.
+
+Over the next few days, they managed to recover a significant haul of artifacts, including dense alloy plating, intricate circuit boards, and several unrecognizable mechanical actuators.
+
+The scientific community was ecstatic! Even the simplest alien mechanism had the potential to spark a technological revolution for humanity.
+
+Of course, the Federation’s quarantine protocols were absolute. Every single artifact recovered from the ship was subjected to rigorous chemical, radiological, and biological sterilization processes before it was ever allowed inside the Noah.
+
+During this salvage phase, the Security Department was busy finalizing the roster for the inevitable manned expedition. Jason had personally overseen the selection process, finally settling on a highly specialized ten-man squad.
+
+Jason was determined to lead the team himself. Despite fierce opposition from old friends like Austin and Roman, who begged him not to risk his life, he refused to back down. His underlying sense of dread had never fully vanished.
+
+He firmly believed the UFO was still hiding something dangerous!
+
+Jason was an Enhanced human. His physical reflexes, combat skills, and marksmanship were unparalleled, but more importantly, he possessed an almost supernatural intuition. If there was a trap waiting in the dark, he was the only one who might sense it before it is activated.
+
+The second slot on the roster went to Calvin. Whether the nervous psychic liked it or not, his unique abilities were too valuable to leave behind. Even if his precognitive visions were notoriously vague and unreliable, his raw danger sense was almost on par with Jason’s. Having two people with supernatural instincts on the team was a massive tactical advantage.
+
+The next three slots were filled by veteran Special Forces operatives: Marcus, the squad’s heavy weapons specialist; Shane, the designated marksman; and Johnny, the demolitions and breaching expert.
+
+The remaining five slots were assigned to elite support personnel, including a cyber-warfare specialist, a combat medic, and an engineering/dismantling expert. Jason chose quality over quantity; this ten-man squad was designed purely for initial reconnaissance and handling obstacles the drones couldn’t bypass.
+
+With this specific loadout, the squad essentially had no tactical weaknesses.
+
+"Director... isn’t this completely reckless?" Austin said, staring at the finalized roster with deep concern. "You cannot put yourself on the frontline."
+
+It wasn’t just Austin; the entire civilian council and the lead scientists had explicitly voiced their opposition. Jason was simply too vital to the Federation. He wasn’t just the Director of the government; he was the spiritual anchor of their entire civilization!
+
+If he died in that ship, there was no clear line of succession.
+
+His authority was absolute, especially after rumors had spread that he was personally responsible for curing the Martian virus.
+
+In the eyes of the public, Jason was a living legend. If he were to fall, the delicate social stability of the Federation might shatter entirely.
+
+"I know exactly what you’re worried about," Jason said, sitting at the head of the conference table, looking at the grim faces of his advisors. "You are terrified that there is a lethal trap waiting inside that ship, and that the expedition team is going to get wiped out."
+
+"But let me ask you this: is my life inherently more valuable than the men I command? If the team gets wiped out, is it suddenly a tragedy just because I was one of the casualties, but acceptable losses if it’s just my soldiers?"
+
+"I know it sounds superstitious, but my gut is screaming at me. I have to go in there myself to make sure the path is clear... If there really is a lethal threat hiding in the dark, my presence drastically reduces the chances of anyone dying!"
+
+Jason’s intuition was a heavy burden; he genuinely felt that if he didn’t lead the breach, his men would walk into a slaughter. But that feeling was entirely subjective; he couldn’t exactly put "bad vibes" in an official risk assessment report.
+
+"The Noah is completely stable right now. The economy is functioning, the industrial sector is automated, and society is moving in a positive direction. I’m just the guy steering the ship... The hard truth is that this civilization will survive without me. It might be a little rougher around the edges, but humanity will endure."
+
+Jason wasn’t just being humble; he believed it. Humans were the most stubbornly resilient creatures in the universe. Even if the Earth exploded, humanity still fought tooth and nail to survive in the void.
+
+"Alright, that’s the end of the discussion. You don’t need to try and talk me out of it. My decision is final!" Jason stated firmly, standing up and leaving the conference room.
+
+Austin and Marcus exchanged heavy sighs as they watched him walk away. It had been the exact same way back on Earth when they ran black-ops together. Jason would always put himself at the absolute front of the formation during the most dangerous breaches, no matter how much his team protested. That was just who he was.
+
+Jason was the de facto absolute ruler of the Noah. Once he made his resolve clear, the council knew it was pointless to argue. All they could do was focus on making sure the expedition was as well-equipped and prepared as humanly possible.
+
+To Jason’s surprise, when the finalized roster was leaked to the public, it didn’t cause panic. Instead, it sparked a massive wave of patriotic fervor. Several of his more die-hard supporters were literally moved to tears.
+
+What kind of civilization had a supreme leader who willingly charged into the dark first? Theirs!
+
+What kind of leader always stood at the most dangerous point on the frontline? Theirs!
+
+This profound cult of personality, born from genuine respect rather than propaganda, was completely unbreakable. To the people of the Federation, the sun shining in their hearts only grew brighter.

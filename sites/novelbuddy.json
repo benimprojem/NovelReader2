@@ -1,0 +1,105 @@
+{
+  "id": "novelbuddy",
+  "name": "NovelBuddy",
+  "domain": "novelbuddy.me",
+  "enabled": true,
+  "selectors": {
+    "title": [
+      "h1",
+      "meta[property='og:title']",
+      "title"
+    ],
+    "cover": [
+      "meta[property='og:image']",
+      ".book-cover img",
+      ".book-img img",
+      "img.cover"
+    ],
+    "description": [
+      "meta[name='description']",
+      "meta[property='og:description']",
+      ".description",
+      ".summary",
+      ".book-summary"
+    ],
+    "author": [
+      ".author a",
+      "a[href*='/author/']",
+      ".book-author"
+    ],
+    "status": [
+      ".book-status",
+      ".novel-status",
+      ".book-info .status",
+      ".info-item.status"
+    ],
+    "genres": [
+      "a[href*='/genre/']",
+      "a[href*='/genres/']",
+      ".genres a",
+      ".tag a"
+    ],
+    "chapter_title": [
+      "h1",
+      ".chapter-title",
+      "h2",
+      "title"
+    ],
+    "chapter_content": [
+      ".novel-tts-content",
+      ".novel-reader-content",
+      ".chapter-content",
+      ".reading-content",
+      "#chapter-content",
+      "article"
+    ]
+  },
+  "chapter_discovery": {
+    "strategy": "next_chain",
+    "preserve_page_order": true,
+    "newest_first_assumed": true,
+    "start_fallback": "oldest_visible",
+    "start_link_text_patterns": [
+      "^start reading$",
+      "^read first$",
+      "^first chapter$",
+      "^begin reading$",
+      "^read from beginning$"
+    ],
+    "next_link_selectors": [
+      "a[rel='next']",
+      "a[aria-label*='Next' i]",
+      "a[title*='Next' i]",
+      ".next-chapter a",
+      "a.next-chapter",
+      ".chapter-next a"
+    ],
+    "next_link_text_patterns": [
+      "^next(?:\\s+chapter)?$",
+      "^next chapter\\b",
+      "^next\\s*›?$",
+      "^older chapter$"
+    ]
+  },
+  "content_cleanup": {
+    "remove_selectors": [
+      "[class*=\"advert\" i]",
+      "[id*=\"advert\" i]",
+      "[class*=\"ads-\" i]",
+      "[id*=\"ads-\" i]",
+      "[class*=\"popup\" i]",
+      "[id*=\"popup\" i]",
+      "[class*=\"recommend\" i]",
+      "[id*=\"recommend\" i]",
+      ".reader-setting",
+      ".reader-settings",
+      ".font-setting",
+      ".translation-toolbar",
+      ".chapter-tools",
+      ".chapter-actions",
+      ".social-share"
+    ],
+    "remove_exact_lines": [],
+    "remove_text_patterns": []
+  }
+}

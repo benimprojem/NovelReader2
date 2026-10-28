@@ -1,0 +1,91 @@
+Chapter 71: The Grand Design
+
+Let’s do the math. The 1.06 million tons of uranium reserves, combined with the associated molybdenum, copper, and other trace minerals... these aren’t pure veins. They are embedded in bedrock. Extracting them requires excavating and processing at least two to three hundred million tons of raw earth!
+
+And that is just a single resource node. Factor in the standalone iron, copper, aluminum, and titanium deposits scattered across the sector... they were looking at moving at least two to three billion tons of rock.
+
+Fine, that sounds like a staggering amount of material, but that was just the small stuff. The real nightmare was the ice!
+
+Geologists had mapped four massive sub-glacial lakes near the Martian North Pole. Conservative estimates put the volume at three thousand cubic kilometers of ice and water. That translated to roughly three hundred billion tons.
+
+Three hundred billion tons of ice! Total mass of Mount Everest was 300 billion tons!
+
+If it were liquid water, it would be a simple logistical issue, just deploy a network of high-capacity pumps. But ice was an entirely different beast. Only the extreme bottom layers of those four lakes contained liquid water; the vast majority was solid permafrost.
+
+This was going to be the death of William. Three hundred billion tons... what did that number even look like? How had he let the adrenaline of the moment push him into making such an impossible boast?
+
+Hearing William’s desperate muttering, even Ivanovich tactfully kept his mouth shut. At the end of the day, his manufacturing quotas were a cakewalk compared to William’s extraction quotas.
+
+"...Director William, where is your courage? Where is your confidence? What are you so afraid of?" Professor Hao Yu boomed, criticizing him without holding back. "No one is asking you to go out there with a hand shovel! You need to rely on engineering! You need to rely on scale!"
+
+Professor Hao Yu was notorious for this, he criticized everyone. In that respect, he was similar to the head virologist, Dennis. However, where Dennis was cold and surgically harsh, Professor Hao Yu was wild, bombastic, and loud.
+
+"To meet these quotas, we have to abandon conventional methods. We need extreme mechanization and total automation! We have to fundamentally shatter our old paradigms..."
+
+Professor Hao Yu’s booming voice echoed across the room. "There’s an old engineering adage: ’The only limit to our yield is the scale of our ambition!’ You know exactly what I mean!"
+
+William remained silent. He understood the Professor’s underlying point.
+
+"He’s right," Dr. Felix nodded, agreeing with his longtime academic rival. "Every piece of machinery must be designed from the ground up to be intelligent, fully autonomous, and ultra-heavy-duty. Otherwise, with our limited manpower, we’ll never make a dent."
+
+"We can no longer allow ourselves to be constrained by Earth-bound thinking," Dr. Felix continued. "We don’t need to worry about budget deficits, environmental regulations, or emission standards. We have an entire dead planet to strip-mine. We need to unleash our imaginations and pour every ounce of our collective intellect into pure production!"
+
+Hearing this, the scientists nodded in unison. Even William’s pale complexion regained some color.
+
+The room immediately descended into a chaotic, rapid-fire brainstorming session.
+
+When brilliant minds throw off their restraints, the results are terrifyingly effective. Their "madness" was grounded in hard physics, leading to concepts that sounded impossible but mathematically checked out. Wild, audacious ideas began to fly across the table.
+
+To mine at that scale, the first bottleneck was transportation: hauling the raw ore back to the refining sectors near The Noah. The standard transport trains used on the Lunar Base maxed out at twenty thousand tons of cargo per trip. In the face of billions of tons, they were practically toy wagons.
+
+Someone suggested upgrading the electric drive engines and scaling the trains up by a factor of ten. That would allow payloads of two hundred thousand tons per trip. A ten-fold increase in volume meant scaling the length, width, and height by roughly 2.1 times.
+
+"No, two hundred thousand tons is still a joke!" another engineer immediately objected. "Against a multi-billion-ton quota, it’s a drop in the bucket."
+
+"Then... why not swap the electric drives for a direct nuclear-propulsion system? Give the train the power output of a Aircraft carrier. What about a land-dreadnought? We scale its width and length massively. If we design an aircraft-carrier-sized train, the payload capacity could easily break the one-million-ton mark..."
+
+Someone was just thinking out loud, practically spouting science fiction.
+
+But despite the absurdity, eyes around the room began to light up. If they actually engineered a nuclear-powered super-train, a single trip could haul one to two million tons of raw material. The efficiency would be astronomical!
+
+The room fell into a stunned silence, followed by a collective realization. A million tons per trip. We have to build this.
+
+"No, no, absolutely not! That won’t work!" Ivanovich’s face contorted in panic. If they actually approved a nuclear-powered land-train, his Aegis Industrial Complex would be the one forced to fabricate it. Wouldn’t that make his own impossible quotas even worse?
+
+He quickly raised his voice. "Ladies and gentlemen, a vehicle of that mass is structurally impossible! We don’t have rails that can support it, and no standard tire or tread compound can withstand that kind of ground pressure. It’s a physics nightmare!"
+
+"How is it impossible?" William suddenly roared, his earlier anxiety replaced by aggressive inspiration. "Don’t forget, Martian gravity is only one-third of Earth’s! The structural load is drastically reduced! As for the ground pressure, there are plenty of workarounds we can completely utilize..."
+
+One by one, the other engineers backed William up. The gravity differential was the key; the material science challenges could be solved.
+
+"There is still a primary hurdle: the nuclear power plant itself," an engineer pointed out, furrowing his brow. "A train isn’t a naval carrier. The physical dimensions and weight-to-power ratios are entirely different..."
+
+"Ladies and gentlemen, the miniaturization of high-output nuclear reactors has already been solved by the Wolfpack Design Bureau. That is a non-issue," Professor Hao Yu interjected smoothly.
+
+In truth, his team had been secretly perfecting the reactor design during the long voyage to Mars, and this was the perfect moment to unveil it. Seeing the shocked, wide-eyed expressions around the room, Hao Yu desperately wanted to burst out laughing. Instead, he forced a perfectly nonchalant, casual demeanor.
+
+The most critical component is already finished?
+
+The rest of the Council sat in stunned silence, unwittingly inflating Hao Yu’s ego.
+
+"Then it’s settled. The structural and mechanical design of the Super-Train will be handled entirely by us," Professor Hao Yu announced, his voice booming with deep satisfaction. The Wolfpack Design Bureau had recently absorbed several brilliant new minds, and their research capabilities were at an all-time high.
+
+Hearing this, William let out a massive sigh of relief. He knew the Wolfpack’s reputation; they would deliver.
+
+Ivanovich, however, was trapped. He couldn’t refute the math and could only sigh in exasperation. Deep down, however, his engineer’s heart was racing. He desperately wanted to build a nuclear-powered train.
+
+With transportation tentatively solved, the second bottleneck was extraction. The automated excavators used on the Moon still required direct, remote human operation. That was far too inefficient and had to be phased out. They needed fully autonomous, high-yield mining rigs.
+
+If nuclear-powered trains were on the table, then nuclear-powered super-excavators... shouldn’t be an issue, right? That was the general consensus.
+
+However, a fully autonomous excavator was technologically more complex than a train. It didn’t just need raw power; it needed advanced artificial intelligence to navigate, identify ore veins, and avoid hazards.
+
+"Unmanned piloting, autonomous geological scanning, and dynamic extraction routines... I can guarantee the software architecture for that is entirely within our capabilities," Ms. Sullivan of the Advanced AI Laboratory stated confidently.
+
+"In that case, my institute will handle the physical chassis and sensor integration for the Super-Excavator," Dr. Felix nodded. Since Hao Yu’s Wolfpack took the train, Felix wasn’t about to let his rival take all the glory.
+
+"Thank you. Thank you all," William breathed out, finally seeing a light at the end of the tunnel.
+
+Ivanovich, meanwhile, felt a migraine coming on. The scale of these blueprints was staggering, and the manufacturing tolerances required would be brutal.
+
+But despite the stress, the blood roared in his ears. Only by forging these impossible behemoths could his passion truly surge. He knew the young engineers under his command would be just as thrilled!

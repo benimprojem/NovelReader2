@@ -1,0 +1,101 @@
+Bölüm 48: Wolfpack Tesla'ya Karşı
+
+Dr. Roman ayrıldıktan sonra Jason termal düzenleme raporunu derhal hem Wolfpack Tasarım Bürosuna hem de Tesla Enstitüsüne iletti.
+
+Bilim insanları sorunları çözmek için vardı.Yöneticinin her teknik arızayı kendisinin düzeltmesi bekleniyorsa, bu prestijli enstitüler neden var olsun ki?
+
+Brifingi aldıktan sonra, ilgili direktörler Profesör Hao Yu ve Dr. Felix, durumun aciliyetini fark ettiler ve acil strateji toplantıları düzenlediler.
+
+Bu proje Wolfpack Tasarım Bürosu ile Tesla Enstitüsü arasındaki ilk doğrudan çatışmayı işaret ediyordu.Kıdemli bilim insanları, bilimsel keşfin bir spor olmadığında ısrar ederek "rekabet" fikrini kamuoyu önünde reddetmiş olsalar da, genç araştırmacılar oldukça enerjikti.Güçlü bir rekabet ruhuna ve incelikli rekabetlere sahiplerdi.
+
+Eğlenceye aç olan halk, anlatıyı hemen benimsedi.Geminin en sevdiği dedikodu konusu haline geldi.
+
+"Tesla'yı mı, Wolfpack'i mi? Kimi destekliyorsun?"
+
+"Isıyı ilk kim düzeltirse oyum alır!"
+
+"Lütfen, termodinamik hakkında ne biliyorsun? Özgeçmişine bakacaklarını mı sanıyorsun?"
+
+"Hey, dünyadaki en iyi üniversitelerden birinden mezun oldum..." Konuşmacı, bu ifadenin saçmalığını fark ederek sustu.Nuh'ta, en iyi üniversitelerden mezun olanlar otlar kadar yaygındı.
+
+Vatandaşlar üniversiteler ve kütüphaneler için hükümete dilekçe verirken, Jason'ın zaten yerine getirmeye çalıştığı bir talepti, "artan iç sıcaklık" gibi teknik sorun halk tarafından büyük ölçüde küçük bir rahatsızlık olarak görmezden gelindi.Yeni medeniyetlerine inançları vardı.Büyük Yeni İnsan Uygarlığı biraz sıcaktan nasıl şaşkına dönebilirdi?
+
+Tesla Enstitüsü'nde
+
+:
+
+Talimat düştüğünde ekip on dakika içinde toplandı.Sadece otuz kişiydiler ama elitlerin seçkinleriydiler.
+
+Enstitü yepyeniydi ve moral yüksekti.Çoğu, Dr. Felix gibi deneyimli devlerin rehberliğinde genç dahilerdi.
+
+Felix disiplinden memnun olarak başını salladı.Tek dezavantajı laboratuvar ekipmanlarının hâlâ kurulu olmasıydı.
+
+"Herkese günaydın. Acil, öncelikli bir görev aldık."
+
+"Lütfen raporu ekranlarınızda inceleyin. Endüstriyel kapasite arttıkça, geminin içinde atık ısı, mevcut sistemlerimizin atabileceğinden daha hızlı bir şekilde birikiyor. İç sıcaklık bir haftada 2,2 santigrat derece arttı. Hükümet, bu fazla termal enerjiyi boşluğa dağıtacak bir çözüme ihtiyaç duyuyor."
+
+Felix verileri açık ve etkili bir şekilde sundu.
+
+Araştırmacılardan bazıları kaşlarını çattı.Isı dağıtımı teorik olarak zor değildi.Zorluk, havalandırma atmosferi olmayan bir vakumda büyük ölçekli ısı dağılımıydı.
+
+Isı, yüksek entropili bir enerji şeklidir.Elektrik veya kinetik enerjinin aksine, verimli bir şekilde dönüştürülmesi veya taşınması zordur.
+
+Dünyadaki bir odayı soğutmak basittir: Atmosferi bir soğutucu olarak kullanarak ısıyı içeriden dışarıya pompalamak için bir klima kullanırsınız.Ancak uzayda dışarıda hava yoktur.Sıcak havayı öylece dışarı pompalayamazsınız, yoksa mürettebatı boğarsınız.Nuh kapalı bir sistemdi.
+
+Bilim insanları formüller ve simülasyonlar ortaya koyarak tartışmaya başladılar.
+
+Bir araştırmacı, "Boşlukta konveksiyon ve iletim imkansızdır. Biz yalnızca radyasyona güveniyoruz" dedi."Stefan-Boltzmann yasasına göre ışınım gücü, yüzey sıcaklığının dördüncü kuvvetiyle orantılıdır. Daha sıcak yüzeyler daha hızlı yayılır.""Doğru. Ayrıca yüzey özellikleri de önemlidir. Pürüzlü, siyah bir yüzey, ısıyı pürüzsüz, beyaz olandan çok daha verimli bir şekilde yayar."
+
+Bir bilim adamı ayağa kalktı."Evren aslında mükemmel bir siyah cisim yutucusu. Geminin iç sıcaklığı, uzayın arka plan radyasyonundan daha yüksek olduğundan, termal enerjiyi çekirdekten harici radyatörlere aktarmak için ısı boruları kullanıyoruz. Mevcut sistem bu. Ben sadece harici radyasyon kapasitesini yükseltmeyi öneriyorum."
+
+Bir diğeri, "Yeni bir grafen kompoziti üzerinde çalışıyorum" diye araya girdi."Karanlık, yüksek yüzey alanı, mükemmel emisyon. Mevcut radyatör kanatçıklarını kaplayabiliriz."
+
+"Ayrıca dahili soğutma sıvısı döngülerinin yoğunluğunu da artırabiliriz..."
+
+"Dünyadaki XZ Sektörü projelerinde kullanılan bir sıvı nitrojen soğutma çubuğu tasarımı vardı..."
+
+Tartışma canlı ama düzenliydi.Zarif, verimli ve bilimsel açıdan sağlam bir çözüm aradılar.
+
+Felix gizlice başını salladı.Bu genç beyinlerin kalitesi olağanüstüydü.
+
+Kimse bunu yüksek sesle söylemese de altta yatan motivasyon açıktı: Wolfpack'e yenilemeyiz.
+
+Wolfpack Tasarım Bürosunda
+
+:
+
+Tesla'daki kibar akademik söylemin tam tersine, Wolfpack Tasarım Bürosu kaos içindeydi.
+
+Araştırmacılar bağırıyor, yüzler kızarıyor ve tutkuyla tartışıyorlardı.Atmosfer bir üniversiteden çok bir savaş odasına benziyordu.
+
+Eğer Tesla zarafet ve hassasiyetle ilgiliyse, Wolfpack de kaba kuvvet ve pratiklikle ilgiliydi.Profesör Hao Yu'nun felsefesi basitti: Eğer işe yarıyorsa ne kadar çirkin olduğunun bir önemi yok.
+
+Masasında biriken planlara bakan Profesör Hao Yu'nun yüzü karardı.
+
+Teklifler teknik olarak mantıklıydı ama... çılgıncaydı.
+
+Termoelektrik jeneratör dizileri?Radyatör olarak kullanılan devasa konuşlandırılabilir güneş yelkenleri mi?Hatta bir ekip, gövdenin tamamının yeni bir soğutma kaplamasıyla donatılmasını bile önerdi.
+
+"Millet! Sessiz olun!"Hao Yu bağırdı.Bu hırsı takdir ediyordu ama odaklanmaya ihtiyaçları vardı.
+
+"Önce şu plana bakın."Ana ekrana bir görüntü yansıttı.
+
+Personel arasında en popüler teklif şuydu: Gemiden kilometrelerce uzağa uzanabilecek devasa, geri çekilebilir bir radyatör dizisi.
+
+Hao Yu, "Bu plan bilimsel olarak geçerlidir" dedi."Güçlü bir 'endüstriyel estetiği' var. Ama..."
+
+Etkisi için durakladı."Bu tek proje, enstitümüzün yıl içindeki tüm kaynak ve endüstriyel kotasının %80'ini tüketecektir!"
+
+"Hepiniz aynı fikirdeyseniz bunu yapabiliriz. Ancak bu, önümüzdeki altı ay boyunca başka hiçbir şey yapmayacağımız anlamına geliyor. Silah testi yok. Motor yükseltmesi yok. Sadece radyatörler."
+
+Sessizlik çöktü odaya.Bu onları acıtan yerden vurdu.Onlar mühendislerdi;her şeyi inşa etmek istediler.Bütçelerinin tamamını soğutma sistemine harcamak kabul edilemezdi.
+
+Muhalefet anında büyüdü.Planın tasarımcısı bile utangaç görünüyordu.Lojistiği düşünmeden hayal güçlerinin çılgına dönmesine izin vermişlerdi.
+
+Peki çözüm neydi?Enerji tasarruflu, etkili ve ucuz.
+
+Çoğu hala karmaşık termal radyasyon fiziğine takılıp kalmışken, arkadaki genç bir adam aniden bağırdı.
+
+"Neden sadece buzu kullanmıyoruz?!"
+
+"Kargo ambarımızda yüz milyon ton buz yok mu?"

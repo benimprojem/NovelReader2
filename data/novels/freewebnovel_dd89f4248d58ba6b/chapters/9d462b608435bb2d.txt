@@ -1,0 +1,95 @@
+Chapter 143: Quantum Computer
+
+Hearing the engineer’s assessment, Jason felt a massive headache coming on. How had an astronomical observation problem suddenly morphed into a supercomputing crisis? He acutely felt the intricate, tangled web of modern scientific disciplines, and the suffocating limitations of humanity’s current depth of knowledge. These limitations seemed to plague them at every turn.
+
+The path of scientific development is never a straight, broad highway; rather, it is a complex, sprawling network of overlapping trails. Mathematics is the absolute foundation, branching out into physics, chemistry, biology, and so on, which then splinter into thousands of hyper-specialized sub-fields.
+
+Because the Federation’s population was so small, many seemingly niche scientific fields were simply abandoned due to a lack of manpower. It was a tragic reality. Millions of research papers sat untouched in the Noah’s databanks, quietly waiting for someone with the right background and the free time to discover them.
+
+However, these numerous branches of science constantly promote or constrain one another. For example, a minor breakthrough in theoretical chemistry can unlock a new branch of materials science, which in turn revolutionizes structural engineering, and so on.
+
+This current bottleneck was simply a symptom of a small population and a severe lack of developmental time. Jason firmly believed that if humanity could just survive a few more years, the current explosion of theoretical breakthroughs would completely transform their entire technological base.
+
+Computer science, however, was a critical foundational discipline that couldn’t wait.
+
+Nearly every modern industry aboard the Noah relied heavily on localized computer support. For instance, the automated assembly lines at the Aegis Industrial Complex and the navigation of the drone mining fleets both required massive supercomputers for backend control. Furthermore, almost all R&D endeavors, from metallurgy to astrophysics required complex digital modeling, data analysis, and large-scale simulations. Solving massive equations and rendering data models demanded constantly faster, more powerful processors.
+
+Because of this, the Noah’s main supercomputer was always running at maximum capacity, its processing time fiercely fought over by every department.
+
+This situation was highly dangerous. The central mainframe had to reserve a significant portion of its computing power just to monitor the Noah’s vital life support systems, structural integrity fields, and external sensors to ensure the physical survival of the fifty thousand humans aboard.
+
+Jason had long wanted to build a dedicated, next-generation supercomputer to alleviate this bottleneck. However, classical silicon-based computer architecture had hit a hard physical limit, and the Noah’s existing mainframes hadn’t been upgraded in years. Their processing speeds were rapidly becoming obsolete in the face of deep-space survival.
+
+There were many theoretical avenues for next-generation computing, such as biological processors or quantum computers. Biological computers still sounded like pure science fiction, making quantum computing the most realistic and achievable goal.
+
+Before the fall of Earth, several global superpowers had successfully achieved the stable quantum entanglement of 10 photons, accumulating a wealth of foundational research. Based on Jason’s understanding, after so many years of continued theoretical work aboard the Noah, they should be close to a major breakthrough in this field.
+
+For highly technical inquiries like this, Jason usually avoided convening a full council meeting to save time. Instead, he went straight to Lily’s research institute. Lily had an uncanny, almost unnatural familiarity with the minutiae of every single R&D project on the ship; Jason had no idea how she managed to keep track of it all.
+
+As Jason walked through the gleaming corridors of the science sector, he silently reviewed the basic principles of quantum computing, determined not to look completely clueless and get mocked by the engineering nerds.
+
+The theoretical upper limit of a quantum computer is vastly superior to that of classical binary computers because its processing power scales exponentially, not linearly.
+
+Stable entanglement of 10 photons means the quantum computer can perform 2^{10} operations per single processing step, which equals 1,024 simultaneous operations.
+
+1,024 calculations per cycle doesn’t sound particularly impressive. A standard civilian smartphone can perform hundreds of millions of linear calculations per second. However, with quantum architecture, every additional controllable photon doubles the computing speed!
+
+When the system reaches 50 stable photons, the computer performs 2^{50} operations per step, roughly 1.12 quadrillion calculations. At that point, a single quantum processor would rival the raw power of the Noah’s fifth-ranked supercomputer
+
+At 60 entangled photons, its computing power would eclipse the combined power of every classical computer in human history!
+
+If they could achieve 100 stable photons, the calculation speed per cycle would be 2^{100}! At that terrifying speed, the Noah’s massive central mainframe would look like a rusted abacus in comparison.
+
+And what about 200, 300, or even 1,000 photons?
+
+2^{1000}? That was a number so astronomically large it defied human comprehension!
+
+"You’re vastly oversimplifying the engineering," Lily said dryly, not even looking up from her datapad as she shattered Jason’s daydream. "Theoretically, yes, the computational power scales infinitely. But practically, it’s an engineering nightmare."
+
+"The qubits in a quantum computer must maintain perfect entanglement to function. The more photons you introduce into the system, the exponentially harder it becomes to maintain that stable state. Our current containment technology cannot keep thousands of photons entangled simultaneously without the waveform collapsing..."
+
+"To even attempt large-scale entanglement, the physical hardware must operate in a perfect vacuum and at near-absolute zero to maintain superconductivity. It requires flawless quantum dots, nuclear magnetic resonance shielding, perfect optical pathways, and frictionless superconducting rings..."
+
+Lily rattled off a dizzying list of complex technical jargon, leaving Jason completely bewildered. He had always struggled with the dense, abstract math of quantum mechanics.
+
+"Just give it to me straight," Jason interrupted with a sigh. "Are we currently capable of building a quantum computer with enough power to run the Gravitational Wave Telescope?"
+
+Lily looked up, her expression radiating sheer disdain for his layman’s impatience. She rolled her eyes. "...Yes. Using purely human technology, we have pushed the limit to roughly 30 to 50 stable, entangled photons."
+
+Jason frowned, clearly dissatisfied. Fifty photons was barely enough to match one of their backup mainframes! A quantum computer of that caliber was nowhere near powerful enough to run the alien telescope!
+
+Seeing his disappointment, Lily continued, "...However, during the initial salvage of the crashed spacecraft on Mars, we recovered a heavily damaged central processor. Do you remember it? Upon analysis, we realized it was a highly advanced quantum computer."
+
+"We can attempt to repair it and integrate it with our systems, but it will require cannibalizing a significant amount of the exotic materials we salvaged from the UFO..."
+
+Lily rapidly pulled up a highly classified file on her terminal and projected it onto the wall. "The Lake Light Supercomputing Center drafted a feasibility report on repairing the alien processor a few months ago. You can review the material requirements here..."
+
+"So, the Gravitational Wave Telescope is an alien artifact, and now the computer required to run it also has to be built from alien artifacts?"
+
+Jason’s tone was heavy with frustration. He grabbed the physical datapad, glanced at the requisition list, and his face instantly paled.
+
+The repair requirements called for massive quantities of high-performance superconducting alloys and exotic electromagnetic metamaterials, all of which could only be sourced from the remaining UFO wreckage! Wasn’t this a political disaster? Those specific materials were currently locked down by the major physics labs and were considered their most prized research specimens.
+
+If he suddenly barged in and demanded they hand over their most valuable alien samples just to build a computer, those senior scientists would riot!
+
+"Are these specific alien materials absolutely necessary?" Jason asked, wincing. He could already picture himself being mercilessly berated by the science directors. When senior researchers got angry, they didn’t care if you were the Director of the Federation; they would scream at you all the same.
+
+"We could attempt to substitute them with our own best synthetic materials, but the system’s overall stability and performance would plummet," Lily stated coldly. "You understand the barrel theory, Jason. The system is only as fast as its slowest component. If we introduce a human-made weak link into an alien quantum architecture, the entire processing speed will drag."
+
+"Fine, I get it," Jason muttered, rubbing his eyes in annoyance.
+
+The telescope was alien. The supercomputer had to be alien. Compared to these artifacts, human technology was primitive garbage, and it bruised his pride immensely.
+
+Relying so heavily on salvaged alien technology created a deep, pervasive sense of insecurity among the leadership. Because they didn’t fully understand the underlying physics of how these machines worked, using them felt like handling an unexploded bomb.
+
+A civilization’s core security cannot rely on imported, unverified black boxes. Back on Earth, a superpower’s defense network couldn’t run on hardware manufactured by a rival nation, just as their fighter jets couldn’t rely entirely on imported engines. The same logic applied to the Federation; the top scientists were incredibly reluctant to plug highly classified data into alien hardware they couldn’t fully reverse-engineer.
+
+Using these artifacts implied inherent instability. If the alien quantum computer experienced a calculation error, or worse, contained a hidden backdoor, humanity wouldn’t even know how to detect it, let alone fix it.
+
+In reality, Jason was being far too hard on himself and his people. Humanity had been a space-faring species for less than a year; it was wildly unrealistic to expect them to instantly match the technological mastery of an ancient, interstellar empire.
+
+But the current tactical situation didn’t care about their bruised egos. They had no choice. Survival was the absolute highest priority. Without the massive processing power of the alien supercomputer, they couldn’t operate the Gravitational Wave Telescope. Without the telescope, they were blind to the movements of the Viridian fleet...
+
+For now, humanity had to take a leap of faith and trust the salvaged artifacts. With human technology alone, tracking the Viridian Empire was impossible.
+
+This was a matter of life and death. Building that quantum supercomputer was now his absolute top priority, no matter how many angry scientists he had to yell at.

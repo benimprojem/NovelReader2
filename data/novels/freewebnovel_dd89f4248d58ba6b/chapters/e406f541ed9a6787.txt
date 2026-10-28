@@ -1,0 +1,177 @@
+Chapter 11: Opening The Tomb
+
+The adrenaline of speech in the auditorium has faded. Now, Jason was just a tired soldier sitting at the head of a steel table.
+
+The Central Briefing Hall was packed. Three hundred of the smartest people left sat in the room. The air smelled like stale coffee and sweat.
+
+Silence hung over the room. These people weren’t working anymore, they were grieving. They stared at their tablets or the floor, their minds still trapped in the ashes of Earth. They were waiting for Jason to perform a miracle, to wave a hand and fix the broken world.
+
+Jason didn’t wave a hand. He slammed a heavy file onto the table.
+
+BAM
+
+.
+
+The noise echoed like a gunshot. Thier heads snapped up.
+
+"Wake up," Jason said, his voice rough. "I know you’re hurt. I know you want to mourn. But if we spend today feeling sorry for ourselves, we will starve tomorrow."
+
+He didn’t wait for a response. He tapped the console in front of him. The massive screen behind him flickered to life, displaying a stark, terrifying set of numbers.
+
+It wasn’t a speech. It was a death sentence written in math.
+
+[COLONY STATUS REPORT]
+
+[Total Population: 51,223]
+
+[Daily Food Need: 7 Tons]
+
+[Current Food Reserves: 700 Tons]
+
+[Time to Starvation: 98 Days]
+
+A ripple of murmurs went through the room. They were scientists; they understood the data immediately.
+
+"Ninety-eight days," Jason said, stepping out from behind the table. "That is our hard limit. That is if we assumes we cut rations to the bone starting now."
+
+He looked at the faces in the front row.
+
+"Do you know what happens on Day 99?" Jason asked softly. "It won’t be heroic day. We won’t fade away peacefully in our sleep."
+
+"Hunger breaks the mind before it breaks the body. On Day 99, Mother’s will maybe start to trade their children for a mouthful of food. We will turn on each other. We will start to eat the dead, and then we will begin to eat the living."
+
+The room went deathly silent. The abstract grief for Earth was replaced by a real, immediate terror.
+
+"We have to act now," Jason commanded. "We need a solution, and we need it now."
+
+"Why not make it?" a junior engineer called out. "We have water. We have power. Can’t we just print glucose?"
+
+"Impossible," Dr. Roman, the Chief Biologist, snapped immediately. He looked exhausted, rubbing his temples. "We tried it before but without plants, the energy cost to make food from scratch is too high. We would drain the reactor in a week just to make enough sugar for one meal. We need photosynthesis."
+
+Chernov, the Head of Agriculture, stood up slowly. He looked tired, but the challenge sparked something in his eyes.
+
+"Captain," Chernov said, clearing his throat. "We can switch to intensive farming. We have the tech. We can weld steel frames to stack rice trays ten layers high. A Vertical farming."
+
+He tapped his datapad, showing a 3D model next to Jason’s grim stats.
+
+"If we ignore the energy costs, we can mass-produce modified rice. The yields are high. We would need about five hundred units to feed the population and It’s doable."
+
+The tension in the room broke slightly. It sounded like a plan. It sounded like hope.
+
+"Sit down, Chernov."
+
+Dr. Roman stood up, his lab coat stained with coffee. "You are oversimplifying things. You are thinking like a high school student on Earth."
+
+Roman adjusted his glasses, pointing at the schematic. "This isn’t Earth. Where are you going to get the Carbon Dioxide?"
+
+Chernov blinked. "We... we have the air scrubbers..."
+
+"The scrubbers vent CO2 into the space because we treat it as waste!" Roman shouted, his stress boiling over. "Plants need carbon to grow. We don’t have an atmosphere to pull from. To grow that much rice, we need tons of CO2 daily. We are starving of carbon!"
+
+"We have the water," Jason interjected, trying to steer the debate. "We are sitting on the edge of the crater at the South Pole. We have millions of tons of ice under us. Oxygen isn’t the problem."
+
+"Exactly," a physicist yelled from the back. "So we make the carbon! We have methane ice at the poles. We can burn it to produce CO2 and water. We can force the chemistry!"
+
+"Burning methane requires oxygen!" Roman roared back. "We are already running machines overtime just so fifty thousand people can breathe. If you burn our oxygen reserves to feed the plants, we suffocate before we starve!"
+
+The room erupted into chaos. It was a war of numbers. Biologists screamed about the carbon cycle; engineers screamed about power consumption.
+
+"You are robbing the future to pay for the present!" Roman argued, his face red. "You want to create a toxic air loop? It’s suicide! We need a stable environment, a biosphere, not a factory!"
+
+"We don’t have time for a stable environment, Roman!" the physicist countered. "We have ninety-eight days!"
+
+Roman opened his mouth to fight for the science.
+
+But a hand touched his arm.
+
+It was Lily, his adopted daughter. She stood beside him, looking small amidst the shouting adults.
+
+"Father," she said softly. Her voice wasn’t loud, but it cut through Roman’s rage.
+
+She pointed at the countdown on the main screen.
+
+"We have to survive the next one hundred days before we can worry about the next one hundred years."
+
+Roman froze. He looked at the number: 98 Days.
+
+He looked at Lily. He saw the fear in her eyes, not for the ecosystem, but for her life.
+
+Roman slumped. He sat back in his chair and took off his glasses. "You... you’re right. A garden isn’t built in a day. We do it the other way."
+
+The room quieted down. The consensus was reached: chemical synthesis. Dirty energy. Whatever is possible without thinking about thier future consequences.
+
+Jason watched them. He stepped forward again.
+
+"Now that we have method," Jason said. "But even with fast-growing vertical farms, standard rice takes four months to harvest. That puts us past the deadline. We’ll be dead before the first grain is ripe."
+
+"That is why I am authorizing the use of the Perfect Element."
+
+Gasps of shock rippled through the room. The Perfect Element was the most valuable thing they had. It was too precious to use on plants.
+
+"We have enough in the vault to treat millions of people," Jason said coldly. "But there are only fifty thousand of us left. We can spare it."
+
+Dr. Roman stood up again, this time with professional focus. He projected a new set of data.
+
+[PROJECT: SUPER RICE]
+
+[Boost: Perfect Element Infusion]
+
+[Growth Time: 60 Days]
+
+[Type: Woody Stem (Strong)]
+
+[Caloric Yield: 300% Standard]
+
+"It works," Roman said. "If we treat the seeds, we can harvest in two months. That beats the deadline with thirty days to spare."
+
+Relief washed over the room. They had done it. They had found the solution.
+
+"Wait."
+
+Chernov was looking at the schematics again. His face had gone pale.
+
+"What is it?" Jason asked.
+
+"The space," Chernov whispered. "Captain, to feed fifty thousand people... even with the Super Rice and the vertical trays... we need 350,000 square feet of climate-controlled floor space."
+
+Chernov looked up, terror in his eyes.
+
+"The agricultural domes aren’t that big. The only areas with life support and shielding that are large enough... are the Residential Sectors."
+
+The silence returned, heavier than before.
+
+The solution is found, but the cost is cruel. They have two options now.
+
+Option A: Keep people in their homes and starve.
+
+Option B: Turn the homes into farms and let people freeze.
+
+Jason looked at the floor map of the base. He looked at the crowded surface domes, packed with refugees.
+
+Then, his eyes drifted downward. Towards the restricted zone. Deep underground.
+
+He remembered the vast, empty structure of the Alien Ship. It was 9 miles wide. It was empty and It was shielded.
+
+And nobody was living there because the government had wanted to keep it a secret.
+
+Secrets don’t matter anymore
+
+, Jason thought.
+
+Only Survival matters
+
+.
+
+"We have the space," Jason suddenly said.
+
+He looked up at the confused faces of his council.
+
+"We are migrating everyone."
+
+"Sir?" Austin asked, stepping forward. "Migrate them to where? Outside?"
+
+"No," Jason said. He pointed a finger downward.
+
+He looked at Austin, his eyes hard.
+
+"It’s time to open the tomb. We’re moving underground."

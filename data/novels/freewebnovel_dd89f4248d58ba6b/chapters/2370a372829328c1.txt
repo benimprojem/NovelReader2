@@ -1,0 +1,77 @@
+Chapter 119: Technological Boom (2)
+
+"...This inspiration came from a single coin cell battery recovered from the alien wreck. Please refer to page 27 of the paper for the foundational theory and related formulas, where a detailed breakdown is provided..."
+
+It was astonishing that something as simple as a small alien battery could provide humanity with such profound inspiration. It was a stark reminder that the Alien civilization were countless times more advanced than the Federation.
+
+Jason was initially very interested, but as the presentation went on, he became completely lost, his head spinning from the technical jargon. He could only vaguely follow the other scientists as they flipped to page 27.
+
+Einstein’s famous mass-energy equivalence equation, E=mc^2, applies not only to nuclear energy but also to chemical energy! The concept of mass defect is actually present everywhere!
+
+Holding up an experimental aluminum-air battery, Felix passionately addressed the room. "In our daily lives, we have long understood how to generate energy using mass defect. For instance, when two hydrogen atoms and one oxygen atom combine to form a water molecule, the total mass of that resulting water molecule is always slightly less than the sum of the individual atoms."
+
+"This tiny reduction in mass is converted directly into energy, even though the change is microscopic... Our new approach is to maximize this mass defect as much as possible to exponentially increase the amount of chemical energy released!"
+
+Jason looked troubled. This was truly a case of being out of his depth; it was the first time he had ever heard such a concept. What surprised him even more was that almost every scientist in the room was nodding in absolute agreement.
+
+Changes in chemical energy could actually cause a measurable loss in mass!
+
+Jason swore he had never been taught this. But seeing the large group of brilliant materials scientists around him raising no objections, he kept his mouth shut, not wanting to embarrass himself.
+
+As for the subsequent discussions about energy levels and electron transitions, he understood even less. He realized he was still a terrible student when it came to advanced physics. He really needed to study harder!
+
+When Jason walked out of the conference room looking thoroughly mentally exhausted, he saw Lily walking past the corridor. Acting on instinct, he grabbed her arm, but quickly realized it was inappropriate and let go.
+
+Slightly embarrassed, Jason said, "Uh... I’ve been meaning to treat you to dinner for a long time. Let’s do it tonight. Besides, I have some science questions I need to ask you."
+
+Lily paused. Of course she remembered that promised meal. Back when she delivered his Gauss rifle, Jason had promised to treat her. But half a year had passed, and he had even managed to lose her Gauss rifle in the alien wreck...
+
+Calculating the interest on that debt, he owed her at least two luxury meals by now, right?
+
+Thinking about it made her frown slightly in annoyance.
+
+Oblivious to her internal calculations, Jason headed straight for the cafeteria. Lily let out a soft hum and followed closely behind.
+
+"Can mass actually be lost during standard chemical reactions?" Jason asked as they walked.
+
+Lily looked at him, slightly exasperated. "Of course. Isn’t that common sense? Though, I suppose standard high school science classes don’t teach that. Teachers usually simplify things by saying elements and mass are perfectly conserved before and after a chemical reaction."
+
+Jason offered a wry smile. "Well, that was definitely the first time I’ve ever heard of the concept..."
+
+When discussing serious academic topics, Lily dropped her usual teasing tone. "The extraterrestrial materials haven’t just given us new blueprints; they’ve forced us to correct many of our fundamental conceptual errors. The science division is working around the clock to refine our standard theories."
+
+Jason nodded. "I only have a superficial understanding of the universe, clearly. I need to brush up on my theoretical knowledge, so I’ll probably be bugging you for tutoring more often."
+
+Seeing that Jason was genuinely seeking to learn, Lily explained it plainly. "Whenever a chemical reaction occurs and energy is released, an equivalent amount of mass must be lost to create that energy. This is an absolute rule of physics!"
+
+"However, because the energy released by most chemical reactions is microscopic compared to nuclear reactions, the mass defect is so small that even our most sophisticated instruments struggle to measure it. We usually have to estimate it based on the energy output."
+
+"Let me give you a concrete example. The explosion of one mole of nitroglycerin generates 2700 kilojoules of heat. The actual mass lost during that massive reaction is only 3.074 times 10^{-8} grams. It’s so incredibly tiny that engineers usually just ignore it."
+
+The two entered the cafeteria, grabbing trays while chatting about physics. Surprisingly, this wasn’t unusual here; almost every man and woman passing by them was deep in conversation about science, engineering, or logistics. In fact, it seemed no one talked about anything else!
+
+Jason eavesdropped for a moment, catching snippets about electromagnetism, high-capacity cells, and nuclear reactors. The technological boom had infected everyone, and he found himself thoroughly enjoying the intellectual atmosphere.
+
+Looking down, Jason suddenly noticed that Lily had only selected the cheapest, basic vegetarian dishes on the digital menu. "Are you on a diet?" he asked quickly. "Order whatever you want, it’s on me! Don’t be shy."
+
+Lily blinked in surprise. Her mind had been so preoccupied with explaining physics that she hadn’t fully registered the situation. She had automatically assumed they were paying separately out of habit.
+
+The truth was, she was incredibly broke. She was a massive foodie who could never resist the temptation of premium synthetic meals, meaning she usually blew through her monthly salary in the first two weeks and had to survive on basic vegetarian rations for the rest of the month.
+
+Since the Captain was treating today, she wasn’t about to hold back. She tapped the touchscreen terminal rapidly. "I’ll take this, this... and this!"
+
+Jason’s eyebrows twitched. Lobster tail, truffle risotto, premium sushi rolls, she had picked the most expensive items available. But his surprise faded quickly. As the top leader of the Noah, his salary was the highest on the ship, and he barely spent any of it. He could afford to eat whatever he wanted, though he usually stuck to standard fare to respect the Federation credit system and avoid seeking special privileges.
+
+"So..." Jason brought the conversation back on track as they sat down at a table. "Will Felix’s new battery invention bring about a true revolution in our energy systems?"
+
+Looking at the sumptuous feast spread before her, Lily replied with deep satisfaction. "Absolutely! Everyday life will be much more convenient. From now on, I’ll only need to charge my datapad once a month, and the surface rovers can travel over 10,000 kilometers on a single charge..."
+
+"No, no, no," Jason waved his hand, cutting her off. "I mean in the military sector. Could we use these batteries to finally power portable laser rifles or particle beam weapons?"
+
+As Lily enjoyed her luxury meal, she pondered his question. Clearly, the lavish food had successfully bribed her into a cooperative mood.
+
+She answered thoughtfully between bites. "Theoretically, it’s barely feasible, but you would need a battery the size of a large suitcase just to provide enough power for one or two shots. To manufacture the kind of sci-fi infantry weapons you’re talking about, we would need power cells with a drastically higher energy density."
+
+"Right now, the most advanced power sources we have are nuclear batteries or experimental superconducting cells. The radioisotope thermoelectric generators we currently build in the lab use highly radioactive elements like Plutonium-238 and Curium-244."
+
+"They decay slowly and produce steady electricity... their yield is at least several hundred times stronger than even the best chemical batteries we can currently produce!"

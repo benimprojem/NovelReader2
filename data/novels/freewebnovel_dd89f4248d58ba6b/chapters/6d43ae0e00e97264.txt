@@ -1,0 +1,73 @@
+Chapter 142: A State of Equilibrium
+
+After the tense standoff, the two civilizations fell into a strange state of equilibrium.
+
+Upon settling on Sedna, the Viridians immediately began large-scale resource gathering and ship repairs. Adopting a strict "better safe than sorry" approach, they completely avoided any further interaction with the seemingly god-tier "Federation."
+
+They had no idea if casual communication might offend or anger the local apex predators. To avoid any unnecessary trouble, they even parked their fleet on the dark side of Sedna, using the dwarf planet’s mass to physically shield themselves from view.
+
+Similarly, the Noah remained hovering in the Martian atmosphere, passively drifting with the planet’s rotation. Humanity also had zero desire to interact with the Viridian Empire.
+
+However, for the Noah to actually land on the Martian surface, it would have to artificially overcome its natural air buoyancy. This would require strapping massive, crude mechanical weights to the hull, a primitive landing method that might easily look suspicious to the Viridian sensors.
+
+Out of an abundance of caution, Jason refused to issue a landing order. Furthermore, humanity wasn’t in a desperate rush to mine surface resources, as deploying their low-tech, clunky mining robots was another huge risk that could expose their true technological level.
+
+Fortunately, thanks to their previous extensive mining operations, the Noah had accumulated a massive stockpile of raw materials. Even without fresh external supplies, the onboard factories and life support systems could run smoothly for a long time.
+
+What humanity urgently needed right now was a more powerful way to observe the enemy! This was the primary project Jason had been aggressively pushing his science teams to complete.
+
+The two civilizations were currently 85 astronomical units (AU) apart. While this distance was insignificant on a cosmic scale, it was still vastly too far for humanity’s current optical technology.
+
+Through standard astronomical telescopes, the alien fleet was nothing more than a tiny, blurry dot, making it impossible to analyze their specific repair efforts or fleet composition. By the time the sun’s light reached Sedna, it was incredibly weak, and the icy planet reflected almost no ambient light. With the Viridians hiding behind the planet, visual observation was practically impossible. Humanity could only estimate the alien fleet’s exact coordinates by tracking their leaked infrared heat signatures.
+
+However, once the Viridians settled into orbit around Sedna, they shut down their main propulsion engines. Their infrared leakage dropped to almost zero, causing the human sensors to frequently lose track of the alien fleet altogether.
+
+This completely unacceptable blind spot greatly angered Jason. He absolutely refused to tolerate such a dangerous tactical unknown. Therefore, he was ruthlessly urging the engineering and science divisions to build far more powerful observation arrays.
+
+Option One: A Massive Radio Interferometer
+
+This device is not a traditional, single-dish radio telescope; rather, it consists of multiple separate antennas working together.
+
+In a radio interferometer, the greater the physical distance between the linked antennas, the higher the resulting resolution. Additionally, given a fixed distance between the antennas, the shorter the received radio wavelength, the sharper the image. Radio interferometers are undoubtedly far more sensitive and provide much clearer data than basic radio telescopes.
+
+According to the engineering team’s calculations, if they constructed two 200-meter diameter radio dishes on the extreme opposite ends of the Noah, they could link them to create a localized interferometer capable of achieving a resolution of one ten-thousandth of an arcsecond.
+
+"The Noah is still too small. It would be perfect if the hull was hundreds of kilometers long," Jason couldn’t help but mutter.
+
+Because of the ancient, folded-space technology, the Noah’s internal volume was massive, like a continent. However, its external surface area in real-space was relatively small, making it physically impossible to mount larger external telescope arrays. Furthermore, the strict size limits of the Noah’s airlocks prevented them from moving massive, pre-built infrastructure outside. It was one of the few major limitations of the god-like vessel.
+
+In the future, when our engineering catches up, humanity will have to build massive, modular support rings around the Noah, expanding its diameter to hundreds of kilometers... The ambitious thought flashed through Jason’s mind, but he quickly grounded himself. With their current industrial tech, that was impossible. He sighed; progress had to be made one step at a time. Still, given their current speed of technological breakthroughs, he believed that day wasn’t too far off.
+
+Option Two: A Gravitational Wave Telescope
+
+Gravitational waves were first predicted by one of Earth’s greatest 20th-century scientists, Albert Einstein. In physics, a gravitational wave is a ripple in the curvature of spacetime itself, propagating outward from massive cosmic events like ripples in a pond, carrying energy across the void.
+
+In 2015, human scientists first observed these waves during the collision of a binary black hole system, officially ushering in the era of gravitational wave astronomy.
+
+Gravitational waves possess one uniquely powerful property: they can pass through solid matter with virtually no obstruction. While standard light and radio waves from distant stars are easily blocked by planets or thick interstellar dust, gravitational waves pass right through them. This characteristic allows a gravitational wave telescope to "see" hidden astronomical phenomena that optical sensors could never detect.
+
+"...However, gravitational waves are incredibly weak, and the physical spacetime distortions they cause are microscopic. This requires instruments with absurdly high precision," an expert explained during a massive joint conference. "To date, humanity cannot directly ’see’ these waves; we can only detect their faint echoes through laser interferometry or the microscopic oscillations of suspended test masses."
+
+Jason sat at the head of the table, surrounded by chief engineers and senior astronomers. These deep-dive discussions into cutting-edge physics often painfully highlighted the glaring holes in humanity’s scientific foundation.
+
+What exactly is gravity, and how does it function? Humanity still didn’t truly know. As one of the fundamental forces of the universe, gravity remained a stubborn mystery.
+
+While Einstein’s General Relativity provided a beautiful macroscopic model, it fatally clashed with humanity’s other great scientific pillar: Quantum Mechanics. To this day, human science had failed to reconcile the two, and the elusive "Theory of Quantum Gravity" remained a pipe dream. Without a foundational understanding of gravity’s true nature, building a functional, advanced Gravitational Wave Telescope from scratch was impossible.
+
+"Alright, ladies and gentlemen," Jason said, rubbing his temples in frustration. "I didn’t call this meeting to listen to a lecture on our limitations. I just want a straight answer to one question: Is there any possibility we can deploy a Gravitational Wave Telescope?"
+
+"No. The wave distortions are simply too small for us to isolate with our current manufacturing tolerances," an astronomer replied from the gallery.
+
+Professor Thomson suddenly spoke up. "He is correct, Director. It is absolutely impossible to build one using human technology. But... one of the massive, intact alien devices we salvaged from the crashed spacecraft happens to be a highly advanced Gravitational Wave Telescope! With a few structural repairs, it should be operational."
+
+The room murmured with sudden interest.
+
+"However, there is a catch," Professor Thomson continued, raising a hand. "It requires an astronomical amount of raw computing power to function. Think about it: there are countless celestial bodies and cosmic events in the universe, all generating intersecting gravitational waves simultaneously. To isolate the specific signature of the Viridian fleet from that deafening cosmic background noise requires solving characteristic equations with trillions of variables."
+
+Human scientists were generally terrified of plugging in alien hardware because they couldn’t fully comprehend its internal architecture, making it highly unpredictable and potentially unsafe. But given their current tactical blindness, they had no other choice.
+
+"Is the Noah’s central mainframe powerful enough to handle the math?" Jason asked sharply. The Noah’s central computer was the most advanced supercomputer humanity had ever built, far surpassing the old Lunar Base mainframes. It boasted a processing speed of roughly 10 quadrillion calculations per second.
+
+"No," Professor Thomson said, shaking his head grimly. "Even with a supercomputer of that magnitude, solving a dynamic system of equations with trillions of variables would take... roughly 100 years. That is why we haven’t activated the instrument yet."
+
+He looked directly at Jason. "Unless we can invent a fundamentally faster computing architecture, we cannot utilize this alien artifact."

@@ -1,0 +1,119 @@
+Bölüm 52: Vakum Sıfır Noktası Enerjisi
+
+Modern fiziğin ikiz sütunlarından biri olan kuantum teorisi, sıklıkla ilahi olana en yakın bilim olarak selamlanır.
+
+Bir boşluğun boş olmadığını, ancak mutlak sıfırda bile devam eden çok büyük miktarda arka plan enerjisi içerdiğini öngörüyor.Bu, Vakum Sıfır Noktası Enerjisi olarak bilinir.
+
+Konsept kuantum mekaniğinin temel kuralından kaynaklanıyor: Heisenberg'in Belirsizlik İlkesi.
+
+Bu prensip, bir parçacığın konumunu ve momentumunu aynı anda mükemmel bir kesinlikle bilmenin imkansız olduğunu belirtir.Bu nedenle sıcaklık mutlak sıfıra düştüğünde bile parçacıkların titreşmesi gerekir.Eğer tamamen dururlarsa momentumları ve konumları kesin olarak bilinecek (sıfır ve sabit) ki bu da prensibi ihlal edecektir.
+
+Mutlak sıfırdaki bu zorunlu titreşimin ürettiği enerji Sıfır Noktası Enerjisidir.
+
+Arthur Lambert'in kastettiği şey tam olarak buydu.Aslında insanlık bu enerjiyi mikroskobik ölçekte Casimir Etkisi'nden zaten kullanmıştı.
+
+1948'de Hollandalı fizikçi Hendrik Casimir bu enerjiyi tespit edecek bir yöntem önerdi.Teorik olarak, vakum enerjisi, kuantum dalgalanması olarak bilinen bir olgu olan, küçük ölçekte sürekli olarak oluşan ve yok olan sanal parçacıklar olarak ortaya çıkar.
+
+Normalde bir boşluk tüm dalga boylarındaki dalgalarla doludur.Casimir, iki yüksüz metal plakanın birbirine çok yakın yerleştirilmesi durumunda daha uzun dalga boylarının aralarına sığmayacağını öne sürdü.
+
+Sonuç olarak, levhaların dışındaki dalgalardan gelen basınç, içerideki basıncı aşacak ve levhaları birbirine iten bir kuvvet yaratacaktır.Plakalar ne kadar yakın olursa çekim de o kadar güçlü olur.
+
+1996 yılında fizikçiler bu Casimir kuvvetini başarıyla ölçtüler ve Vakum Sıfır Noktası Enerjisinin varlığını doğruladılar.
+
+Ama ne kadar enerji var?Fizikçi John Wheeler, bir vakumun enerji yoğunluğunun metreküp başına joule kadar yüksek olabileceğini tahmin etti.Bu sayı neredeyse sonsuzdur.
+
+Bu, bir kahve fincanı boş uzayda bulunan enerjinin, gözlemlenebilir evrendeki tüm maddenin yok olmasıyla ortaya çıkan enerjiyi aşabileceğini öne sürüyor.
+
+Nükleer enerjinin çok ötesinde bir güçtür.Bilim insanları uzun zamandır şunu hayal ediyorlardı: Bu enerjiyi büyük ölçekte çıkarabilir miyiz?
+
+Maalesef cevap her zaman hayırdı.Ölçek arttıkça Casimir kuvveti hızla azalır.
+
+İnsanlığın mevcut teknolojik seviyesinde, Dirac Denizi gibi karmaşık alanları kapsayan Sıfır Noktası Enerjisinden yararlanmak imkansızdı.Çoğu bilim insanının kafasını kaşımasına neden olan şey, evrenin gizemiydi.Yapabilecekleri tek şey iki küçük metal plakanın hafifçe ısınmasını sağlamaktı.
+
+Tam olarak zorluğu anladıkları için Nuh'un yaptığının büyüklüğünü anladılar.Gemi, tam da bu enerjiyi kullanarak iç kütlesine güç sağlıyor gibiydi.
+
+Elbette Arthur'un teorisi kesin deneysel kanıtlardan yoksun bir spekülasyondu.
+
+Arthur sahneden devam etti: "Millet, bir hipotezim var.""Kinetik enerjimiz Vakum Sıfır Noktası Enerjisinden dönüştürülüyor. Bu enerjiyi boşluktan 'ödünç aldığımıza' inanıyorum. Ve en önemlisi, ödünç alınan enerjinin iade edilmesi gerektiğine inanıyorum."
+
+"İç hızımız kesinlikle Nuh'un hızıyla eşleşiyor. Gemi hızlandığında hız kazanıyoruz, bu da kinetik enerji üretmek için boşluktan enerji ödünç aldığımız anlamına geliyor.""Nuh yere indiğinde veya durduğunda hızımız sıfıra döner ve ödünç alınan kinetik enerji sessizce boşluğa geri döner, böylece süreç boyunca enerjinin korunumu sağlanır."
+
+"Bu değişim sırasında enerji, vücudumuzdaki her kuantum parçacığına doğrudan etki ediyor, bu yüzden G kuvvetini hissetmiyoruz... Elbette bu sadece benim spekülasyonum."
+
+Arthur çaresizce omuz silkti."Özür dilerim. Mevcut bilimsel anlayışımız mekanizmayı tam olarak açıklayamıyor... ama mantık geçerli."
+
+Tesla Enstitüsü ekibi dışında herkes sersemlemişti.
+
+Bu ne anlama gelir?Ödünç alınan enerji iade edilebilir mi?
+
+Sanki bir çaydanlık su kaynatıyor, sonra çay istemediğinize karar veriyorsunuz ve bir şekilde sudaki ısıyı gaz hattına geri gönderiyorsunuz, anında suyu soğutuyor ve gazı yeniden oluşturuyorsunuz.
+
+Kulağa kesinlikle saçma geliyordu.
+
+Ancak eğer kuantum teorisinin merceğinden bakılırsa bu akla yatkındı.Kuantum dalgalanmalarına göre enerji birdenbire ortaya çıkar ve aynı hızla yok olur.
+
+Eğer bu dalgalanmayı dengeleyecek, 100 birim enerji ödünç alıp 99 birimin yok olmasını geciktirecek bir teknoloji olsaydı, bir birim enerji fiilen çekilmiş olurdu.Ancak sonuçta defterin dengelenmesi gerekir.Toplam enerji sıfıra dönmelidir.
+
+Bir bilim adamı "Dr. Lambert," diye sordu, "bu varsayımı doğrulamak için elinizde hangi kanıt var?"
+
+"Basit bir gözlem," diye yanıtladı Arthur hemen."Nuh fırlatıldığında, güç hissetmeden hız kazandık. Peki ya yavaşlama?"
+
+"Son zamanlarda gemi fren yapıyor ancak bizi ileri çeken bir yavaşlama kuvveti hissetmedik. Bu, fiziksel kuvvet uygulanmadan kinetik enerjimizin yavaş yavaş azaldığını gösteriyor. Bu kinetik enerjinin boşluğa geri çekildiğini tahmin ediyorum."
+
+"Bu yeni bir fikre yol açtı: Eğer kinetik enerjimiz boşluktan gelen bir borçsa, borcumuzu ödeyemezsek ne olur?"
+
+Seyirci kıpırdamaya başladı.Arthur'un hipotezi saçmaydı ama tuhaf bir mantıksal tutarlılığa sahipti.
+
+Birisi "Dr. Lambert" diye seslendi."Enerji kredisini nasıl 'temerrüde düşürürsünüz'?"
+
+"Basit: Gemiden kaçmak! Eğer Nuh'un içinden dışarıya doğru hareket edersem, 'ödünç alınan' kinetik enerjiyi de yanımda taşırım. Sistemi terk ederim."
+
+"Bunu doğrulamak için, geminin hava kilidinden yüksek kütleli nesneleri fırlatarak deneyler yaptım. Yeni bir olay meydana geldi: Uzay gemisinin hızı biraz düştü!"
+
+"Bu, kinetik enerjiyi dışarı aktardığımda uzay gemisinin genel enerji dengesinin bunu telafi etmek zorunda kaldığını gösteriyor. Gemi benim adıma borcunu ödedi!"
+
+Onlar bunu sindirirken oda sessizliğe gömüldü.
+
+Ancak Jason hemen anladı.
+
+Boşluk zengin, hayırsever bir bankacı gibiydi.
+
+Borç para (enerji) mi almak istiyorsunuz?Tabii, istediğin kadar al, sıfır faiz.
+
+Bununla birlikte, eğer geminin içindeki bir nesne fırlatılırsa, o nesne ve ondan ödünç alınan kinetik enerji, nakit parayla birlikte fiilen "kaçar".Borçluyu bulamayan bankacı kefil olan Nuh'a yöneldi.
+
+Vakum, enerjiyi geminin kendisinden geri talep ederek geminin hız kaybetmesine neden oldu.
+
+Muhteşem bir teknolojiydi.Gerçekten uzaylı bir fenomen.
+
+"Basitçe söylemek gerekirse, içeriden dışarı attığımız her birim kinetik enerji için, uzay gemisinin kinetik enerjisi orantılı olarak azalır. Aşağıdaki denklemi karşılıyor..." Arthur yeni bir slayt açtı.
+
+"Affedersiniz." Jason elini kaldırdı."Bunun pratik uygulaması nedir?""Merhaba Bay Jason. Bu olguya dayanarak uzay gemisini yakıt olmadan etkili bir şekilde frenleyebileceğimize inanıyoruz."
+
+Arthur coşkuyla işaret etti."Geminin gövde kütlesi 1,03 milyon tonda sabittir. Eğer dahili depodan gövdenin kütlesinin üç katına eşit bir nesneyi fırlatırsak, gemi çok büyük miktarda kinetik enerjiyi 'geri döndürmek' zorunda kalacaktır. Aniden orijinal hızının yarısına kadar yavaşlayacaktır."
+
+"Gövde kütlesinin sekiz katına eşit bir kütleyi fırlatırsak hız üçte bire düşer! Bu yavaşlama neredeyse anlıktır. Anladınız mı? Bu tamamen yeni bir uzay frenleme yöntemi!"
+
+"Makroskopik düşük hız koşulları altında yavaşlama formülü şöyledir: .
+
+"v1 = √(m0/m1) * v0.Burada m0, uzay gemisinin orijinal kütlesidir ve m1, uzay gemisinin kütlesi ile fırlatılan nesnenin kütlesinin toplamıdır."
+
+"Buna dayanarak 'Vakum Yer Değiştirme Yavaşlatma Planını' tasarladık. Atık kütlesini sürekli olarak dışarı attığımız sürece gemi hızla yavaşlayacak."
+
+"Tersine, eğer gemiye yüksek hızlı bir kütle atabilseydik, hızlanabilirdik... Boşluk hiçbir zaman ilgi istemez;sadece kitapları dengeliyor."
+
+Herkes şaşkına dönmüştü.
+
+Bir şeyleri atmak sizi yavaşlatır.Bir şeyleri fırlatmak sizi hızlandırır.
+
+Tanrı düzeyinde bir teknolojiydi.
+
+Ancak kısa bir tartışmanın ardından bilim insanları hızlandırmanın mümkün olmadığını fark etti.Gemiye büyük bir kütle atmak için, bu kütlenin gemiden daha hızlı hareket etmesi ve onu yakalaması gerekir.Eğer bunu yapabilecek bir motorları olsaydı bu numaraya ihtiyaç duymazlardı.
+
+Ama yavaşlama için?Mükemmeldi.Uzayda durmak herkesin bildiği gibi zordu ve yoğun yakıt gerektiriyordu.
+
+"Buna 'Aşkınlık Yavaşlama Protokolü' adını vereceğiz!"
+
+Basitti, pratikti ve kimyasal iticilerden çok daha ekonomikti.
+
+Bu keşif ve beraberindeki makaleyle Tesla Enstitüsü'nün performans puanı Wolfpack Tasarım Bürosu'nu yakalamaya ve sonunda onu aşmaya başladı.

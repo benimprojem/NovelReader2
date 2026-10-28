@@ -1,0 +1,141 @@
+Chapter 47: The Great Construction Project
+
+Following the government’s recruitment drive, a massive wave of construction projects finally commenced.
+
+Jason had no intention of repeating the mistakes of command economies that focused solely on heavy industry while neglecting consumer goods. His first act as Administrator was to improve the living environment for his people.
+
+He launched the "Great Construction Project," rallying the ship around a simple slogan:
+
+"A Home for Every Family, A Life for Every Citizen!"
+
+The factories hummed to life, churning out steel and cement around the clock. The workers poured their sweat into the project with unprecedented enthusiasm.
+
+And why wouldn’t they? They were building their own future homes. People were fed up with living in modular tin cans. They yearned for proper apartments, for privacy, for dignity.
+
+The steel-frame structures went up quickly, with industrial zones and laboratories completed in under a month. The residential zones, requiring reinforced concrete and more complex life-support integration, would take longer, perhaps six months to a year.
+
+But no one minded the wait. Six months was a blink of an eye compared to the eternity of space. It gave them just enough time to save up their wages for a down payment.
+
+A month passed quickly. Payday arrived, and for the first time, digital Credits were deposited into everyone’s accounts.
+
+People flooded the commercial district, excitedly using their wages to buy discretionary goods: fresh meat, vegetables, and small amounts of alcohol.
+
+In reality, compared to the previous rationing system, the material standard of living hadn’t drastically improved yet. But the psychological impact was profound. Happiness surged because the items they consumed were
+
+chosen
+
+, not assigned. The ability to choose gave them back a sense of freedom.
+
+That same day marked another major milestone. Two prestigious research institutes were officially inaugurated.
+
+The first was the "Wolfpack Design Bureau." It was essentially a massive multidisciplinary laboratory, directed by Professor Hao Yu, the "Father of the Helium-3 Bomb."
+
+Engineers and scientists from the former Eastern Countries flocked to join, eager to work under the legendary physicist.
+
+The second was the "Tesla Institute," headed by Dr. Felix, the former Chief Physicist of the Lunar Base.
+
+Scientists were free to apply to any institute they wished. If they had the credentials, they could even apply to establish their own independent labs.
+
+However, Wolfpack and Tesla were the titans, receiving the lion’s share of resources.
+
+The New Human Government allocated resources based on three key metrics: Energy Index, Resource Index, and Industrial Capacity Index. As long as an institute stayed within its allocated budget, they had total autonomy over their research direction (excluding unauthorized weapons development).
+
+This was an unprecedented level of freedom. The scientists were ecstatic. Conducting experiments without having to write grant proposals or beg for corporate funding? It was a dream come true.
+
+In the Old World, scientists spent half their time chasing money. Good ideas died on the vine for lack of funding. Now, money was irrelevant. Only results mattered.
+
+They finally saw the benefit of a planned economy applied to science. But with freedom came pressure. If they burned through their resource allocation without producing results, it would be a public disgrace.
+
+These people cherished their reputations. To reach the Lunar Base in the first place, they had to be the best in their fields. Failing once was acceptable; constant failure was humiliating.
+
+In the Wolfpack Design Bureau, Professor Hao Yu was practically vibrating with joy. He waved his arms excitedly as he toured the new facility. No more budget committees! No more politicians asking about quarterly profits!
+
+He felt like a bird released from a cage. He grabbed a tablet and scribbled down a new project title: *"The Ten-Billion-Ton Yield Nuclear Device..."*
+
+He paused, thought for a moment, and crossed it out.
+
+Focus, Hao Yu. Focus
+
+. He still had a shred of rationality left; now wasn’t the time for planetary crackers.
+
+He silently vowed to dedicate his life to Jason’s vision. To work without financial constraints was the ultimate happiness for a scientist.
+
+Dr. Felix shared the sentiment, though he kept his excitement internalized.
+
+In the public eye, the Wolfpack Design Bureau currently held a slight edge in prestige over the Tesla Institute.
+
+Professor Hao Yu’s Helium-3 bomb had literally saved humanity, propelling the Noah into the void. That kind of tangible success was hard to beat.
+
+But Dr. Felix was no slouch. As the former Chief Physicist, his reputation was stellar, and his institute attracted the cream of the crop from European and American scientific circles.
+
+The two institutes settled into a dynamic of cooperative rivalry that captured the public’s imagination.
+
+> Wolfpack Design Bureau (Physics Lab)
+
+> Rating: S-Class
+
+> Performance Score: 6685
+
+> Tesla Institute (Physics Lab)
+
+> Rating: S-Minus Class
+
+> Performance Score: 6233
+
+The scores represented a comprehensive performance metric. A higher score meant a larger resource allocation for the next fiscal year. The initial scores were based on contributions to the Noah Project.
+
+If an institute wasted resources without results, their score would drop, and they would lose funding to their rivals. For these competitive intellects, falling behind was intolerable.
+
+The rivalry became a favorite topic of dinner conversation. Citizens placed informal bets on which institute would produce the next breakthrough. Some were Team Wolfpack; others were Team Tesla.
+
+The entire ship seemed to be entering a golden age of productivity.
+
+But in the Administrator’s office, Jason was nursing a headache.
+
+A report lay on his desk, and the man standing in front of him was shouting.
+
+"I told you weeks ago! We needed to prioritize the ecosystem stability! Now look at the data! If the thermal regulation fails, you’ll roast everyone alive!"
+
+"We’re lucky we caught it early! Otherwise, we’d be cooked!"
+
+The man yelling was Dr. Roman, the chief biologist. He was genuinely panicked.
+
+The temperature inside the spaceship was rising.
+
+Since the start of the Great Construction Project, the ambient temperature had climbed by a full 2.2 degrees Celsius. The ship’s passive cooling systems were being overwhelmed.
+
+Heavy industry, construction, thousands of machines running 24/7, electrical energy, kinetic energy, chemical energy, it all eventually degraded into heat.
+
+Currently, the temperature was sitting at 26.3°C (79°F). It was warm, but bearable. But if the trend continued, it would soon hit 30°C, then 40°C. The Noah would turn into a pressure cooker.
+
+People often assume space is cold. While the vacuum is technically near absolute zero, it is also a perfect insulator, like a thermos flask.
+
+Heat transfer requires a medium. In a vacuum, there is no conduction or convection. Heat can only be shed through radiation, which is an agonizingly slow process.
+
+To manage this, the original designers had installed massive thermal radiators on the exterior hull. But these radiators had limits. The internal heat generation was outpacing the radiation capacity.
+
+Imagine a sealed room with one small window. Now turn on every oven, computer, and engine inside that room. It’s going to get hot fast.
+
+"Doctor, I know. I know." Jason nodded with a bitter smile. He understood the physics. "I will assign a team to address the thermal regulation issue immediately..."
+
+The problem was critical, but he couldn’t stop the construction. The people needed homes.
+
+"Dr. Roman, I want a large-scale ecosystem too. I want forests and grasslands. But we don’t have the biomass, the water, or the atmosphere to support it yet!"
+
+"Once we reach Mars and replenish our stocks, I promise I will approve every single one of your terraforming proposals!"
+
+Dr. Roman huffed, but he seemed mollified. "Fine. But solve the heat issue now. Or there won’t be anyone left to see Mars."
+
+"Understood," Jason replied.
+
+As Roman left, Jason sank back into his chair.
+
+The Noah’s current ecosystem was too small and fragile. It lacked the buffer capacity of a planetary biosphere. A simple spike in industrial activity caused a temperature crisis.
+
+The ultimate solution was to establish a massive, self-regulating internal biosphere. Humans currently occupied less than one ten-thousandth of the ship’s volume. There was plenty of space.
+
+But they lacked the raw materials. Even with a billion tons of ore and a hundred million tons of ice, they were short on organics, soil, and nitrogen for the atmosphere.
+
+Those problems could only be solved at Mars. The Red Planet had water, minerals, and an atmosphere they could harvest.
+
+Until then, they just had to hold on.

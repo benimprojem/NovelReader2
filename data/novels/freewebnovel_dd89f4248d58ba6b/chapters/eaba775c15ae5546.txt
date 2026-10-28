@@ -1,0 +1,97 @@
+Chapter 93: Laser Ignition Scheme
+
+Jason’s heart stirred as he looked down at the documents. Inside were several detailed reports filled with new hypotheses.
+
+Most of these reports relied on computer simulations run under ideal conditions. Since no actual physical experiments had been conducted yet, they could only be considered theoretical.
+
+Helium-3 nuclear bombs were essentially standard hydrogen bombs coated with an additional layer of helium-3. This outer layer was ignited by the extreme heat generated from the initial hydrogen bomb explosion.
+
+Did this mean a Tetrahydrogen Nuclear Bomb was simply a Helium-3 bomb with yet another extra layer of hydrogen? That was the common assumption.
+
+However, in his report, Professor Hao Yu clearly pointed out that this approach had an extremely low success rate and was practically impossible.
+
+The sheer power of a nuclear explosion was so immense that it would instantly destroy the entire warhead. The massive shockwave would violently scatter all the elements, blasting the outermost hydrogen layer far away in a fraction of a second.
+
+While the core temperature of a detonating nuclear bomb was incredibly high, it dropped by several orders of magnitude just a short distance from the center. There simply wouldn’t be enough heat and pressure on the outside to ignite an extra hydrogen layer.
+
+Professor Hao Yu believed the current Helium-3 layer design was already highly advanced, mainly because the ignition threshold for Helium-3 was significantly lower than that of tetrahydrogen fusion. Adding another hydrogen layer would just result in the material being blown away rather than ignited.
+
+Fusing four atoms together was infinitely harder than fusing two! Therefore, the required reaction conditions were far more extreme. The standard ring structure worked perfectly for a Helium-3 Nuclear Bomb, but it was practically useless for a Tetrahydrogen Nuclear Bomb.
+
+So, what was the solution? If the "hydrogen layer" could somehow be placed at the very center of the nuclear explosion, perhaps there was still a chance...
+
+The Wolfpack Design Bureau was famous for its eccentric scientists, brilliant minds who became so engrossed in their work that they forgot to eat and bumped into walls while walking. But how could they ensure the hydrogen layer wouldn’t be blown away during a nuclear blast and instead remain safely at the core? It was an incredibly difficult problem!
+
+The line between genius and madness was razor-thin. After agonizing over the issue, the team actually managed to come up with several "ideal solutions"!
+
+Jason paused for a moment before eagerly scrolling down to read the proposals.
+
+The first design was the "Pomegranate" Tetrahydrogen Nuclear Bomb. It proposed constructing the weapon by piecing together multiple smaller, conventional nuclear bombs. The resulting clustered structure resembled a pomegranate, hence the name.
+
+Each small nuclear bomb would be coated in a layer of hydrogen, and then they would all be stacked and clustered together.
+
+To put it simply: each "seed" of the pomegranate was a small nuclear bomb, and the "pulp" holding them together was the hydrogen layer.
+
+The theory was that if all the "seeds", the small nuclear bombs were detonated simultaneously, at least a portion of the trapped hydrogen layer would be ignited, right?
+
+According to computer simulations, this approach was theoretically feasible. Even if a "Pomegranate" Tetrahydrogen Nuclear Bomb sounded like a bizarre concept, the numbers held up.
+
+Professor Hao Yu had left a note below the design: "This plan does hold some potential. When multiple nuclear bombs detonate simultaneously, their shockwaves will violently compress against each other. This creates a zone of enormous pressure and immense heat, which could potentially ignite the trapped hydrogen layer inside..."
+
+"However, how do we guarantee simultaneous detonation? If even one bomb explodes 0.1 or 0.01 seconds too early, it will instantly destroy the entire assembly, and the high-temperature, high-pressure zone will never form..."
+
+Jason thought about it and realized the professor was right. These smaller bombs, whether standard Hydrogen Bombs or Helium-3 Bombs still relied on traditional atomic bombs as their triggers. And the explosion of an atomic bomb was entirely unpredictable; a fraction of a second’s difference was virtually guaranteed.
+
+An atomic bomb relies on the fission chain reaction of radioactive elements. It only detonates fully once the reaction reaches a critical mass and hits its limit. This involves a random, chaotic process, making it impossible for humans to control or estimate the exact millisecond of the blast.
+
+A timing discrepancy of 0.1 seconds was practically unavoidable!
+
+Jason frowned deeply. He had finally found a somewhat plausible concept, only to see it immediately shut down by an unsolvable flaw...
+
+Because of the inconsistent detonation timing, the "Pomegranate" design might eventually ignite some standard hydrogen, but the overall explosive yield would be incredibly poor. They would be spending massive amounts of resources for only a marginal increase in firepower, which was definitely not what he wanted.
+
+"
+
+This is still going to be a headache
+
+," Jason muttered to himself.
+
+Naturally, the researchers at the Wolfpack Design Bureau weren’t willing to give up so easily. Pooling their expertise, they had refined the pomegranate design.
+
+They proposed removing the internal "seeds" entirely and only keeping the nuclear bombs on the outer shell!
+
+In this updated design, the Tetrahydrogen Nuclear Bomb resembled a hollow sphere. The outer shell consisted of densely packed small nuclear bombs, while the hollow core was filled entirely with the hydrogen layer. This was essentially an "inverted ring structure," working exactly opposite to a standard Hydrogen Bomb, igniting the inner core by detonating the outer ring!
+
+"With this design, if the outer shell of nuclear bombs detonates at the exact same time, the overlapping shockwaves will drive inward. This will subject the hydrogen core to unimaginable pressure and heat!"
+
+Professor Hao Yu excitedly gestured with his hands while explaining this, clearly proud of the concept. It was highly likely he had come up with this specific design himself.
+
+Imagine the sheer force: nuclear bombs detonating simultaneously from every direction, driving shockwaves straight into the center. This crushing pressure, paired with astronomical temperatures, would finally ignite the hydrogen core!
+
+Only then would the true, terrifying power of the Tetrahydrogen Nuclear Bomb be unleashed; this was the ultimate solution for the weapon!
+
+"It’s entirely feasible in theory, and far more effective than the Pomegranate design!" Professor Hao Yu said, nodding in satisfaction.
+
+However, there was still that one glaring issue...
+
+Ultimately, this method still relied on atomic bombs for the initial detonation, meaning the exact timing of the blast was unpredictable. A variance of a fraction of a second was still a threat. The core issue remained unsolved.
+
+If even a single atomic bomb on the outer shell triggered early, it would tear the entire device apart before the core could ever ignite.
+
+After thinking for a moment, Jason looked up and asked, "Professor Hao Yu, how exactly can we achieve simultaneous explosions?"
+
+"Sigh... That is our biggest headache. If we rely on traditional atomic triggers, there is no solution!" Professor Hao Yu didn’t look discouraged, however; if anything, he looked energized.
+
+"I think we need to abandon atomic triggers entirely!" he declared with absolute confidence. "We don’t need an atomic bomb to ignite these standard nuclear weapons; we can use a high-powered laser instead!"
+
+Atomic bombs were essentially the gatekeepers to hydrogen bombs because the latter required extreme temperatures, at least tens of millions of degrees Celsius to ignite. The blast of an atomic bomb could easily reach this threshold, triggering the nuclear fusion. Thus, hydrogen bombs were historically always triggered by atomic bombs.
+
+However, a hydrogen bomb didn’t strictly require an atomic trigger; it only needed the requisite heat. This opened the door to other methods, two of which were theoretically feasible: ultra-high-temperature microwave heating, and laser ignition.
+
+Professor Hao Yu’s proposal for laser ignition was grounded in historical facts.
+
+Back in 2012, the National Ignition Facility in the United States had successfully merged 192 laser beams to generate an incredibly powerful pulse. This pulse produced a peak output of 500 trillion watts instantaneously. While the pulse lasted for only a fraction of a second, the energy was theoretically more than enough to ignite a hydrogen bomb!
+
+"If the Americans of the past could do it, we in the Federation should be able to do it too!" Professor Hao Yu stated excitedly.
+
+Jason was finally convinced. Even if this laser system failed to ignite the Hydrogen Bomb, he still wanted to fund and develop it. At the very least, it could be repurposed as a devastating long-range space weapon!

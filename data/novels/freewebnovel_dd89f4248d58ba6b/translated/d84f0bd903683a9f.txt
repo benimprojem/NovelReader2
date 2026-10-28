@@ -1,0 +1,97 @@
+Bölüm 34: Helyum 3 Savaş Başlığı
+
+Leo derin bir nefes alarak düşüncelerini toparladı.Onu saran heyecan ve gerginlik yerini derin, buz gibi ve sakin bir zihne bırakmaya başladı.
+
+O anda her şey, kız arkadaşı, silahlı askerler, profesör, hatta Helyum-3 bombası kavramı bile bilincinden silinmişti.Gözleri yalnızca önündeki bileşenlere kilitlenmişti.
+
+Ona göre bu sadece başka bir işti.Her zamankinden biraz daha karmaşıktı ama süreç aynıydı: Mükemmel bir şekilde yürütmek.
+
+Helyum-3 nükleer silahı standart bir hidrojen bombasından çok daha karmaşıktı.
+
+Üç katmanlı küresel bir yapı kullandı.En içteki çekirdek, iki askerin taşıdığı taktiksel atom fisyon bombasıydı.Orta katman, füzyon reaksiyonunun birincil yakıtı olan döteryum ve trityumu içeriyordu.En dış katman Helyum-3'ten oluşuyordu.
+
+Profesör Hao Yu'nun tasarımına göre bu süreç bir yıkım silsilesiydi: Önce iç atom çekirdeği patlayacak ve 50 milyon santigrat dereceyi aşan sıcaklıklar üretecekti.Bu yoğun ısı ortadaki hidrojen katmanını ateşleyecektir.
+
+Bunun hemen ardından, hidrojen füzyonunun ürettiği yüz milyonlarca derecelik sıcaklık, en dıştaki Helyum-3 katmanını ateşleyecektir.
+
+Kağıt üzerinde, standart bir hidrojen bombasıyla karşılaştırıldığında, Helyum-3 silahı sadece fazladan bir mermi ekledi.Ancak bu tek katmanı eklemenin mühendislik zorluğu, karmaşıklığı katlanarak artırdı.
+
+Bunun iki temel nedeni vardı.
+
+Öncelikle Helyum-3 doğal olarak bir gazdır.Yüksek basınç altında sıvılaştırılabilse de, onu bu durumda tutmak, taktik savaş başlığına sığması mümkün olmayan büyük soğutma ekipmanı gerektirir.Ayrıca helyum soylu bir gazdır;inerttir ve diğer maddelerle kimyasal olarak reaksiyona girmez, bu da katılaşmasını inanılmaz derecede zorlaştırır.
+
+Profesör Hao Yu bu özel sorunu çözmek için on yıl harcamıştı.Onun çözümü "fiziksel adsorpsiyon"du.Düşük sıcaklıklarda büyük miktarlarda Helyum-3 gazını absorbe edebilen bir tür aktif nanokarbon icat etti.En önemlisi, oda sıcaklığına döndürüldüğünde nanokarbon gazı içeride kilitledi ve etkin bir şekilde katı hal oluşturdu.
+
+Birinci sorun: çözüldü.Açıklaması bir cümle sürdü ama bunu başarmak için on yıl kan, ter ve gözyaşı gerekti.
+
+İkinci zorluk zamanlamaydı.Birincil atomik tetikleyicinin yıkıcı gücü mutlaktır;tüm cihazı anında buharlaştırabilme özelliğine sahiptir.Buradaki zorluk, atom patlaması Helyum-3 katmanını parçalamadan önce hidrojen katmanının Helyum-3'ü tutuşturmasını sağlamaktı.
+
+Eğer zamanlama bir mikrosaniyenin küçücük bir kısmı bile hatalı olsaydı, Helyum-3 tutuşmak yerine dağılırdı.Kısmi bir ateşleme bile feci bir arıza olarak kabul edilir.
+
+Bunu çözmek için Profesör Hao Yu, acı verici hassasiyette hesaplamalar yapmıştı.
+
+İç yapı, basit bir eşmerkezli halkalar dizisi gibi görünse de aslında hızlı ateşlemeyi kolaylaştırmak için tasarlanmış bir geometri labirentiydi.
+
+Döteryum-trityum tabakası ile Helyum-3 arasına yerleştirilmiş, yalnızca 20 nanometre kalınlığında bir demir levhadan oluşan bir ayırma bariyeri tasarlamışlardı.
+
+Atom çekirdeği patladığı anda, kuvvet bu demir zarı delecek ve Helyum-3'ü yanan döteryum-trityum tabakasıyla hızla karışmaya zorlayarak ateşlemeyi sağlayacaktı.Bu zarın, taşınma sırasındaki titreşimlere dayanacak kadar güçlü, ancak patlama sırasında anında esneyecek kadar da kırılgan olması gerekiyordu.Bu gereklilik mühendislik toleranslarının sınırlarını zorladı.
+
+Helyum-3 katmanının basıncının döteryum-trityum katmanından biraz daha yüksek olması ancak çok da yüksek olmaması gerekiyordu.Demir sac zamanından önce kırılırsa bileşenler karışarak silaha zarar verirdi.
+
+Profesör Hao Yu'nun terlemesinin nedeni buydu.Tek bir şans vardı.
+
+Yardım etmek istiyordu ama ellerinin yeterince sağlam olmadığını biliyordu.Sadece kenardan endişeyle izleyebiliyordu.
+
+Diğerleri de aynı gemideydi.Teorik çalışmayı yapmışlardı ama son toplantıda seyirciydiler.
+
+Üretimin bir gerçeğidir: Farklı kişiler tarafından çalıştırılan aynı makine, farklı sonuçlar verir.Beceri bir uzmanlık meselesidir ve şu anda Leo'ya kayıtsız şartsız güvenmeleri gerekiyordu.
+
+Ancak Leo güveni ya da başarısızlığı düşünmüyordu.Yalnızca görevin var olduğu bir boşluk olan "akış" durumuna girmişti.
+
+Elleri hareket etti.Her hareket, önceden programlanmış ve hatasız çalışan bir algoritma gibi akıcı ve kesindi.
+
+Bileşenlerin çoğu önceden üretilmişti;Onun görevi nihai entegrasyondu.
+
+Elektronik Waldo kollarını hareket ettirerek atom çekirdeğini kara kutudan kaldırdı ve şasiye yerleştirdi.Atom bombasının kasası çıkarılmış, geriye yalnızca kurşun-korumalı küre kalmıştı.Zenginleştirilmiş uranyumun yarı ömrü uzun olduğundan, acil radyasyon tehlikesi, kurşun kabuğun yeterli koruma sağlamasına yetecek kadar düşüktü.
+
+Odayı koruyan iki askerden biri Federasyon Özel Kuvvetleri mensubu Marcus'du.
+
+İri yapılı asker, nöbet tutmak için konseri kaçırdığı için sinirlenmişti ama bu sıkıntı ortadan kaybolmuştu.Yüksek sesle nefes almaya cesaret edemiyordu.İnanılmaz derecede gergindi.Tüfeği doluydu ve emirleri vardı: Bu bilim adamlarından herhangi biri sabotaj belirtisi gösterirse, öldürmek için ateş edecekti.
+
+Bir asker olarak Marcus güce saygı duyuyordu.Cephanelikteki her ateşli silahın ve topçu parçasının özelliklerini okuyabiliyordu.Ancak insanlık tarihinin en yıkıcı makinesinden birkaç santim uzakta durmak ona tuhaf bir duygu veriyordu.
+
+Bir atom bombası... Sonunda bir tane gördüm.
+
+Marcus düşündü.
+
+Ve şimdi bir hidrojen bombası ve efsanevi Helyum-3 cihazı.Bu değişim buna değdi.
+
+Robotik kol yeniden hareket ederek soluk mavi bir renk tonuyla parlayan katı bir bileşiği çıkardı.
+
+Bu, hidrojen aşamasının yakıtı olan lityum döterit ve lityum trititti.
+
+Modern hidrojen silahları sıvı izotoplar yerine katı bileşikleri kullanıyordu.
+
+1952 yılında, atom çağının ilk günlerinde, ilk hidrojen bombası testinde sıvı döteryum ve trityum kullanıldı.Yakıtın stabil kalması için cihazın devasa bir kriyojenik soğutma sistemine ihtiyacı vardı.Bomba 65 ton ağırlığında ve bir bina büyüklüğündeydi.Bilimsel açıdan etkileyiciydi ama askeri açıdan işe yaramazdı.
+
+Bunlara "ıslak" hidrojen bombaları adı verildi.
+
+Daha sonra bilim adamları bir izotop olan Lityum-6'nın mükemmel bir termonükleer malzeme olduğunu keşfettiler.Lityum-6 döterit kullanarak aynı reaksiyonu soğutma olmadan da elde edebildiler.Bu, kompakt, kararlı ve ölümcül "kuru" hidrojen bombasına olanak sağladı.
+
+Leo'nun topladığı şey buydu.
+
+Buradaki adımlar kritikti.Malzeme miktarlarının tam olması gerekiyordu.Tolerans 0,1 mikrogram, yani gramın on milyonda biri kadardı.
+
+En gelişmiş elektronik teraziler bile bu seviyede istikrarı korumakta zorlandı.Ortalama bir insan için miligramlarla çalışmak zordur.İnsan elinin doğal titremesi onlarca miligramlık dalgalanmalara neden olur.Ama Leo farklıydı.
+
+Elleri mutlaktı.
+
+Robotik kol, malzemenin son birkaç tanesini çıkarmak için bir mikro iğne kullandı, ancak son kalibrasyon için makine çok hantaldı.İnsan mahareti gerekiyordu.
+
+Leo waldo'yu serbest bıraktı ve manuel çıkarma işlemini gerçekleştirmek için eldivenli elleriyle uzandı.
+
+Tekrar o gizemli bölgeye, deneyimin sezgiyle buluştuğu zirve noktasına girdi.
+
+Usta bir kasabın, teraziye bile bakmadan, sadece dokunarak bir et parçasını tam gramına kadar dilimleyebildiği söylenir.Leo'nun da benzer bir yeteneği vardı ama çok daha gelişmiş bir ölçekte.
+
+Gramlarla uğraşmıyordu;maddenin yapı taşlarıyla uğraşıyordu.

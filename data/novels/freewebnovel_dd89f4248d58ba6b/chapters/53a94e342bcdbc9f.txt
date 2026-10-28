@@ -1,0 +1,125 @@
+Chapter 26: Project Starfire
+
+The door to Jason’s office hadn’t even fully closed behind Dr. Roman before it was thrown open again.
+
+The man who marched in was small, thin, and in his sixties, with hair that had gone white at the temples. But he didn’t move like an old man; he moved like a young man in his 20s.
+
+He was Professor Hao Yu.
+
+In the old world, Hao Yu had been a titan of the defense industry. He oversaw the design of the famous FAA-type intercontinental ballistic missiles and the DA-series tactical nuclear warheads. He was a man who built things designed to end civilizations.
+
+But in the era of peace before the collapse, his skills had become obsolete. Governments stopped buying doomsday weapons and started building moon bases. Refusing to retire, Hao Yu had come to the Moon, ostensibly to help with reactor shielding.
+
+But Jason knew the truth. Hao Yu hadn’t come here to build power plants. He had come for the one thing the Moon had that Earth didn’t.
+
+Helium-3.
+
+"Jason!" Hao Yu’s voice boomed, far louder than his small frame suggested. "My nuclear weapon proposal must be approved! The council is full of cowards!".
+
+Jason rubbed his temples fighting the headache that had been persisted for weeks. "Professor, I know your resume. But the council rejected your plan because it’s theoretical. We don’t have time for theory."
+
+"They rejected it because they are thinking like Earthlings!" Hao Yu slammed a datapad onto Jason’s desk. "They want to use standard Hydrogen Bombs to propel the ship. It’s safe. It’s proven. And it will kill us all."
+
+Jason sat up straighter. "Explain."
+
+Hao Yu projected a image of a standard thermonuclear reaction.
+
+"Standard fusion requires Deuterium and Tritium," Hao Yu said, speaking rapidly. "Deuterium is easy; we extract it from water. But Tritium? It’s a nightmare. It doesn’t exist naturally. We have to breed it in nuclear reactors.".
+
+Hao Yu pointed a shaking finger at the power grid readout on the wall.
+
+"One gram of Tritium costs $30,000 in energy credits. To breed enough Tritium for Project Orion to lift a million-ton ship, we would have to run our reactors at 100% capacity for eight months just to make the fuel!".
+
+"But, We don’t have eight months," Jason said softly.
+
+"Exactly!" Hao Yu shouted. "If we follow the conservative plan, we will have a mountain of expensive Tritium and a beautiful spaceship, and we will all burn up in Moon’s atmosphere two months before the engine is ready.".
+
+"So," Jason said, leaning forward. "You want to use the Helium-3."
+
+"We have a thousand tons of it sitting in storage!" Hao Yu’s eyes lit up with a fanatic’s gleam. "It’s a waste product from our oxygen mining. It’s sitting there, waiting for us.".
+
+Jason looked at the data. Helium-3 was the Holy Grail of clean energy. An isotope with two protons and one neutron, it produced no radiation when fused.
+
+"But there’s a catch, isn’t there?" Jason asked. "If it was easy, we’d be doing it already."
+
+"The ignition temperature," Hao Yu admitted, though his confidence didn’t waver. "Helium-3 is stubborn. It needs 100 million degrees to ignite. A standard atomic bomb trigger only reaches 50 million degrees.".
+
+"So you can’t light the fuse," Jason said. "Which makes the fuel useless."
+
+"I can light it," Hao Yu insisted. "I just need a bigger match."
+
+The physicist tapped the console, bringing up a new schematic. It looked like a Russian nesting doll of destruction.
+
+[WEAPON BLUEPRINT PROPOSAL: TYPE-Z "STARFIRE"]
+
+* Stage 1: Fission Trigger (Atomic Bomb)
+
+* Stage 2: Fusion Driver (Standard Hydrogen Bomb)
+
+* Stage 3: Primary Payload (Helium-3)
+
+* Est. Yield: 1.0 Gigatons (1,000 Megatons)
+
+"A three-stage cascade," Hao Yu explained, his hands moving as if he were sculpting the explosion in the air. "We use a small Atomic Bomb to light a Hydrogen Bomb. The Hydrogen Bomb generates the heat to ignite the Helium-3. And the Helium-3... it gives us the power of a star.".
+
+Jason stared at the numbers. "Gigaton?"
+
+"Thermonuclear weapons have no theoretical upper limit," Hao Yu said. "The ’Tsar Bomba’ on Earth was 50 megatons. Its shockwave circled the
+
+planet three times
+
+. I want to build something twenty times stronger.".
+
+"One bomb?" Jason asked.
+
+"One bomb to kick us into orbit. Then we use conventional thrusters for course correction," Hao Yu said. "One ton of Helium-3 equals 75 megatons of TNT. I only need 13.3 tons of gas to build a Gigaton warhead.".
+
+The room fell silent.
+
+It was insanity. Using a Hydrogen bomb as a mere matchstick to light a bigger fire. It was the kind of weapon that could crack a moon in half.
+
+But the logic held. They had plenty of Helium-3. They didn’t have to manufacture it; they just had to ignite it. It solved the energy crisis. It solved the time crisis.
+
+"It’s a gamble," Jason said, his voice low.
+
+"It is," Hao Yu nodded solemnly. "I need an atomic trigger to test the theory. I need enriched uranium."
+
+"We don’t have much uranium left, Professor. If I give it to you, and this fails..."
+
+"Then we don’t have enough material left to build the standard propulsion bombs," Hao Yu finished the sentence. "If I fail, we are stuck here. We die.".
+
+It was the classic dilemma of the apocalypse.
+
+The Conservative Plan: Slow, safe technology, but mathematically guaranteed to be too late.
+
+The Radical Plan: Fast, cheap, infinite power, but relying on technology that had never been tested.
+
+Jason looked at the old man. Hao Yu wasn’t a politician. He was a weapon-smith who had spent his life waiting for a war big enough for his genius.
+
+"How long?" Jason asked.
+
+"Give me the uranium for one trigger," Hao Yu said, standing at attention like the soldier he effectively was. "I will give you a working prototype in two months. I guarantee it with my life.".
+
+Jason closed his eyes. He thought of the fifty thousand people eating cabbage in the mess hall. He thought of the falling Moon.
+
+Safety was an illusion. Time was their only real enemy.
+
+Jason opened his eyes. They were hard as flint.
+
+"I can allocate the personnel," Jason said. "But I can only give you enough fissile material for one test device. There are no second chances, Professor.".
+
+"Done!" Hao Yu shouted, his face flushing with excitement.
+
+Jason slammed his hand onto the metal desk, the sound echoing like a gunshot.
+
+"If it works, I will force the council to adopt the Gigaton plan. Do it.".
+
+As Professor Hao Yu rushed out of the room to build the biggest bomb in human history, Jason turned to the window, looking out at the dark, silent crater.
+
+He had just bet the entire human race on a single roll of the dice.
+
+------
+
+[Project "Starfire" Initiated.]
+
+[Time to Critical Orbit Decay: 5 Months, 29 Days.]

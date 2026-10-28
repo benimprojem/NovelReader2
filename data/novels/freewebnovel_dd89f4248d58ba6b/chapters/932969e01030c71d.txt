@@ -1,0 +1,105 @@
+Chapter 88: Machine Prototypes
+
+After handling the matter regarding the Perfect Element, Jason returned to his post and resumed his busy daily routine.
+
+Time flew by. In the second month, a major milestone was achieved: the first batch of experimental super-machines was finally manufactured!
+
+The moment the first super-machine rolled off the assembly line, a swarm of engineers surrounded it, immediately running through another round of emergency calibrations and modifications.
+
+Its dimensions were staggering, several times larger than a standard Earth excavator. It stood at least 13 meters tall and weighed a massive 1,300 metric tons. It looked exactly like a mobile steel fortress!
+
+Of course, the Martian environment played a significant role in its design. Because the local gravity was only roughly one-third that of Earth’s, the structural stress on the materials was vastly reduced. The machine maneuvered on massive tank-like treads, and the gigantic mechanical arm mounted on top could swing with thousands of tons of raw force.
+
+"What a ferocious nuclear-powered monster!" Jason exclaimed as he inspected it. If this super-excavator were to collide head-on with Earth’s most heavily armored main battle tank, its sheer size and mass would crush the tank completely flat.
+
+Under the watchful eyes of the operators, the first batch of unmanned excavators rolled into the Uranium Mining Zone. Once in position, the central computer automatically took over their operation.
+
+Their top speed was only 30 kilometers per hour, hardly a sprint but their raw excavation speed was incredibly fast.
+
+Watching the telemetry on the main screen, Jason nodded in approval. "This autonomous driving system is quite robust. The excavation rate is solid, and the primary advantage is that these machines can operate for extended, unbroken periods. Even if there’s a catastrophic accident, we won’t suffer any human casualties. How many of these prototypes do we currently have? Can we mass-produce them?"
+
+An engineer standing next to him shook his head. "We only have four functioning prototypes at the moment, Captain. However, once the Aegis Industrial Complex is fully operational in a few days, mass production will not be an issue. Our only remaining bottleneck is perfecting the autonomous navigation."
+
+"Oh? What’s the issue with the autonomous driving?" Jason asked, turning his attention to the engineer.
+
+"The northern hemisphere has an incredibly weak magnetic field, making it highly susceptible to cosmic radiation. This radiation causes significant interference with our satellite signals. It’s not a critical issue in the short term, but over an extended period, I’m worried it could lead to navigation errors and potential collisions. Currently, most autonomous vehicles rely heavily on satellite telemetry."
+
+The engineer brought up a topographical map. "To solve this, we essentially have two options: we can either launch a dedicated constellation of satellites to establish a comprehensive orbital navigation network, or we can build an array of localized ground signal stations. Based on our calculations, constructing a dozen or so signal base stations at high-altitude vantage points around the mining zone would provide sufficient coverage. I strongly recommend the ground-based solution; it’s far more resource and time-efficient."
+
+Jason nodded. Since the engineer had a well-reasoned, specific plan, Jason was more than happy to follow his expertise. "Please proceed with the ground station plan. I leave the implementation entirely in your team’s hands," he replied smoothly. Trusting the experts you employ and not employing people you can’t trust had always been his core leadership philosophy.
+
+In reality, autonomous driving systems were already highly mature technology back on Earth. The military regularly utilized unmanned reconnaissance drones and autonomous submarines. In highly complex or hazardous environments, unmanned equipment was always the safer, more efficient choice.
+
+After decades of development on Earth, global positioning networks like GPS had become ubiquitous, offering accuracy down to the centimeter. Autonomous driving there was practically flawless.
+
+But this wasn’t Earth. Currently, they only had two polar-orbiting satellites, and those were dedicated entirely to geological surveying; they were practically useless for precise navigation. To establish a reliable, high-precision orbital positioning system, they would need a minimum of four dedicated satellites in synchronized orbits.
+
+Therefore, establishing localized ground signal stations was the only practical solution. They didn’t need global coverage, anyway; they only needed absolute precision within the designated mining zones.
+
+The four prototype excavators were programmed to maintain a minimum operational distance of 300 meters from one another. This buffer zone was designed to prevent accidental collisions in the event of a system malfunction; 300 meters provided more than enough time for the monitoring personnel back at base to manually override the system and halt the machines if necessary.
+
+"They are designed to operate continuously for seven days, followed by a mandatory ten-hour maintenance cycle. If everything runs smoothly, this initial fleet can excavate approximately 100,000 metric tons of raw ore per day," the engineer explained proudly.
+
+Jason nodded, his eyes fixed on the live feed. The massive machines swung their reinforced steel shovels, relentlessly crushing and scooping up the rocky Martian crust. It was a truly explosive display of industrial mining power.
+
+He was already highly satisfied with the results, but a sudden thought crossed his mind. "By the way, are there any severe safety risks? We aren’t going to have to worry about a localized nuclear meltdown, are we?"
+
+"Absolutely not!" Professor Hao Yu declared, stepping forward. He was visiting the site to observe the field test, and his voice immediately rose an octave in defense of his work. After all, the excavator’s nuclear power plant had been designed by his Wolfpack Design Bureau.
+
+"You do not need to worry about safety, Captain. The fuel core utilizes low-enriched uranium. It is physically impossible for it to reach the critical mass required for a nuclear detonation. Even in the event of a catastrophic engine failure, the probability of a radiation leak is astronomically low." Professor Hao Yu was a scientist; he rarely dealt in absolutes, hence his use of the phrase "astronomically low."
+
+"Furthermore, we only load enough nuclear fuel for roughly seven days of continuous operation at a time, and the fuel rods are carefully inspected and replenished during the scheduled maintenance cycles. Even if a localized leak were to occur, the contamination would be minimal. Besides, we are operating in a lifeless wasteland; environmental contamination is hardly our primary concern. Therefore, I assure you, there are absolutely no safety issues!"
+
+"Alright, alright..." Jason raised his hands in a placating gesture. Even though Professor Hao Yu had gotten slightly defensive, Jason didn’t push the issue. He maintained a high degree of tolerance and respect for the brilliant, if sometimes prickly, scientists under his command.
+
+By noon, all four test units had successfully commenced their primary excavation operations without a single unexpected incident. Every telemetry readout met or exceeded the initial projections. At this operational rate, extracting 100,000 metric tons of uranium ore per day was more than just feasible; it was a certainty.
+
+"For some reason, the topsoil and rock composite within this specific uranium deposit is particularly loose, likely due to ancient geological fracturing," an expert noted, analyzing the soil data. "Future mining sites will likely require more concussive force to break the bedrock."
+
+However, the field test was far from over. The four excavators needed to successfully complete a full seven-day operational cycle without critical failure. Only after the final stress tests met expectations would Jason authorize mass production.
+
+Seeing the massive new excavators successfully deployed seemed to act as a powerful stimulant for the other research departments. Spurred on by the success, development accelerated across the board. Experimental field tests for the proposed super-train network and the new automated cutting robots were scheduled to begin in rapid succession.
+
+The crew was becoming increasingly accustomed to this exhausting but deeply fulfilling pace of life. Every day brought new, positive reports of progress.
+
+Most importantly, the first construction phase of the Aegis Industrial Complex was finally nearing completion. This was what Jason was looking forward to the most! Once phase one of the super-factory was brought online, the colony’s industrial manufacturing capacity would skyrocket, allowing them to mass-produce the heavy industrial machinery required for large-scale expansion.
+
+Over the past few months, the automated smelters had processed a massive stockpile of refined metal resources. Ingots of steel, copper, aluminum, and titanium were stacked like small mountains in the storage bays, ready for immediate deployment. These vast reserves provided the perfect foundation for a massive leap in manufacturing.
+
+Jason was genuinely overjoyed.
+
+The industrial progress reports were uniformly excellent, with many departments actually exceeding their initial projections!
+
+These brilliant scientists and engineers had been so stressed and overwhelmed during the initial planning phases. But once they actually got to work, the seemingly impossible hurdles began to fall one by one. Humanity truly was a species capable of engineering miracles. To overcome so many severe technical bottlenecks in just a few short months couldn’t be chalked up to mere luck; it was a testament to their sheer competence and drive.
+
+The crew walked with more confidence now; they spoke louder, their passion burned brighter, and they threw themselves into their respective projects with renewed, fiery determination.
+
+Jason was deeply satisfied with the Noah’s current trajectory. He only needed to glance at the summary reports to get the data he needed.
+
+Exceeded expectations! Exceeded expectations! Met expectations!
+
+However, as he flipped through the stack of data slates, one specific scientific report caught his eye. It was a preliminary research paper detailing the newly discovered Martian pathogen!
+
+The biology team had finally completed the genetic sequencing of several distinct viral strains found in the soil. The results were fascinating: these pathogens were structurally very similar to Earth-based viruses, and their genetic material was also composed of DNA and RNA.
+
+However, they were structurally more complex than standard Earth viruses. They possessed the unique ability to absorb ambient radiation for energy, synthesize their own proteins, and survive independently outside of a host cell. Yet, they were biologically simpler than a standard bacterium. Taxonomically, they seemed to exist in a bizarre gray area, an organism bridging the gap between a virus and a bacteria.
+
+The report theorized that this discovery lent heavy credence to the Panspermia hypothesis, the idea that life on Earth may have originally been seeded by meteorites! Over the years, fragments of complex amino acids and basic DNA building blocks had been discovered deep within ancient meteorites on Earth, suggesting that the fundamental ingredients for life were common throughout the cosmos.
+
+So, did this Martian pathogen also originate from an ancient meteorite strike? Because its genetic structure shared so many fundamental similarities with Earth-based life, it was impossible not to wonder. Could these ancient, DNA-carrying meteorites have acted like cosmic dandelion seeds, drifting through the void and seeding life across countless habitable planets?
+
+The true origins of life in the universe suddenly seemed even more mysterious and infinitely more complex than humanity had ever imagined.
+
+But that wasn’t what truly grabbed Jason’s attention. His eyes locked onto a single, buried paragraph near the end of the report:
+
+Subjects exposed to the inert Martian pathogen exhibited significantly elevated levels of cellular activity and regeneration!
+
+The data indicated that the pathogen, when stripped of its lethal traits, actively improved the host’s overall physical condition. The implication was staggering: it could potentially extend the human lifespan!
+
+Upon reading that line, Jason was so shocked he nearly knocked his chair over as he jumped up. He reread the paragraph over and over, his eyes scanning the data tables, ensuring he hadn’t misread the technical jargon.
+
+Extend the human lifespan? By up to 50%? Is this actually real, or just a statistical anomaly?
+
+After a few minutes of stunned silence, he finally reached for the communication console on his desk. He immediately issued a priority summons for the entire biology research team, several key members of the Security Department, and the executive council members.
+
+He needed a full briefing, immediately.

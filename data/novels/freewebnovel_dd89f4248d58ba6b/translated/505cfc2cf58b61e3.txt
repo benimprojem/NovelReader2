@@ -1,0 +1,123 @@
+Bölüm 36: Nükleer Test
+
+"Profesör Hao Yu, bunun ne kadar süreceğini tahmin ediyorsunuz?"Jason sordu.Bir yığın idari iş ve sorumluluk altında gömüldü;Ne kadar meraklı olsa da burada sonsuza kadar nöbet tutamazdı.
+
+Profesör Hao Yu kaşını silerek, "Kesin olarak söylemek zor. Bu gidişle toplantı muhtemelen beş veya altı saat daha sürecek" diye yanıtladı."Bundan sonra savaş başlığı ile fırlatma roketinin entegre edilmesi ve paketlenmesi gerekiyor; bu bizim değil balistik ekibinin görevi. Son olarak ultrasonik yapısal testler yapılacak. Sonuçta yaklaşık iki veya üç gün daha bekliyoruz."
+
+Jason düşünceli bir şekilde başını salladı.Cihazın tasarım planlarını aldı ve bir süre inceledi.Dosya bir telefon rehberi kadar kalındı, yoğun veri akışları ve karmaşık şemalarla doluydu.Mevcut mühendislik bilgisi düzeyiyle, bırakın yapıcı geri bildirimde bulunmayı, genel hatları bile zorlukla çözebiliyordu.
+
+"Profesör, bu tasarım biraz... fazla mühendislik gerektirmiyor mu? Karmaşıklık genellikle başarısızlık noktalarına yol açar. Çok karmaşık olan şeyler çoğu zaman güvenilir değildir."
+
+"Öf, Komutan, anlamalısınız ki, nükleer güç ne kadar küçük olursa, mühendislik zorluğu da o kadar büyük olur. Bir şehir yok edici inşa etmek aslında oldukça basittir..."
+
+Profesör Hao Yu acı bir gülümseme sundu."Zaman sınırlı ve kaynaklarımız kısıtlı. Bu 20 nanometrelik demir membranları yaratmak çaresizlikten doğan bir zorunluluktu. Eğer standart megaton sınıfı bir silah yapıyor olsaydım ve sınırsız finansmana sahip olsaydım, kesinlikle bu mimariyi seçmezdim."
+
+Jason açıklamayı kabul ederek başını salladı."Bu arada, Helyum-3 cihazı tamamlandığında canlı bir atış testi yapmamız gerekecek. Bunun için özel protokoller var. Bunların farkındasın, değil mi? Uh... neyse, istek masama ulaştığında endişelenme. Onay sürecini hızlandıracağım."
+
+Kitle imha silahlarına ilişkin sıkı güvenlik prosedürleri dünyanın sonunda bile yürürlükte kaldı.
+
+"Anladım" dedi Profesör Hao Yu."Resmi raporu yarın sunacağım."Cümlenin ortasında tereddüt etti, sonra yukarı baktı, gözleri beklentiyle yanıyordu."Komutanım... eğer patlama başarılı olursa, o zaman benim itiş teklifim..."
+
+Yavaşladı ama bakışları Jason'a sabitlenmişti.
+
+Jason, profesörün "Gigaton Sınıfı Helyum-3 Nükleer Darbeli İtiş Planı"nı hatırlamadan edemedi.Kalbinde bir uğultu yükseldi.*Bu plan... nasıl ifade etmeliyim?Bu tam bir delilik.*
+
+Ama sonra diğer hayatta kalma projelerinde ilerlemenin durduğunu düşündü.Sonunda kararını verdi.
+
+"Eğer bu test başarılı olursa, itici planınız için inceleme kurulunu resmi olarak yeniden açacağız."
+
+"O zaman bu bir anlaşma!"Profesör Hao Yu haykırdı, yorgunluğu yok oldu."Aylardır bu teklifi üzerinde çalışıyorum. Kusursuz olduğunu garanti ederim!"
+
+---
+
+Jason laboratuvardan çıktığında ruh hali karmaşıktı.O gecenin başındaki konser morali başarılı bir şekilde yükseltmiş olsa da göğsünde hala büyük bir ağırlık vardı.
+
+"Nuh'un Gemisi" projesi beklentileri karşılayamıyordu.
+
+Ayrılan sürenin yarısı çoktan geçmişti.Koloni gemisini inşa etmek için gereken yüzden fazla alt projeden sadece yarısı programa uygundu.Diğer yarısı kritik bir şekilde geride kalıyordu.Bunun nedeni insanların tembel olması ya da çaba eksikliği değildi.
+
+Enerji eksikliğiydi.Zaman kısıtlılığı nedeniyle ilave nükleer fisyon santrali inşa edememişlerdi.Mevcut elektrik şebekesi 7/24 maksimum kapasitede çalışıyordu ancak bu yeterli değildi.
+
+Endüstriyel üretim, özellikle demir dışı metallerin eritilmesi için büyük miktarda elektrik gerektiriyordu.
+
+Dünya'da, demirin (Fe) veya bakırın (Cu) cevherlerinden rafine edilmesi tipik olarak karbotermik indirgeme yoluyla yapılır; oksijeni uzaklaştırmak için cevheri karbon (kömür/kok) varlığında ısıtmak.
+
+Ama Ay'da kömür yok.Karbon olmadan, metali rafine etmek için kimyasal bağları kırmak için çok büyük miktarda elektrik tüketen bir süreç olan elektrolizi kullanmak zorunda kaldılar.
+
+Bu Jason'ın başını ağrıttı.Bakır olmadan kablo yapamazlardı.Demir olmadan inşaat demiri veya gövde kaplaması yapamazlardı.Sonuç olarak koloni gemisinin iç inşası ciddi şekilde gecikti.Ham cevherler depolarda dağlar gibi yığılmıştı ama onları işleyecek enerjileri yoktu.
+
+Sabah brifingine göre büyük ölçekli yaşam destek sistemlerinin imalatına daha yeni başlanmıştı.Eğer gemi bu sistemler kurulmadan denize indirilseydi, herkes boşlukta boğulur ya da donardı.
+
+Daha fazla güç bulmaları gerekiyordu.
+
+Jason ve Lily koridorda yan yana yürüyorlardı, ikisi de aynı sorun üzerinde düşünüyordu.
+
+Tarımsal otomasyon planı önemli miktarda enerji tasarrufu sağlayarak başarılı olmasına rağmen, bu fazlalık orijinal bütçede zaten tahsis edilmişti.Daha gelmeden gitmişti.Geride kalan projeleri hızlandırmak için beklenmedik bir enerjiye ihtiyaçları vardı.
+
+Peki onu nerede bulabilirlerdi?
+
+Metali hurdaya çıkarmak için mevcut Ay Üssü'nü sökmeye başlayabilirlerdi ama bu son çareydi.Eğer gemi hazır olmadan evlerini tamamen soysalardı insanlar nerede yaşayacaktı?
+
+Geçerli tek seçenek, orijinal Hidrojen Bombası üretim programını iptal etmek ve onu tamamen Helyum-3 silahlarıyla değiştirmekti.
+
+Standart hidrojen bombalarının üretimi bir enerji yutağıydı.Döteryum ve trityum üretmek inanılmaz derecede zahmetliydi.Döteryumun sudan damıtılması ve daha sonra enerji tüketimi açısından yüksek bir elektro birikime tabi tutulması gerekiyordu.Trityumun elde edilmesi daha da zordu ve nükleer reaktörlerde yavaş üreme gerektiriyordu.
+
+Üssün enerji bütçesinin büyük bir kısmı şu anda bu bombalar için yakıt üretmeye ayrılmıştı.Eğer bunu kesebilirlerse, tüm bu gücü izabe tesislerine yönlendirebilirler.
+
+Helyum-3 bombalarının üretimi, yakıt üretimi için neredeyse hiç enerji gerektirmiyordu çünkü envanterlerinde zaten yaklaşık iki bin ton Helyum-3 vardı.Kullanıma hazırdı.
+
+Tek çıkış yolu buydu.Jason sessizce Profesör Hao Yu'nun cihazının gerçekten işe yaraması için dua edebildi.
+
+---
+
+Üç gün hızla geçti.
+
+Profesör Hao Yu hayal kırıklığına uğratmadı.Jason'ın masasında sessizce bir rapor belirdi:
+
+1-Megaton Sınıfı Helyum-3 Taktik Silahın Canlı Atış Testi Başvurusu.
+
+Yapıldı.
+
+Jason heyecandan bir ürperti hissetti.İlk birkaç sayfayı çevirdi;teknik özellikler laboratuvarda gördükleriyle eşleşiyordu ve güvenlik inceleme kurulu çoktan imzayı atmıştı.Kalemini aldı ve kapağına tek bir kelime karaladı:
+
+ONAYLANDI
+
+.
+
+Yeni geçici hükümetin verimliliği korkunç derecede yüksekti.Onay sabah imzalandı ve testin aynı öğleden sonra yapılması planlandı.Jason, Profesör Hao Yu, Leo ve üssün önde gelen bilimsel beyinleri de dahil olmak üzere yüzden fazla gözlemci komuta merkezinde toplandı.
+
+Herkes bu anın ciddiyetini anladı.Eğer bu başarılı olursa, insanlık önceki cephaneliğindeki her şeyden katlanarak daha güçlü bir silaha sahip olacak.Ayrıca nükleer darbeli itici gücün fizibilitesi doğrulanacak.
+
+"İnsanlığın ilk Helyum-3 nükleer silah testinin resmen başladığını duyuruyorum! Bu operasyonun kod adı:
+
+Şafak Projesi
+
+"
+
+Saat ilerledikçe Jason duyuruyu yüksek sesle okudu.
+
+"Bu testin 1 milyon ton TNT üreteceği tahmin ediliyor. Hedef bölge Acri Krateri. Tüm gözlem personeli lütfen hazırlanın."
+
+Acri Krateri, üssün iki bin kilometre uzağında ıssız bir çöküntüydü.Buradaki bir patlama üssün yapısal bütünlüğüne veya madencilik faaliyetlerine herhangi bir risk teşkil etmeyecektir.
+
+Komuta üzerine, devasa bir çelik muhafaza ünitesinin içine yerleştirilen Helyum-3 savaş başlığı, montaj tesisinden yaklaşık olarak üs çevresinin yaklaşık yüz kilometre dışındaki fırlatma rampasına nakledildi.Kulenin üzerinde otuz metre uzunluğunda bir taktik roket bekliyordu.
+
+"Aracı fırlatmaya hazır."
+
+"Telemetri uyduları kilitlendi."
+
+"Gözlem ekibi yerinde."
+
+"Bütün sistemler yeşil. Son onay bekleniyor."
+
+"Başlat," diye duyurdu Jason ciddiyetle.
+
+Onay tuşuna bastı.Ana ekranda on dakikalık bir geri sayım sayacı belirdi.Bu zorunlu bir güvenlik tamponuydu;Bu on dakika içinde fırlatma her an iptal edilebilir.Acil bir anında başlatma mümkündü, ancak bunun için yalnızca Jason'ın sahip olduğu 64 karakterlik alfasayısal bir kod gerekiyordu.
+
+On dakika... dokuz dakika...
+
+Geri sayım ilerledikçe salondaki gerilim daha da arttı.Profesör Hao Yu adeta titriyordu.Bu bomba, hayatının on yılının, başyapıtının doruk noktasıydı.Nasıl sinirlenmezdi?Elleri ritmik olarak sıkılıp gevşetiliyordu, bu da kaygısını gösteriyordu.
+
+"On, dokuz, sekiz, yedi... üç, iki, bir, sıfır!"
+
+Ekranda roket motorları ateşlendi ve füze sessizce karanlık gökyüzüne doğru gürledi.

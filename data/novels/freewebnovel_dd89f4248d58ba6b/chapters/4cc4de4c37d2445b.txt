@@ -1,0 +1,161 @@
+Chapter 23: Project Orion
+
+The silence in the briefing room didn’t last long. As the realization of what Felix had just said washed over the three thousand elites in the room, the silence shattered.
+
+The room erupted. It wasn’t the polite applause of a scientific conference; it was a release of pure, hysterical pressure. Grown men were banging their fists on the steel tables. Engineers were hugging biologists. Some were openly weeping, burying their faces in their hands.
+
+They had walked into this room facing a death sentence, a decaying orbit that gave them six months to live. They were walking out with a cheat code.
+
+Jason sat at the head of the table, watching the chaos. He didn’t cheer, but he rubbed his nose to hide the grin tugging at his lips. He understood the strategic value immediately.
+
+It was a "Inventory."
+
+In conventional space travel, the tyranny of the rocket equation was absolute: to lift more weight, you needed more fuel. To lift that fuel, you needed *even more* fuel. It was a vicious cycle that kept humanity trapped in gravity wells.
+
+But this Alien Ship broke the cycle.
+
+1.0386 million tons.
+
+That was the magic number. It didn’t matter if they loaded fifty thousand people, ten million tons of soil, or a literal ocean of water into the cargo holds. The engines would only ever have to push 1.0386 million tons.
+
+"Quiet!" Jason finally barked, his enhanced voice cutting through the din. "Settle down!"
+
+The ecstasy slowly faded, replaced by the humming energy of problem-solving.
+
+"We have a loophole," Jason said, standing up. "But we still have a physics problem. A million tons is light for a moon-sized object, but it is incredibly heavy for a spaceship."
+
+He pointed to the screen. "The Victory is the pinnacle of human engineering. Its main thrusters generate 5,000 tons of thrust. To move this ship, we need 1,000,000 tons of thrust just to fight inertia."
+
+The smiles in the room faltered.
+
+"We don’t have the industrial capacity to build two hundred Victory-class engines in six months," Jason stated coldly. "We have the car, but we don’t have the engine."
+
+The room went quiet again. The reality check had landed. They were stranded on the Moon with a massive alien artifact they couldn’t push.
+
+" actually... there is a way."
+
+Felix, the Chief Physicist, stepped forward. His eyes were shining with a manic, dangerous light.
+
+"We don’t need conventional rockets," Felix said, tapping his datapad to cast a new schematic onto the main screen. "We need brute force. We need the most violent energy source humanity has ever mastered."
+
+An image appeared on the screen. It wasn’t a sleek sci-fi thruster. It was crude, ugly, and terrifying.
+
+[Project Orion]
+
+"Nuclear Pulse Propulsion," Felix announced.
+
+A ripple of shock went through the room.
+
+"This isn’t a new idea," Felix explained rapidly, his words tumbling out. "The Americans proposed this in 1958. The concept is simple: we throw atomic bombs out the back of the ship and detonate them. We ride the shockwave."
+
+"Are you insane?" a biologist shouted from the back. "The radiation! The G-force! You’ll turn the crew into jelly!"
+
+"No, I won’t," Felix countered, pointing at the schematics of the Alien Ship. "The 1958 project failed because of fallout in Earth’s atmosphere. But look where we are! Earth is dead. Space is a vacuum. Pollution doesn’t matter anymore."
+
+Felix turned to Jason. "Captain, this ship was made for Orion."
+
+"Explain," Jason said.
+
+"Two reasons," Felix said, holding up two fingers. "First: The Pusher Plate. In the original design, they had to build a massive steel plate to absorb the nuclear blast. But the Alien Ship’s hull is indestructible. We’ve hit it with lasers and diamond drills for thirty years without a scratch. The hull is the perfect pusher plate."
+
+"Second: The G-Force." Felix tapped the diagram of the ship’s internal structure. "This is the miracle. The ship has an internal gravity field. Our tests show that external kinetic forces aren’t transmitted to the interior volume."
+
+Felix looked at the crowd, grinning. "It defies inertia. The ship accelerates, but the internal reference frame stays static. We could detonate a gigaton bomb behind us, and inside... your coffee wouldn’t even ripple."
+
+Jason leaned back. It was madness. It was beautiful.
+
+"The mechanics?" Jason asked.
+
+"We load the rear magazine with directional nuclear shaped charges," Felix explained. "We eject a unit. Behind it, we eject a reaction mass, solid disks of hydrogen-rich plastic. The nuke goes off. The plastic vaporizes into high-velocity plasma. The plasma slams into the hull."
+
+"By our Calculation," Felix said, flashing a number on the screen. "125 days to Mars. With this drive, we don’t just limp away. We sprint all the way."
+
+The scientists were nodding now. The math worked. In a world of alien super-structures, riding nuclear explosions felt like the only logical response.
+
+"However," Felix’s voice dropped. "We have a supply problem."
+
+The euphoric atmosphere evaporated instantly.
+
+"The ammo," Felix said grimly. "We need thousands of pulse units."
+
+"We have three tactical nukes in the armory," Austin spoke up from Jason’s side. "Three."
+
+"We need thousands," Felix repeated. "To build Atomic Bombs, we need enriched Uranium-235. That requires thousands of centrifuges running 24/7. It’s too slow."
+
+"Hydrogen bombs are better," Felix continued. "More power, less mass. But they require Tritium."
+
+"Tritium..." An engineer groaned. "Do you know the cost? It’s thirty thousand dollars a gram. We have to breed it by bombarding Lithium-6 in a nuclear reactor."
+
+"We need electricity," Felix said, looking directly at Jason. "To breed enough Tritium for the drive, we need to divert massive amounts of power to the particle accelerators and reactors. We need gigawatts."
+
+"We also need chemical thrusters for steering," another engineer shouted, standing up. "You can’t steer a million-ton ship with nukes! We need fine control! We need thousands of tons of high-grade fuel!"
+
+"And the mounts!" a metallurgist yelled. "We need titanium-aluminum alloy for the external rig. We need to ramp up the smelters!"
+
+The room descended into chaos.
+
+"I need power for the hydroponics!" Dr. Roman shouted, defending his turf. "If you give the power to the physicists, we starve before we launch!"
+
+"If we don’t launch, we crash!" Felix screamed back.
+
+"Titanium!"
+
+"Lithium!"
+
+"Power!"
+
+The demands piled up like a mountain. The Base was already red-lining. Every machine was running at maximum capacity just to keep the lights on and the air breathable.
+
+BAM
+
+.
+
+Jason slammed his hand on the table again. The vibration rattled the water glasses.
+
+"Enough!"
+
+The shouting died down.
+
+Jason stood up. He looked tired. The halo of the "Superhuman Leader" felt heavy on his shoulders.
+
+"Go back to your teams," Jason ordered, his voice low and dangerous. "Draft concrete plans. I don’t want wish lists. I want logistics. I want to know exactly how many grams of Tritium, how many tons of steel, and how many watts of power."
+
+"We are short on everything, water, power, time. Efficiency is the only thing that matters. If you waste resources, you are killing us."
+
+"Dismissed."
+
+The scientists scrambled out of the room, their datapads glowing as they began the impossible math.
+
+Jason watched them go. He signaled Austin to take over, then turned and walked out the side door.
+
+He found the nearest restroom and locked the door.
+
+He leaned over the sink and splashed cold water on his face. The water was recycled, it smelled faintly of chemicals but the shock helped.
+
+He stared at himself in the mirror. His eyes were bloodshot. The enhanced metabolism that made him a supersoldier was burning through his energy reserves faster than the rations could replenish them.
+
+He reached into his pocket and pulled out a crumpled pack of cigarettes. There was one left.
+
+He lit it, taking a deep drag. The smoke burned his lungs, grounding him.
+
+He raised a hand to run it through his hair, a nervous habit he had developed since the trial.
+
+He pulled his hand away.
+
+Wrapped around his fingers were several strands of dark hair.
+
+Jason stared at them.
+
+He was a Superhuman. His cells regenerated three times faster than a normal man. He was supposed to live for fifteen hundred years.
+
+Stress
+
+, he thought, flicking the hair into the sink.
+
+Even immortality has a breaking point.
+
+He finished the cigarette, crushed the butt, and straightened his uniform.
+
+They needed thousands of nukes. They had six months.
+
+"At worst, we die," Jason whispered to his reflection.

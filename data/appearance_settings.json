@@ -1,0 +1,10 @@
+{
+  "background": "#000E1C",
+  "panel": "#00060F",
+  "button": "#00152B",
+  "text": "#EEEEEE",
+  "accent": "#465D78",
+  "font_family": "Segoe UI",
+  "font_size": 11,
+  "line_spacing": 4
+}

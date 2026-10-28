@@ -1,0 +1,99 @@
+Bölüm 88: Makine Prototipleri
+
+Mükemmel Element konusunu hallettikten sonra Jason görevine geri döndü ve yoğun günlük rutinine kaldığı yerden devam etti.
+
+Zaman uçup gitti.İkinci ayda büyük bir dönüm noktasına ulaşıldı: Deneysel süper makinelerin ilk partisi nihayet üretildi!
+
+İlk süper makine montaj hattından çıktığı anda, bir grup mühendis makinenin etrafını sardı ve hemen başka bir acil durum kalibrasyon ve modifikasyon turuna geçti.
+
+Boyutları şaşırtıcıydı; standart bir Dünya ekskavatöründen birkaç kat daha büyüktü.En az 13 metre yüksekliğinde ve 1.300 metrik tonluk devasa bir ağırlığa sahipti.Tam olarak mobil bir çelik kaleye benziyordu!
+
+Elbette Mars ortamı tasarımında önemli bir rol oynadı.Yerel yerçekimi Dünya'nınkinin yalnızca üçte biri kadar olduğundan, malzemeler üzerindeki yapısal stres büyük ölçüde azaldı.Makine, devasa tank benzeri basamaklar üzerinde manevra yapıyordu ve üstüne monte edilen devasa mekanik kol, binlerce tonluk ham kuvvetle sallanabiliyordu.
+
+"Nükleer güce sahip ne kadar vahşi bir canavar!"Jason onu incelerken bağırdı.Bu süper ekskavatör dünyanın en ağır zırhlı ana muharebe tankıyla kafa kafaya çarpışacak olsaydı, büyüklüğü ve kütlesi, tankı tamamen ezerdi.
+
+Operatörlerin dikkatli gözleri altında ilk insansız ekskavatör grubu Uranyum Madencilik Bölgesine girdi.Konumlandırıldığında, merkezi bilgisayar otomatik olarak bunların çalışmasını devraldı.
+
+Azami hızları saatte yalnızca 30 kilometreydi, bu neredeyse bir sürat koşusuydu ama ham kazı hızları inanılmaz derecede hızlıydı.
+
+Ana ekrandaki telemetriyi izleyen Jason, onaylayarak başını salladı."Bu otonom sürüş sistemi oldukça sağlam. Kazı oranı sağlam ve öncelikli avantajı bu makinelerin uzun süre kesintisiz çalışabilmesi. Feci bir kaza olsa bile herhangi bir insan kaybı yaşamayacağız. Şu anda elimizde bu prototiplerden kaç tane var? Bunları seri üretebilir miyiz?"
+
+Yanında duran bir mühendis başını salladı."Şu anda çalışan yalnızca dört prototipimiz var Kaptan. Ancak Aegis Endüstriyel Kompleksi birkaç gün içinde tamamen çalışır hale geldiğinde seri üretim sorun olmayacak. Geriye kalan tek darboğazımız otonom navigasyonu mükemmelleştirmek."
+
+"Ah? Otonom sürüşle ilgili sorun nedir?"Jason dikkatini mühendise çevirerek sordu.
+
+"Kuzey yarımkürede inanılmaz derecede zayıf bir manyetik alan var ve bu da onu kozmik radyasyona karşı son derece duyarlı hale getiriyor. Bu radyasyon, uydu sinyallerimizde önemli bir parazite neden oluyor. Kısa vadede kritik bir sorun değil, ancak uzun bir süre boyunca navigasyon hatalarına ve olası çarpışmalara yol açabileceğinden endişeleniyorum. Şu anda çoğu otonom araç büyük ölçüde uydu telemetrisine dayanıyor."
+
+Mühendis topoğrafik bir harita çıkardı."Bunu çözmek için esasen iki seçeneğimiz var: ya kapsamlı bir yörüngesel navigasyon ağı oluşturmak için özel bir uydu takımyıldızı fırlatabiliriz ya da bir dizi yerelleştirilmiş yer sinyal istasyonu inşa edebiliriz. Hesaplamalarımıza göre, maden bölgesinin etrafındaki yüksek irtifa görüş noktalarında bir düzine kadar sinyal baz istasyonu inşa etmek yeterli kapsama alanı sağlayacaktır. Yer tabanlı çözümü şiddetle tavsiye ediyorum; çok daha fazla kaynak ve zaman tasarrufu sağlar."Jason başını salladı.Mühendisin iyi düşünülmüş, özel bir planı olduğundan Jason onun uzmanlığını takip etmekten fazlasıyla mutlu oldu."Lütfen yer istasyonu planına devam edin. Uygulamayı tamamen ekibinize bırakıyorum" diye cevapladı yumuşak bir şekilde.Çalıştırdığınız uzmanlara güvenmek ve güvenemeyeceğiniz kişileri işe almamak her zaman onun temel liderlik felsefesi olmuştur.
+
+Gerçekte, otonom sürüş sistemleri Dünya'da zaten oldukça olgun bir teknolojiydi.Ordu düzenli olarak insansız keşif uçakları ve otonom denizaltılardan yararlandı.Son derece karmaşık veya tehlikeli ortamlarda insansız ekipman her zaman daha güvenli ve daha verimli bir seçimdi.
+
+Dünya üzerinde onlarca yıl süren gelişimin ardından, GPS gibi küresel konumlandırma ağları her yerde bulunur hale geldi ve santimetreye kadar doğruluk sağladı.Orada otonom sürüş neredeyse kusursuzdu.
+
+Ama burası Dünya değildi.Şu anda yalnızca iki kutupsal yörüngeli uyduları vardı ve bunlar tamamen jeolojik araştırmalara ayrılmıştı;hassas navigasyon için pratik olarak işe yaramazlardı.Güvenilir, yüksek hassasiyetli bir yörünge konumlandırma sistemi oluşturmak için senkronize yörüngelerde en az dört özel uyduya ihtiyaç duyulacaktır.
+
+Bu nedenle yerelleştirilmiş yer sinyal istasyonları kurmak tek pratik çözümdü.Zaten küresel kapsama ihtiyaçları yoktu;yalnızca belirlenmiş madencilik bölgeleri içinde mutlak hassasiyete ihtiyaçları vardı.
+
+Dört prototip ekskavatör, birbirlerinden minimum 300 metrelik çalışma mesafesini koruyacak şekilde programlandı.Bu tampon bölge, sistem arızası durumunda kazara çarpışmaları önlemek için tasarlandı;300 metre, üsse geri dönen izleme personelinin sistemi manuel olarak devre dışı bırakması ve gerekirse makineleri durdurması için fazlasıyla yeterli süre sağladı.
+
+Mühendis gururla şöyle açıkladı: "Yedi gün boyunca sürekli çalışacak ve ardından on saatlik zorunlu bir bakım döngüsüne sahip olacak şekilde tasarlandılar. Her şey sorunsuz giderse, bu ilk filo günde yaklaşık 100.000 metrik ton ham cevher kazabilir."
+
+Jason başını salladı, gözleri canlı yayına odaklanmıştı.Devasa makineler, güçlendirilmiş çelik küreklerini sallayarak, Mars'ın kayalık kabuğunu acımasızca ezip süpürüyordu.Endüstriyel madencilik gücünün gerçekten patlayıcı bir gösterisiydi.
+
+Sonuçlardan zaten oldukça memnundu ama aklına aniden bir düşünce geldi."Bu arada, ciddi güvenlik riskleri var mı? Yerel bir nükleer erime konusunda endişelenmemize gerek kalmayacak, değil mi?"
+
+"Kesinlikle hayır!"Profesör Hao Yu öne çıkarak ilan etti.Saha testini gözlemlemek için sahayı ziyaret ediyordu ve çalışmalarını savunmak için sesi anında bir oktav yükseldi.Sonuçta ekskavatörün nükleer enerji santrali Wolfpack Tasarım Bürosu tarafından tasarlanmıştı.
+
+"Güvenlik konusunda endişelenmenize gerek yok Kaptan. Yakıt çekirdeğinde düşük oranda zenginleştirilmiş uranyum kullanılıyor. Nükleer bir patlama için gereken kritik kütleye ulaşması fiziksel olarak imkansızdır. Büyük bir motor arızası durumunda bile radyasyon sızıntısı olasılığı astronomik derecede düşüktür."Profesör Hao Yu bir bilim insanıydı;nadiren mutlak değerlerle ilgilendi, bu nedenle "astronomik açıdan düşük" ifadesini kullandı."Ayrıca, bir seferde yalnızca yaklaşık yedi günlük sürekli çalışmaya yetecek kadar nükleer yakıt yüklüyoruz ve yakıt çubukları planlı bakım döngüleri sırasında dikkatlice inceleniyor ve yenileniyor. Yerel bir sızıntı meydana gelse bile, kirlilik minimum düzeyde olacaktır. Ayrıca, cansız bir çorak arazide çalışıyoruz; çevre kirliliği bizim birincil endişemiz değil. Bu nedenle sizi temin ederim ki, kesinlikle hiçbir güvenlik sorunu yok!"
+
+"Tamam, tamam..." Jason sakinleştirici bir hareketle ellerini kaldırdı.Profesör Hao Yu biraz savunmaya geçmiş olsa da Jason konuyu uzatmadı.Emri altındaki parlak, bazen de huysuz bilim adamlarına karşı yüksek derecede hoşgörü ve saygıyı sürdürdü.
+
+Öğle vakti, dört test ünitesinin tamamı, tek bir beklenmedik olay olmadan, birincil kazı çalışmalarına başarıyla başlamıştı.Her telemetri okuması ilk tahminleri karşıladı veya aştı.Bu operasyonel hızda günde 100.000 metrik ton uranyum cevheri çıkarmak mümkün olmaktan da öteydi;bu bir kesinlikti.
+
+Toprak verilerini analiz eden bir uzman, "Bazı nedenlerden dolayı, bu spesifik uranyum yatağı içindeki üst toprak ve kaya bileşimi özellikle gevşek, muhtemelen antik jeolojik kırılmaya bağlı." dedi."Gelecekteki madencilik sahaları muhtemelen ana kayayı kırmak için daha fazla sarsıcı kuvvet gerektirecek."
+
+Ancak saha testi henüz bitmedi.Dört ekskavatörün yedi günlük çalışma döngüsünü kritik bir arıza olmadan başarıyla tamamlaması gerekiyordu.Ancak son stres testleri beklentileri karşıladıktan sonra Jason seri üretime izin verecekti.
+
+Devasa yeni ekskavatörlerin başarıyla konuşlandırıldığını görmek, diğer araştırma departmanları için güçlü bir teşvik gibi görünüyordu.Başarının teşvik ettiği gelişme, genel anlamda hızlandı.Önerilen süper tren ağı ve yeni otomatik kesme robotları için deneysel saha testlerinin hızlı bir şekilde art arda başlaması planlandı.
+
+Mürettebat, bu yorucu ama bir o kadar da tatmin edici yaşam temposuna giderek daha fazla alışmaya başlıyordu.Her gün yeni, olumlu ilerleme raporları getiriliyordu.
+
+En önemlisi, Aegis Endüstriyel Kompleksinin ilk inşaat aşaması nihayet tamamlanmak üzereydi.Jason'ın en çok beklediği şey buydu!Süper fabrikanın birinci aşaması faaliyete geçtiğinde koloninin endüstriyel üretim kapasitesi hızla artacak ve büyük ölçekli genişleme için gereken ağır sanayi makinelerinin seri üretimine olanak tanınacaktı.
+
+Geçtiğimiz birkaç ay boyunca, otomatik izabe tesisleri büyük miktarda rafine metal kaynağı stokunu işlemişti.Çelik, bakır, alüminyum ve titanyum külçeleri, anında konuşlandırılmaya hazır şekilde depolama bölmelerinde küçük dağlar gibi istiflendi.Bu geniş rezervler, üretimde büyük bir sıçrama için mükemmel bir temel oluşturdu.
+
+Jason gerçekten çok sevinmişti.
+
+Endüstriyel ilerleme raporları aynı şekilde mükemmeldi; birçok departman aslında başlangıçtaki tahminlerini aştı!
+
+Bu parlak bilim insanları ve mühendisler, ilk planlama aşamalarında çok stresli ve bunalmışlardı.Ancak gerçekten işe koyulduktan sonra, imkansız gibi görünen engeller birer birer yıkılmaya başladı.İnsanlık gerçekten mucizeler yaratabilen bir türdü.Bu kadar çok ciddi teknik darboğazın sadece birkaç ay içinde aşılması sadece şansa bağlanamaz;bu onların saf yeteneklerinin ve dürtülerinin bir kanıtıydı.Mürettebat artık daha güvenle yürüyordu;daha yüksek sesle konuştular, tutkuları daha da alevlendi ve yenilenmiş, ateşli bir kararlılıkla kendilerini ilgili projelerine adadılar.
+
+Jason, Noah'ın mevcut gidişatından son derece memnundu.İhtiyaç duyduğu verileri elde etmek için yalnızca özet raporlara bakması yeterliydi.
+
+Beklentileri aştı!Beklentileri aştı!Beklentileri karşıladı!
+
+Ancak veri yığınını karıştırırken belirli bir bilimsel rapor gözüne çarptı.Yeni keşfedilen Mars patojeninin ayrıntılarını anlatan bir ön araştırma makalesiydi!
+
+Biyoloji ekibi nihayet toprakta bulunan birkaç farklı viral türün genetik dizilimini tamamladı.Sonuçlar büyüleyiciydi: Bu patojenler yapısal olarak Dünya kökenli virüslere çok benziyordu ve genetik materyalleri de DNA ve RNA'dan oluşuyordu.
+
+Ancak bunlar yapısal olarak standart Dünya virüslerinden daha karmaşıktı.Enerji için ortam radyasyonunu absorbe etme, kendi proteinlerini sentezleme ve konakçı hücrenin dışında bağımsız olarak hayatta kalma konusunda eşsiz bir yeteneğe sahiptiler.Ancak biyolojik olarak standart bir bakteriden daha basittiler.Taksonomik olarak, tuhaf bir gri alanda, virüsle bakteri arasındaki boşluğu dolduran bir organizmada var gibi görünüyorlardı.
+
+Rapor, bu keşfin Panspermia hipotezine, yani Dünya'daki yaşamın başlangıçta meteorlar tarafından tohumlanmış olabileceği fikrine büyük ölçüde güven sağladığını teorileştirdi!Yıllar geçtikçe, karmaşık amino asitlerin ve temel DNA yapı taşlarının parçaları, Dünya üzerindeki antik göktaşlarının derinliklerinde keşfedilmişti; bu da yaşam için temel bileşenlerin kozmosta yaygın olduğunu akla getiriyordu.
+
+Peki Mars'taki bu patojen aynı zamanda eski bir göktaşı çarpmasından mı kaynaklandı?Genetik yapısı Dünya'daki yaşamla pek çok temel benzerliği paylaştığından, merak etmemek mümkün değildi.DNA taşıyan bu antik göktaşları kozmik karahindiba tohumları gibi davranarak boşlukta sürüklenip sayısız yaşanabilir gezegene hayat ekmiş olabilir mi?
+
+Evrendeki yaşamın gerçek kökenleri birdenbire insanlığın hayal ettiğinden çok daha gizemli ve sonsuz derecede karmaşık göründü.
+
+Ancak Jason'ın asıl dikkatini çeken şey bu değildi.Gözleri raporun sonuna yakın tek, gömülü bir paragrafa kilitlendi:
+
+Hareketsiz Mars patojenine maruz kalan denekler, önemli ölçüde yüksek düzeyde hücresel aktivite ve yenilenme sergiledi!
+
+Veriler, patojenin öldürücü özelliklerinden arındırıldığında konağın genel fiziksel durumunu aktif olarak iyileştirdiğini gösterdi.Bunun anlamı şaşırtıcıydı: potansiyel olarak insan ömrünü uzatabilirdi!
+
+Jason bu satırı okuduğunda o kadar şok oldu ki ayağa fırlarken neredeyse sandalyesini deviriyordu.Paragrafı tekrar tekrar okudu, gözleriyle veri tablolarını taradı ve teknik jargonu yanlış okumadığından emin oldu.
+
+İnsan ömrünü uzatmak mı?%50'ye kadar mı?Bu gerçekten gerçek mi, yoksa sadece istatistiksel bir anormallik mi?
+
+Birkaç dakikalık şaşkın sessizliğin ardından nihayet masasındaki iletişim konsoluna uzandı.Hemen tüm biyoloji araştırma ekibine, Güvenlik Departmanının birkaç önemli üyesine ve yönetim kurulu üyelerine öncelikli bir çağrı yayınladı.
+
+Derhal tam bir brifinge ihtiyacı vardı.

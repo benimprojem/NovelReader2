@@ -1,0 +1,179 @@
+Chapter 19: The Death Spiral
+
+The silence in the observatory was heavy, but in Dr. Thomson’s chest, the sense of oppression was more heavy.
+
+He didn’t even have time to turn around. The keen intuition of a top-tier scientist had seized him, a premonition that a catastrophe no one had predicted was quietly unfolding in the void.
+
+His fingers flew across the keyboard. He didn’t pause to think. He simply listed the equations that were burning in his mind:
+
+[Kinetic Energy Formula]
+
+[Friction Coefficient]
+
+[Fluid Dynamics]
+
+[Orbital Mechanics
+
+]
+
+The variables filled the screen.
+
+Thomson hit
+
+Enter
+
+.
+
+The base’s supercomputer was faster than human thought. The result appeared in less than a second.
+
+Thomson felt as if a giant hand had squeezed his heart. The blood drained from his face, leaving him terrifyingly pale. He stared at the number, praying to a God he hadn’t believed in for years that he had made a mistake.
+
+"Professor! Look at what I found!"
+
+The lab door slid open. Timothy, his young student, still ran in excitement. He was holding a plastic film canister like a prize.
+
+"I caught ice! The trap worked!".
+
+Timothy stopped. He saw the look on his mentor’s face. Thomson was usually strict, a man who scolded anyone who interrupted his workflow. But today, he didn’t scold. He looked like a man who had just seen a ghost.
+
+Since Earth exploded, they had both lost their families. Their relationship had become closer than teacher and student, they were like father and son now.
+
+"Timothy," Thomson said, his voice trembling with an exhaustion that went bone deep. "Come here. Check my calculations.".
+
+Thomson forced himself to re-derive the proof on the screen. He wrote out the formulas step-by-step. Under normal circumstances, he could have done this in his sleep. Now, every keystroke felt like it consumed a year of his life.
+
+"This is..."
+
+Timothy leaned in, scanning the data. His youthful excitement faded into confusion.
+
+"Oh... I see. You’re calculating the drag coefficient of a sphere moving through a particulate cloud? The math looks solid. But why are you modeling..."
+
+Timothy froze.
+
+He recognized the parameters.
+
+Mass: 7.34 × 10²² kg (The Moon)
+
+Velocity: 1.022 km/s
+
+Medium: Silica Dust & Water Vapor
+
+His eyes widened. He rubbed them, hoping it was a hallucination. It wasn’t.
+
+The terror was absolute. Timothy’s legs gave out, and he slumped to the floor, staring up at his mentor with wet eyes.
+
+"Has God abandoned us?".
+
+---------
+
+Captain Jason received the report minutes later.
+
+At first, the blood rushed to his head. The room spun. It felt like the sky, what was left of it was collapsing on top of him.
+
+How is this possible?
+
+One wave hadn’t even settled before another rose to drown them. They hadn’t even solved the food crisis yet.
+
+"I cannot fall... I cannot fall..."
+
+Jason whispered the mantra to himself. The despair threatened to overwhelm him, but he fought it back. He bit his lip so hard that blood filled his mouth. The sharp, copper taste grounded him.
+
+He was the Commander of Moon Base One. He did not have the luxury of despair.
+
+He read the report again. Although he wasn’t a physicist by trade, the logic was basic mechanics. Friction converts kinetic energy into heat. Drag reduces velocity.
+
+The conclusion was inescapable.
+
+A drop of cold sweat rolled down Jason’s forehead.
+
+"Lily," he barked into his communicator. "Emergency council meeting. Now. I need every Department Head and Senior Scientist in the briefing room immediately."
+
+"What?" Lily’s voice crackled in his ear, sounding stressed. "Captain, pulling the senior staff right now will disrupt the production lines. We are in the middle of the harvest prep...."
+
+"I don’t care!" Jason roared. "This is an order!".
+
+------
+
+The meeting began in chaos.
+
+There was a commotion as the scientists filed in. Many felt that Jason, an outsider and a soldier, was slowly becoming a dictator, disrupting their critical work for another pep talk.
+
+Jason didn’t bother to argue. He didn’t sit down.
+
+"Quiet," he said, his voice cutting through the noise. "I have critical intelligence. It is not good news. Prepare yourselves.".
+
+The room settled, sensing the shift in his demeanor.
+
+Jason activated the main screen. He drew a simple diagram: The Moon, the ruined Earth, and a swirling layer of gas.
+
+"Look at the board," Jason began. "This is our reality. The Moon orbits Earth."
+
+"When Earth was destroyed, its mass distribution shifted. The gravitational pull changed, altering our orbit into an ellipse with an eccentricity of roughly 0.21.".
+
+"As the orbit changes, the near side of our path brings us closer to the planet. And right now, we are passing through the massive cloud of gas and dust left over from the explosion."
+
+"You all know the density is low, less than one-hundred-thousandth of Earth’s old atmosphere. It’s a mix of water vapor, sand, and air. We ignored it because it wasn’t toxic.".
+
+Jason paused, scanning the room.
+
+"Because it wasn’t toxic, we made a mistake."
+
+The scientists began to whisper. They were connecting the dots.
+
+"Even a thin atmosphere creates drag," Jason said grimly. "When a body the size of the Moon moves through that gas, it generates massive friction. That friction converts kinetic energy into heat."
+
+"Gentlemen, the Moon is losing momentum. We are decelerating !!.".
+
+The murmurs stopped. Faces went pale.
+
+Deceleration in orbit meant only one thing.
+
+"When velocity decreases," Jason continued, "the centripetal force drops below the force of gravity. The Moon is being pulled closer to Earth."
+
+"As we lose energy, our orbit decays. The perigee is dropping."
+
+"This is a death spiral.".
+
+Jason brought up a new slide.
+
+"We have identified three terminal scenarios."
+
+"[Scenario One: Impact.
+
+As we get closer to Earth, the density of meteors increases. The probability of striking a large asteroid skyrockets. A ten-kilometer rock would cause a magnitude thirteen earthquake and vaporize this base.
+
+]
+
+".
+
+"[Scenario Two:
+
+Roche Limit. If we avoid the rocks, we eventually get close enough that Earth’s tidal gravity tears the Moon apart. We disintegrate.
+
+]
+
+"
+
+.
+
+"[Scenario Three:
+
+Collision
+
+.]"
+
+"If we survive the rocks and the gravity... we crash into the Earth.".
+
+The silence in the room was absolute. It was the silence of a tomb.
+
+Jason brought up Thomson’s calculations. The screen filled with a dense wall of math that spelled out their doom.
+
+"According to conservative estimates, the ’Safety Window’ is short."
+
+"After six months, the risk of asteroid impact becomes critical.".
+
+"After twelve months... the orbit decays beyond the point of no return."
+
+Jason looked at the council—the last hope of humanity.
+
+"We are falling," Jason said, his voice heavy. "And we have six months to stop it.".

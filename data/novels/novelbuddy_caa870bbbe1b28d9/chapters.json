@@ -1,0 +1,848 @@
+{
+  "chapters": [
+    {
+      "chapter_id": "chapter_0_info",
+      "chapter_number": 0,
+      "title": "Chapter 0 — Roman Bilgileri",
+      "resolved_title": "Chapter 0 — Roman Bilgileri",
+      "source_url": "https://novelbuddy.me/immortality-through-will",
+      "is_info_page": true,
+      "downloaded": true,
+      "local_file": "info.txt",
+      "translated": true,
+      "translated_file": "translated/chapter_0_info.txt",
+      "translated_at": "2026-10-27T22:07:14.079382+00:00"
+    },
+    {
+      "chapter_id": "7310ad6b5acbe262",
+      "title": "Immortality Through Will - RANKING SYSTEM (SPOILER ALERT)",
+      "source_url": "https://novelbuddy.me/immortality-through-will/ranking-system-spoiler-alert",
+      "source_order": 0,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:57.651926+00:00",
+      "local_file": "chapters/7310ad6b5acbe262.txt",
+      "resolved_title": "Immortality Through Will - RANKING SYSTEM (SPOILER ALERT)",
+      "translated": true,
+      "translated_file": "translated/7310ad6b5acbe262.txt",
+      "translated_at": "2026-10-27T22:07:17.693331+00:00"
+    },
+    {
+      "chapter_id": "869fbbfd1db48afb",
+      "title": "Immortality Through Will - Chapter 1: A Million Years in Chains",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-1-a-million-years-in-chains",
+      "source_order": 1,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:58.158316+00:00",
+      "local_file": "chapters/869fbbfd1db48afb.txt",
+      "resolved_title": "Immortality Through Will - Chapter 1: A Million Years in Chains",
+      "translated": true,
+      "translated_file": "translated/869fbbfd1db48afb.txt",
+      "translated_at": "2026-10-27T22:07:23.213714+00:00"
+    },
+    {
+      "chapter_id": "69daab1d89ff80e3",
+      "title": "Immortality Through Will - Chapter 2: A World Without Cultivation",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-2-a-world-without-cultivation",
+      "source_order": 2,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:58.553673+00:00",
+      "local_file": "chapters/69daab1d89ff80e3.txt",
+      "resolved_title": "Immortality Through Will - Chapter 2: A World Without Cultivation",
+      "translated": true,
+      "translated_file": "translated/69daab1d89ff80e3.txt",
+      "translated_at": "2026-10-27T22:07:27.657224+00:00"
+    },
+    {
+      "chapter_id": "35b43adcd2534c16",
+      "title": "Immortality Through Will - Chapter 3: The Adopted Slave",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-3-the-adopted-slave",
+      "source_order": 3,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:58.942208+00:00",
+      "local_file": "chapters/35b43adcd2534c16.txt",
+      "resolved_title": "Immortality Through Will - Chapter 3: The Adopted Slave",
+      "translated": true,
+      "translated_file": "translated/35b43adcd2534c16.txt",
+      "translated_at": "2026-10-27T22:07:32.584353+00:00"
+    },
+    {
+      "chapter_id": "c2c04143342e5d4c",
+      "title": "Immortality Through Will - Chapter 4: A Second Beginning",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-4-a-second-beginning",
+      "source_order": 4,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:59.347250+00:00",
+      "local_file": "chapters/c2c04143342e5d4c.txt",
+      "resolved_title": "Immortality Through Will - Chapter 4: A Second Beginning",
+      "translated": true,
+      "translated_file": "translated/c2c04143342e5d4c.txt",
+      "translated_at": "2026-10-27T22:07:37.340398+00:00"
+    },
+    {
+      "chapter_id": "4fca784947e5cd48",
+      "title": "Immortality Through Will - Chapter 5: Earth Is a Barren World",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-5-earth-is-a-barren-world",
+      "source_order": 5,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:06:59.907133+00:00",
+      "local_file": "chapters/4fca784947e5cd48.txt",
+      "resolved_title": "Immortality Through Will - Chapter 5: Earth Is a Barren World",
+      "translated": true,
+      "translated_file": "translated/4fca784947e5cd48.txt",
+      "translated_at": "2026-10-27T22:07:41.972610+00:00"
+    },
+    {
+      "chapter_id": "a65b663f90428f6b",
+      "title": "Immortality Through Will - Chapter 6: The Will to Be Free",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-6-the-will-to-be-free",
+      "source_order": 6,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:07:00.325145+00:00",
+      "local_file": "chapters/a65b663f90428f6b.txt",
+      "resolved_title": "Immortality Through Will - Chapter 6: The Will to Be Free",
+      "translated": true,
+      "translated_file": "translated/a65b663f90428f6b.txt",
+      "translated_at": "2026-10-27T22:07:46.769554+00:00"
+    },
+    {
+      "chapter_id": "906111d4c86d2cf4",
+      "title": "Immortality Through Will - Chapter 7: The First Step of Will",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-7-the-first-step-of-will",
+      "source_order": 7,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:07:00.759072+00:00",
+      "local_file": "chapters/906111d4c86d2cf4.txt",
+      "resolved_title": "Immortality Through Will - Chapter 7: The First Step of Will",
+      "translated": true,
+      "translated_file": "translated/906111d4c86d2cf4.txt",
+      "translated_at": "2026-10-27T22:07:51.341348+00:00"
+    },
+    {
+      "chapter_id": "623555ed4c0b3583",
+      "title": "Immortality Through Will - Chapter 8: The Power to Temper the Body",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-8-the-power-to-temper-the-body",
+      "source_order": 8,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:07:01.128641+00:00",
+      "local_file": "chapters/623555ed4c0b3583.txt",
+      "resolved_title": "Immortality Through Will - Chapter 8: The Power to Temper the Body",
+      "translated": true,
+      "translated_file": "translated/623555ed4c0b3583.txt",
+      "translated_at": "2026-10-27T22:07:56.232646+00:00"
+    },
+    {
+      "chapter_id": "f35709f4fbfd79ae",
+      "title": "Immortality Through Will - Chapter 9: The Kidnapped Prime Minister",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-9-the-kidnapped-prime-minister",
+      "source_order": 9,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:07:01.521225+00:00",
+      "local_file": "chapters/f35709f4fbfd79ae.txt",
+      "resolved_title": "Immortality Through Will - Chapter 9: The Kidnapped Prime Minister",
+      "translated": true,
+      "translated_file": "translated/f35709f4fbfd79ae.txt",
+      "translated_at": "2026-10-27T22:19:49.040448+00:00"
+    },
+    {
+      "chapter_id": "57ea40f126b30cb7",
+      "title": "Immortality Through Will - Chapter 10: When the World Leaders Arrived",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-10-when-the-world-leaders-arrived",
+      "source_order": 10,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:20:55.580169+00:00",
+      "local_file": "chapters/57ea40f126b30cb7.txt",
+      "resolved_title": "Immortality Through Will - Chapter 10: When the World Leaders Arrived",
+      "translated": true,
+      "translated_file": "translated/57ea40f126b30cb7.txt",
+      "translated_at": "2026-10-27T22:21:16.311081+00:00"
+    },
+    {
+      "chapter_id": "5c35c9136c4b1bf8",
+      "title": "Immortality Through Will - Chapter 11: The Gathering of Kings",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-11-the-gathering-of-kings",
+      "source_order": 11,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:20:55.951794+00:00",
+      "local_file": "chapters/5c35c9136c4b1bf8.txt",
+      "resolved_title": "Immortality Through Will - Chapter 11: The Gathering of Kings",
+      "translated": true,
+      "translated_file": "translated/5c35c9136c4b1bf8.txt",
+      "translated_at": "2026-10-27T22:21:20.253890+00:00"
+    },
+    {
+      "chapter_id": "c839d911948d289a",
+      "title": "Immortality Through Will - Chapter 12: The Carrot and the Whip",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-12-the-carrot-and-the-whip",
+      "source_order": 12,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:20:56.278569+00:00",
+      "local_file": "chapters/c839d911948d289a.txt",
+      "resolved_title": "Immortality Through Will - Chapter 12: The Carrot and the Whip",
+      "translated": true,
+      "translated_file": "translated/c839d911948d289a.txt",
+      "translated_at": "2026-10-27T22:21:23.788621+00:00"
+    },
+    {
+      "chapter_id": "9cdb42cdb2c67d49",
+      "title": "Immortality Through Will - Chapter 13: Seven Thrones",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-13-seven-thrones",
+      "source_order": 13,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:20:56.574951+00:00",
+      "local_file": "chapters/9cdb42cdb2c67d49.txt",
+      "resolved_title": "Immortality Through Will - Chapter 13: Seven Thrones",
+      "translated": true,
+      "translated_file": "translated/9cdb42cdb2c67d49.txt",
+      "translated_at": "2026-10-27T22:21:29.470782+00:00"
+    },
+    {
+      "chapter_id": "911e6e9418901f8a",
+      "title": "Immortality Through Will - Chapter 14: The Oath of Servitude",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-14-the-oath-of-servitude",
+      "source_order": 14,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T22:20:56.900439+00:00",
+      "local_file": "chapters/911e6e9418901f8a.txt",
+      "resolved_title": "Immortality Through Will - Chapter 14: The Oath of Servitude",
+      "translated": true,
+      "translated_file": "translated/911e6e9418901f8a.txt",
+      "translated_at": "2026-10-27T22:21:34.657491+00:00"
+    },
+    {
+      "chapter_id": "14ea1e1c0aa524ba",
+      "title": "Chapter 15: The Path Reaches Rank Nine",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-15-the-path-reaches-rank-nine",
+      "source_order": 15,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T23:44:41.247609+00:00",
+      "local_file": "chapters/14ea1e1c0aa524ba.txt",
+      "resolved_title": "Chapter 15: The Path Reaches Rank Nine"
+    },
+    {
+      "chapter_id": "ad877df9cf5d58d8",
+      "title": "Chapter 16: Seven Sovereigns, One Year",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-16-seven-sovereigns-one-year",
+      "source_order": 16,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T23:44:41.666775+00:00",
+      "local_file": "chapters/ad877df9cf5d58d8.txt",
+      "resolved_title": "Chapter 16: Seven Sovereigns, One Year"
+    },
+    {
+      "chapter_id": "a4f48a1a5c334440",
+      "title": "Chapter 17: The World Begins to Break",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-17-the-world-begins-to-break",
+      "source_order": 17,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T23:44:42.043228+00:00",
+      "local_file": "chapters/a4f48a1a5c334440.txt",
+      "resolved_title": "Chapter 17: The World Begins to Break"
+    },
+    {
+      "chapter_id": "9229542ecc02acd2",
+      "title": "Chapter 18: The Secret Beneath Earth",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-18-the-secret-beneath-earth",
+      "source_order": 18,
+      "downloaded": true,
+      "downloaded_at": "2026-10-27T23:44:42.362715+00:00",
+      "local_file": "chapters/9229542ecc02acd2.txt",
+      "resolved_title": "Chapter 18: The Secret Beneath Earth"
+    },
+    {
+      "chapter_id": "6f12d52f6f76fd6b",
+      "title": "Immortality Through Will - Chapter 19: Victoria and the Lazy King",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-19-victoria-and-the-lazy-king",
+      "source_order": 19,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "f0ad6ef2dc5dafab",
+      "title": "Immortality Through Will - Chapter 20: I Surrender",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-20-i-surrender",
+      "source_order": 20,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "bfd1cabf6a00da3c",
+      "title": "Immortality Through Will - Chapter 21: The Execution of the Weak",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-21-the-execution-of-the-weak",
+      "source_order": 21,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0bb658706aef54ad",
+      "title": "Immortality Through Will - Chapter 22: The Rise of Truth",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-22-the-rise-of-truth",
+      "source_order": 22,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "697edf2ae25832db",
+      "title": "Immortality Through Will - Chapter 23: The Final Battle for the West",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-23-the-final-battle-for-the-west",
+      "source_order": 23,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "167a3b33d7300ce3",
+      "title": "Immortality Through Will - Chapter 24: GOLDEN PALACE",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-24-golden-palace",
+      "source_order": 24,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "80d38ef05a45da6b",
+      "title": "Immortality Through Will - Chapter 25: The Monster in the Coffin",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-25-the-monster-in-the-coffin",
+      "source_order": 25,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "fa91aeee28d17ec1",
+      "title": "Immortality Through Will - Chapter 26: A Conversation With the Unkillable",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-26-a-conversation-with-the-unkillable",
+      "source_order": 26,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "60c978ecafa74a1f",
+      "title": "Immortality Through Will - Chapter 27: One Sword, One Strike",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-27-one-sword-one-strike",
+      "source_order": 27,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "702baa3946bd6f02",
+      "title": "Immortality Through Will - Chapter 28: A Kingdom of Ice",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-28-a-kingdom-of-ice",
+      "source_order": 28,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "e130fa9ef4094e35",
+      "title": "Immortality Through Will - Chapter 29: The Birth of Wrath",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-29-the-birth-of-wrath",
+      "source_order": 29,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "67607f255edae0cb",
+      "title": "Immortality Through Will - Chapter 30: The Will That Returns",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-30-the-will-that-returns",
+      "source_order": 30,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "95c41df109e1f6a7",
+      "title": "Immortality Through Will - Chapter 31: The Truthful Sovereign",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-31-the-truthful-sovereign",
+      "source_order": 31,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "c672cd1c36c7f320",
+      "title": "Immortality Through Will - Chapter 32: The Last Terrorists",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-32-the-last-terrorists",
+      "source_order": 32,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0abb03834764c8fe",
+      "title": "Immortality Through Will - Chapter 33: The Sovereign of Balance",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-33-the-sovereign-of-balance",
+      "source_order": 33,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "43b854f9b63cef2a",
+      "title": "Immortality Through Will - Chapter 34: The Absolute Judgment",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-34-the-absolute-judgment",
+      "source_order": 34,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "06dc185ce19340bd",
+      "title": "Immortality Through Will - Chapter 35: The Birth of an Emperor",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-35-the-birth-of-an-emperor",
+      "source_order": 35,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "91dd5b1beb274ab6",
+      "title": "Immortality Through Will - Chapter 36: When Technology Gains Will",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-36-when-technology-gains-will",
+      "source_order": 36,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "bbbbf4eccadc1bdd",
+      "title": "Immortality Through Will - Chapter 37: The Frozen Heart",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-37-the-frozen-heart",
+      "source_order": 37,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "2c095fdd3f1314a5",
+      "title": "Immortality Through Will - Chapter 38: The Birth of Earth’s Spirit",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-38-the-birth-of-earths-spirit",
+      "source_order": 38,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "a9d1b4faad29d7df",
+      "title": "Immortality Through Will - Chapter 39: The Eternals",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-39-the-eternals",
+      "source_order": 39,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "27f56cfd051bc0c9",
+      "title": "Immortality Through Will - Chapter 40: Preparing for the True Universe",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-40-preparing-for-the-true-universe",
+      "source_order": 40,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "5e4f3ebd13a126d1",
+      "title": "Immortality Through Will - Chapter 41: The Madness of Alice",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-41-the-madness-of-alice",
+      "source_order": 41,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d78c8a3cc3be9e42",
+      "title": "Immortality Through Will - Chapter 42: The First Talents",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-42-the-first-talents",
+      "source_order": 42,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "35512379ac844991",
+      "title": "Immortality Through Will - Chapter 43: ALICE’S WILL",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-43-alices-will",
+      "source_order": 43,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d9dc5fdc01a51138",
+      "title": "Immortality Through Will - Chapter 44: HEART ON VICTORIA",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-44-heart-on-victoria",
+      "source_order": 44,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "639c62828500db4b",
+      "title": "Immortality Through Will - Chapter 45: ZERAK SCHEME",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-45-zerak-scheme",
+      "source_order": 45,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0376f6a98d566746",
+      "title": "Immortality Through Will - Chapter 46: MAP OF KINGDOMS",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-46-map-of-kingdoms",
+      "source_order": 46,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d0178b022b5b3d5e",
+      "title": "Immortality Through Will - Chapter 47: NEW KINGDOM OF ETERNALS",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-47-new-kingdom-of-eternals",
+      "source_order": 47,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "93e123e579190c84",
+      "title": "Immortality Through Will - Chapter 48: TORTURE",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-48-torture",
+      "source_order": 48,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "ccb5af340da3515a",
+      "title": "Immortality Through Will - Chapter 49: LIFE WILL",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-49-life-will",
+      "source_order": 49,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "fcf7241b4c0b2361",
+      "title": "Immortality Through Will - Chapter 50: Rise of Kingdoms",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-50-rise-of-kingdoms",
+      "source_order": 50,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "02fbc76dc3347616",
+      "title": "Immortality Through Will - Chapter 51: Greatest oppressor and liberator",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-51-greatest-oppressor-and-liberator",
+      "source_order": 51,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "380abdc46ecc9c58",
+      "title": "Immortality Through Will - Chapter 52: Blood transformation",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-52-blood-transformation",
+      "source_order": 52,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "3368d69cd299a979",
+      "title": "Immortality Through Will - Chapter 53: Death of Alice and Clara",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-53-death-of-alice-and-clara",
+      "source_order": 53,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "b71466f65a5699aa",
+      "title": "Immortality Through Will - Chapter 54: Chained to Throne",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-54-chained-to-throne",
+      "source_order": 54,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0ee17b430e383f35",
+      "title": "Immortality Through Will - Chapter 55: Favoritism in Selection",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-55-favoritism-in-selection",
+      "source_order": 55,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d385341c85a5320b",
+      "title": "Immortality Through Will - Chapter 56: First Will Technology",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-56-first-will-technology",
+      "source_order": 56,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "b7ccd91bec922e67",
+      "title": "Immortality Through Will - Chapter 57: The Will of Technology",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-57-the-will-of-technology",
+      "source_order": 57,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "a6236a3354d063a2",
+      "title": "Immortality Through Will - Chapter 58: Executions of millions",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-58-executions-of-millions",
+      "source_order": 58,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d1f3ac986d01395f",
+      "title": "Immortality Through Will - Chapter 59: Victoria’s Attraction",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-59-victorias-attraction",
+      "source_order": 59,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "e65be3f6e7abe9f4",
+      "title": "Immortality Through Will - Chapter 60: Albert’s experiment",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-60-alberts-experiment",
+      "source_order": 60,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "c3f669aaf7d66e4b",
+      "title": "Immortality Through Will - Chapter 61: Elve’s Path of Nature",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-61-elves-path-of-nature",
+      "source_order": 61,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "3cfa4e25e94dbf2f",
+      "title": "Immortality Through Will - Chapter 62: The Problem of Religion",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-62-the-problem-of-religion",
+      "source_order": 62,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0b7799b54ee7cdfa",
+      "title": "Immortality Through Will - Chapter 63: Humiliated Victoria",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-63-humiliated-victoria",
+      "source_order": 63,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "4478a121c02b9390",
+      "title": "Immortality Through Will - Chapter 64: Victoria’s POV",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-64-victorias-pov",
+      "source_order": 64,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "85019f6f3c3a529e",
+      "title": "Immortality Through Will - Chapter 65: Victoria’s Pov part 2",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-65-victorias-pov-part-2",
+      "source_order": 65,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "f6c39525f4d3e53e",
+      "title": "Immortality Through Will - Chapter 66: Training in Antarctica",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-66-training-in-antarctica",
+      "source_order": 66,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "8222d5a66a3ef4fd",
+      "title": "Immortality Through Will - Chapter 67: Daughter of Paul",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-67-daughter-of-paul",
+      "source_order": 67,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "abf03ee7d3a7f6db",
+      "title": "Immortality Through Will - Chapter 68: Paul’s POV",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-68-pauls-pov",
+      "source_order": 68,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "9d92197cdd83589f",
+      "title": "Immortality Through Will - Chapter 69: Special Talent",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-69-special-talent",
+      "source_order": 69,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "af7360afd983077a",
+      "title": "Immortality Through Will - Chapter 70: Difficulty of special talent",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-70-difficulty-of-special-talent",
+      "source_order": 70,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "3c9646a1a2951598",
+      "title": "Immortality Through Will - Chapter 71: Sacrifice for Cassian",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-71-sacrifice-for-cassian",
+      "source_order": 71,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "31dd685d84eb5cf3",
+      "title": "Immortality Through Will - Chapter 72: Albert experiment: Changes in Earth",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-72-albert-experiment-changes-in-earth",
+      "source_order": 72,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "8ff328ca8f6064eb",
+      "title": "Immortality Through Will - Chapter 73: Bone Transformation",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-73-bone-transformation",
+      "source_order": 73,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "0a0b65230ffdfddc",
+      "title": "Immortality Through Will - Chapter 74: Nuclear Power",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-74-nuclear-power",
+      "source_order": 74,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "48fdd6983eb6e683",
+      "title": "Immortality Through Will - Chapter 75: Mad Scientist",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-75-mad-scientist",
+      "source_order": 75,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "14524b363ccc6e2d",
+      "title": "Immortality Through Will - Chapter 76: Albert Discloser",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-76-albert-discloser",
+      "source_order": 76,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "4bab7b2615b232ee",
+      "title": "Immortality Through Will - Chapter 77: Questioning Emperor",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-77-questioning-emperor",
+      "source_order": 77,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d03f611129192c14",
+      "title": "Immortality Through Will - Chapter 78: Uneasy feeling",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-78-uneasy-feeling",
+      "source_order": 78,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "ad0e0f71054b15ba",
+      "title": "Immortality Through Will - Chapter 79: Rising Anxiety",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-79-rising-anxiety",
+      "source_order": 79,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "d3c31ad72eb962e6",
+      "title": "Immortality Through Will - Chapter 80: Watching Victoria",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-80-watching-victoria",
+      "source_order": 80,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "bcfaeffb5db356be",
+      "title": "Immortality Through Will - Chapter 81: WILL SEA MASTER",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-81-will-sea-master",
+      "source_order": 81,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "3b7e9b018aafcd05",
+      "title": "Immortality Through Will - Chapter 82: Alice’s Trial",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-82-alices-trial",
+      "source_order": 82,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "47da0959f24c048a",
+      "title": "Immortality Through Will - Chapter 83: Panicking Alice",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-83-panicking-alice",
+      "source_order": 83,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "8ddfb2094d3129a1",
+      "title": "Immortality Through Will - Chapter 84: Plan Unfolding: Evolution of Earth",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-84-plan-unfolding-evolution-of-earth",
+      "source_order": 84,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "500a96eec8a6f25e",
+      "title": "Immortality Through Will - Chapter 85: True Universe",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-85-true-universe",
+      "source_order": 85,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "07e0d756ade42d7e",
+      "title": "Immortality Through Will - Chapter 86: Awakened Battlefield",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-86-awakened-battlefield",
+      "source_order": 86,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "5250bae8cb55643a",
+      "title": "Immortality Through Will - Chapter 87: Rurak Vs Aqualen Part 1",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-87-rurak-vs-aqualen-part-1",
+      "source_order": 87,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "21b52dac81859b08",
+      "title": "Immortality Through Will - Chapter 88: Rurak Vs Aqualen Part 2",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-88-rurak-vs-aqualen-part-2",
+      "source_order": 88,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "752417924d879f45",
+      "title": "Immortality Through Will - Chapter 89: Captured Umbra",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-89-captured-umbra",
+      "source_order": 89,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "dd8f89b463d00e69",
+      "title": "Immortality Through Will - Chapter 90: Victim of Zerak",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-90-victim-of-zerak",
+      "source_order": 90,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "db513a0f3d6af439",
+      "title": "Immortality Through Will - Chapter 91: Cassian The Balanced Part 1",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-91-cassian-the-balanced-part-1",
+      "source_order": 91,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "f35330f4b947d338",
+      "title": "Immortality Through Will - Chapter 92: Cassian The Balanced part 2",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-92-cassian-the-balanced-part-2",
+      "source_order": 92,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "81148a8a12ff1eca",
+      "title": "Immortality Through Will - Chapter 93: Cassian The Balanced Part 3",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-93-cassian-the-balanced-part-3",
+      "source_order": 93,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "99f53e0d0f90dd84",
+      "title": "Immortality Through Will - Chapter 94: Cassian The Balanced Part 4",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-94-cassian-the-balanced-part-4",
+      "source_order": 94,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "a138d651ca7d45ca",
+      "title": "Immortality Through Will - Chapter 95: Cassian The Balanced Final",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-95-cassian-the-balanced-final",
+      "source_order": 95,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "beb66bb33021c68e",
+      "title": "Immortality Through Will - Chapter 96: Victoria The Conqueror",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-96-victoria-the-conqueror",
+      "source_order": 96,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "1b29eaa554493ec4",
+      "title": "Immortality Through Will - Chapter 97: Victoria The Conqueror Part 2",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-97-victoria-the-conqueror-part-2",
+      "source_order": 97,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "7af65bec291e0805",
+      "title": "Immortality Through Will - Chapter 98: Victoria The Conqueror Final Part",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-98-victoria-the-conqueror-final-part",
+      "source_order": 98,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "713c939855e1e14d",
+      "title": "Immortality Through Will - Chapter 99: Paul The Wrathful",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-99-paul-the-wrathful",
+      "source_order": 99,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "4d17ed8208ed7c75",
+      "title": "Immortality Through Will - Chapter 100: Roan The Unyielding Pride",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-100-roan-the-unyielding-pride",
+      "source_order": 100,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "6fd2bf711741f94f",
+      "title": "Immortality Through Will - Chapter 101: Hard Times",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-101-hard-times",
+      "source_order": 101,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "076441d47f1ece56",
+      "title": "Immortality Through Will - Chapter 102: Gaining Freedom",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-102-gaining-freedom",
+      "source_order": 102,
+      "downloaded": false
+    },
+    {
+      "chapter_id": "93055e9dd5d94306",
+      "title": "Immortality Through Will - Chapter 103: Nuclear Attack",
+      "source_url": "https://novelbuddy.me/immortality-through-will/chapter-103-nuclear-attack",
+      "source_order": 103,
+      "downloaded": false
+    }
+  ],
+  "updated_at": "2026-10-27T23:44:42.391346+00:00"
+}

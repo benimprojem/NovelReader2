@@ -1,0 +1,111 @@
+Chapter 37: The Detonation
+
+At 3:36 PM, deep within the Acri Crater, a light unlike anything ever seen before flashed into existence.
+
+A colossal plume of dark purple plasma ascended to an altitude of twenty kilometers in a single second. It continued to rise, its blinding radiance illuminating the desolate lunar landscape.
+
+A fireball nearly five kilometers in diameter rolled upward, shifting from deep violet to a searing orange. The sphere expanded rapidly, looking as though a primordial force, bound for billions of years, had suddenly shattered its chains.
+
+A nuclear detonation on the Moon looks completely different from one on Earth due to the lack of atmosphere and lower gravity.
+
+On Earth, the atmosphere transmits the shockwave, the "blast" that does most of the structural damage. In the lunar vacuum, there is no medium to carry a shockwave, significantly reducing the blast radius. However, the dust and regolith vaporized by the explosion instantly gain immense kinetic energy, shooting outward like shrapnel. Some of this debris even achieved escape velocity, flying directly into deep space.
+
+The scientists scrambled into action. Satellites began streaming data, and sensors across the spectrum lit up. A slight tremor traveled through the bedrock, though by the time the vibration reached the interior of the Lunar Base, it was barely perceptible.
+
+Satellite imagery confirmed that the intense thermal radiation faced zero resistance in the vacuum, traveling instantly in all directions. The extreme temperatures turned the nearest rock and dust into plasma.
+
+Almost simultaneously, an electromagnetic pulse (EMP) rippled outward, causing the main viewing screens in the command center to flicker and distort violently.
+
+"That’s... the satellite overloading from the EMP," a scientist muttered, pausing his work. The satellites were hardened against solar winds and designed to shut down automatically when exposed to high-energy pulses to prevent permanent circuit damage.
+
+"Activate the backup systems!"
+
+"Switch to the lunar rover telemetry!"
+
+This minor hiccup didn’t stump anyone. The data streams were rerouted, collected, and archived without loss.
+
+Professor Hao Yu’s eyebrows shot up, and his face flushed red with adrenaline.
+
+The bomb had detonated, yes, but an explosion didn’t equal success. Only after the data analysis confirmed the yield met the one-megaton standard could they pop the champagne.
+
+"Congratulations, Professor."
+
+"It looks good! I think we can celebrate early!"
+
+"Thank you! Thank you, everyone!"
+
+Although the final calculations weren’t complete, the scientists in the room were already offering their congratulations. These people lived and breathed data; they didn’t need a computer to tell them what their eyes had just seen. A jubilant atmosphere filled the room.
+
+"Alright, colleagues!" Jason called out, his voice tinged with excitement. He cleared his throat. "First, we must thank Professor Hao Yu for his dedication over the last decade. The technologies he pioneered played a crucial role today. For this, we owe him our sincere gratitude!"
+
+Thunderous applause erupted. Many of the staff had read Professor Hao Yu’s papers; they knew his work was world-class. In a room full of geniuses, he was a giant.
+
+"Now, once you return to your stations, analyze the data. We need to verify the feasibility of replacing our hydrogen bomb inventory with Helium-3 devices. We will reconvene tonight at 8:00 PM to discuss the next steps."
+
+Although 8:00 PM was late, no one complained. They were used to the grueling schedule. Facing the dawn of a new era in technology, everyone was motivated. They rushed back to their terminals to crunch the numbers.
+
+---
+
+The 8:00 PM meeting started promptly. It wasn’t just the senior scientists; representatives from the engineering corps were also in attendance, signaling the importance of the gathering.
+
+The agenda had two main items: first, the potential switch from hydrogen to Helium-3 weaponry; and second, the discussion of Professor Hao Yu’s radical "Gigaton-Class Pulse Propulsion Plan."
+
+"Good evening, everyone."
+
+Jason stood at the head of the conference table, a position he had grown accustomed to. "You all saw the test this afternoon. I can now announce the final results. After rigorous analysis, the device released an explosive yield of..."
+
+He paused for effect.
+
+"...1.016 megatons of TNT. This is consistent with our theoretical models."
+
+"The test was a complete success!"
+
+The room erupted in enthusiastic applause that lasted for a long time.
+
+"Alright," Jason said, settling the room. "Let’s move to the first topic: the proposal to replace our hydrogen bomb production with Helium-3 devices."
+
+"I will explain why this is necessary. Our energy crisis has caused severe delays in critical infrastructure projects."
+
+"In the last three months, we have produced less than four million tons of steel and only five hundred thousand tons of copper. Our output of non-ferrous metals like titanium and aluminum is far below projections. The bottleneck is energy."
+
+Jason projected a spreadsheet onto the main screen. It listed the progress of various sectors over the past quarter: metal smelting, internal facility construction, engine fabrication, and mining output.
+
+Everyone present was a master of their specific domain, but few had a view of the big picture. Seeing the raw numbers in black and white was a shock. The data was much worse than anyone had imagined.
+
+The room fell silent. The whispers died out.
+
+It was like a bucket of ice water had been dumped over their heads. The euphoria of the concert and the successful test vanished, replaced by the cold, hard reality of survival.
+
+Only 56% of the projects were meeting their milestones. 44% were delayed.
+
+Most people in the room knew the truth about the Moon’s impending destruction. They knew that whether the progress was good or bad, humanity *had* to leave. Leaving with an unfinished ship was a death sentence.
+
+The project managers responsible for the delayed sectors lowered their heads in shame, though they felt wronged. They had pushed their teams to the breaking point.
+
+"Let me be clear: this is not a personnel problem. It is an energy problem," Jason clarified quickly, lifting the burden from their shoulders. "Our initial calculations were too optimistic. No matter how much we conserve, we simply do not have enough power."
+
+"So, I am proposing a solution... we cut the Hydrogen Bomb project entirely. We replace it with the more energy-efficient Helium-3 Nuclear Bomb. This will free up the reactor capacity we need for industrial production!"
+
+He pulled up another slide. The hydrogen bomb program was consuming roughly 30% of the base’s total energy output. If that could be reclaimed...
+
+The plan sounded solid, and a murmur of discussion rippled through the crowd.
+
+However, asking them to suddenly overturn a long-standing strategic plan and adopt a new, barely tested technology was difficult. Humans are creatures of habit. Even if a new path is logically superior, the sudden shift creates anxiety.
+
+"Commander, is this Helium-3 bomb reliable?" a senior engineer asked, voicing the room’s concern. "We have only tested this weapon once."
+
+"Your concern is valid. I will let Professor Hao Yu address the technical reliability," Jason said.
+
+Professor Hao Yu stepped up to the podium. He pulled up his presentation and began to speak. He had prepared for this, distilling complex physics into concepts the engineers could grasp.
+
+He emphasized two main points: First, he had been researching this for over a decade, and the core physics were sound. Second, the leading scientific authorities on the base had peer-reviewed his work and agreed with his conclusions.
+
+Ultimately, no matter how much he explained the technology, the technical details mattered less than his authority. In a hyper-specialized society, trust is currency. Explaining the quantum mechanics was less effective than looking them in the eye and saying, "I am the expert, and I stake my reputation on this."
+
+It worked. The anxiety in the room began to settle. If the top minds agreed, the engineers would follow.
+
+Sensing the shift in the room, Professor Hao Yu moved to the final, most radical topic.
+
+"Now, regarding the propulsion system... I am proposing a new plan. Why not build a Gigaton-class Helium-3 device? A single, massive detonation to launch the spaceship in one go. It saves time, it saves labor, and it is brutally efficient!"
+
+The statement hit the crowd like a bombshell.

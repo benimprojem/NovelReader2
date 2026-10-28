@@ -1,0 +1,91 @@
+Chapter 90: The Blast Furnace
+
+Viruses and bacteria are not inherently harmful; in fact, a significant portion of them are highly beneficial to human survival.
+
+For example, endogenous retroviruses are actually advantageous to the human body, serving as a crucial foundation for immune cells to produce antibodies.
+
+There are also numerous retroviruses that scientists use as vectors for DNA recombination in modern medicine.
+
+Historically, there was the cowpox virus, a pathogen that caused mild lesions in cattle. Early physicians utilized this relatively harmless virus to vaccinate humans and ultimately eradicate the deadly smallpox virus.
+
+Beyond these beneficial viruses, there are countless beneficial bacteria. Strains like Bifidobacterium and Lactobacillus(Curd), as well as various yeasts, are essential for human digestive health and immune function, indirectly extending the human lifespan.
+
+Therefore, a healthy human being is essentially a walking ecosystem, a complex mixture of human cells, viruses, and bacteria all coexisting in a symbiotic state.
+
+Because of this biological precedent, the newly discovered "Longevity Virus" could theoretically extend human life.
+
+However, the medical team was deeply concerned that rashly introducing an alien virus into the general population could trigger catastrophic diseases, such as total genetic collapse or chromosomal aberrations. After all, this pathogen originated from a completely alien environment!
+
+This type of procedure fell under the extreme category of "radical human genetic modification." The possibility of triggering a biological disaster was incredibly high. Jason and all the senior experts were acutely aware of the risks. Weren’t the biohazards and zombie plagues in classic sci-fi movies created exactly this way?
+
+Therefore, moving forward with this pathogen was like playing with fire, an endeavor where unimaginable opportunity and apocalyptic risk coexisted.
+
+Many scientists, particularly the veteran biologists, were excited but remained unusually grounded. They raised numerous valid concerns, carefully scrutinizing the research team’s initial findings, raw data, and experimental conclusions.
+
+The intense debate lasted for over an hour as the preliminary report was reviewed line by line.
+
+Ultimately, the prominent scientists agreed that while the report’s initial data appeared accurate, the vast majority of the claims had not been fully verified.
+
+They concluded that the fundamental biological principles of the Longevity Pathogen were not yet fully understood, the gene sequencing was incomplete, and exhaustive animal trials were still required because the pathogen’s genetic sequence was unusually complex. At least in the short term, clinical human trials were entirely out of the question.
+
+Seeing this consensus, Jason felt a profound sense of relief. He naturally hoped his scientists would stand on the side of extreme caution. Even if the researchers had passionately advocated for immediate application, he would never have authorized reckless human experiments.
+
+Who knew how long the incubation period for this pathogen was? What if it lay dormant for years, only for the infected to suddenly suffer mass organ failure? They needed a flawless understanding of the pathogen’s mechanics and years of successful animal trials before human application could even be considered.
+
+Such extreme caution was absolutely necessary.
+
+In the weeks that followed, Jason divided his focus between the biological research and the colony’s industrial expansion. Both the Perfect Element and the Longevity Virus were vital to their future, but immediate survival required infrastructure.
+
+With the roar of heavy machinery and the hum of massive electric motors, the first phase of the Aegis Industrial Complex was finally completed, proudly displaying its awe-inspiring manufacturing capabilities!
+
+Countless scientists and engineers cheered, their voices trembling with excitement. They were deeply moved by the mechanical miracle they had just brought to life.
+
+Chief Engineer Isaac was practically moved to tears; this fully automated super-industrial complex was the exact facility he had dreamed of building for years.
+
+Every single one of the newly mass-produced super-excavators operated autonomously. After carving out a massive payload of raw ore, they automatically navigated to a designated drop zone, dumping the rocks onto a heavy-duty conveyor belt. The belt then rapidly transferred the materials into the cargo bays of a waiting super-train.
+
+Finally, the super-train transported the refined ore directly back to the Noah. This entire logistical chain was completely automated, requiring zero direct human intervention.
+
+The autonomous systems were incredibly efficient; a single operator sitting comfortably in a control room could actively monitor a fleet of over a hundred machines. The heavy equipment rarely malfunctioned, and when minor errors did occur, the diagnostic software immediately flagged the issue, allowing for rapid remote intervention.
+
+The excavators were strictly programmed to maintain a 300-meter buffer zone from one another. If a navigation bug caused two units to drift too close, proximity alarms would blare in the control room, and the on-duty supervisor would manually override the controls to prevent a collision.
+
+Initially, these manual overrides were required every two or three days. However, as the software engineers continuously analyzed the error logs and patched the navigation algorithms, the bugs became increasingly rare.
+
+The engineering teams were even beginning to design automated maintenance drones, aiming to create a system where the machines could literally repair themselves.
+
+Despite these triumphs, a major logistical crisis was looming over Jason’s desk: steel production was falling critically behind. The smelters’ early warnings had become a reality.
+
+During the initial phases of colonization, they were mostly writing software and assembling basic facilities. Resource consumption was relatively low, and the Noah’s internal steel reserves were more than sufficient.
+
+But now that the Aegis Industrial Complex was online and rapidly churning out massive super-machines, trains, and automated cutters, the demand for refined metal had skyrocketed. The Noah’s limited onboard smelting capacity simply couldn’t keep up.
+
+These super-machines were absolutely massive, and the current material shortage was rapidly draining their existing inventory.
+
+"We only have 1.3 million metric tons of processed steel left in reserve. At our current manufacturing rate, that will only last us a month and a half. This bottleneck is unacceptable," Jason muttered, furrowing his brow as he officially approved the immediate construction of a heavy-duty steelmaking blast furnace.
+
+This new blast furnace was a true behemoth, standing a full 70 meters tall! It required over 6,000 metric tons of steel just to construct. To protect it from the harsh environment, it was built within a massive, unpressurized expansion bay directly attached to the Noah.
+
+To accommodate the furnace, the engineers designed a dedicated, fully automated sector. They first laid down a complex network of pipelines, raw material intakes, molten slag exhausts, and massive gas exchange vents.
+
+Then, utilizing heavy-duty construction mechs, the crew assembled the blast furnace piece by piece, utilizing seamless thermal welding techniques. The entire construction process took an additional month.
+
+Once operational, the furnace’s production cycle would be fully automated, handled entirely by internal conveyor systems and heat-resistant robotic arms.
+
+A traditional blast furnace of this magnitude would be impossible to operate in the vacuum of deep space, primarily due to catastrophic heat dissipation issues. The thermal output was simply too immense; trying to cool it with localized ice would only chill the exterior room, leaving the core to overheat.
+
+If that immense thermal energy couldn’t be rapidly dissipated, the internal gas pressure would spike until the entire structure violently exploded.
+
+But they were operating on the Martian surface. The ambient temperature outside was a bitter -60 degrees Celsius, and while the atmosphere was incredibly thin, it was just enough to act as a thermal sink! A massive array of heavy-duty exhaust fans continuously drew in the freezing atmospheric gas to cool the exterior, rapidly venting the superheated air back out into the wasteland.
+
+Thanks to this aggressive air-cooling system, the colossal blast furnace could operate safely.
+
+Naturally, there were no fossil fuels like coal or oil available on the dead planet, though surveyors had discovered deposits of combustible methane ice deep beneath several ancient glacial lakes.
+
+However, the engineers had no intention of using archaic carbon reduction methods to smelt the steel. Instead, they utilized advanced electrolysis. The methodology for processing the raw iron and aluminum was identical: the raw minerals were first heated into a molten liquid state, and then an immense electrical current was passed through the slag to separate the pure metal.
+
+The resulting electrolyzed iron possessed a very low carbon content, and after one final refining process, it yielded exceptionally high-quality crude steel.
+
+Operating a blast furnace via electrolysis consumed a staggering amount of electricity. To meet this demand, a dedicated cluster of high-yield nuclear reactors was built specifically to power the facility. This massive energy investment paid off with an equally massive output: the furnace could produce 20,000 metric tons of refined steel every single day, totaling roughly 600,000 metric tons a month!
+
+With just two of these behemoth furnaces operating at full capacity, the colony’s crippling material shortage would be solved entirely.
