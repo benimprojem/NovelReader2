@@ -23,7 +23,7 @@ class NovelReaderApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("NovelReader2")
-        self.minsize(850, 560)
+        self.minsize(400, 400)
         self._window_state_path = DATA_DIR / "ui_state.json"
         # Follow Windows light/dark preference by default; allow explicit overrides.
         self.theme_mode = "system"  # system, light, dark
@@ -1368,7 +1368,6 @@ class NovelReaderApp(tk.Tk):
                     self.status_var.set("İndirme durdu" if payload["stopped"] else "İndirme işlemi tamamlandı")
         except queue.Empty:
             pass
-        self.after(150, self._poll_events)
         self.after(2000, self._check_system_theme)
 
 
