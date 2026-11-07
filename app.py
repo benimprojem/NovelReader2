@@ -1144,9 +1144,6 @@ class NovelReaderApp(tk.Tk):
                 self._write_log(f"[UYARI] Okuma konumu kaydedilemedi: {exc}")
         self.tabs.select(self.reader_tab)
         self.reader_text.focus_set()
-        # Every chapter-opening action also opens (or refreshes) the single
-        # dedicated Reader window after its content has been populated.
-        self.open_reader_window()
         self._update_reader_navigation()
 
     def open_reader_window(self):
