@@ -529,7 +529,10 @@ class NovelReaderApp(tk.Tk):
 
     def _build_reader_tab(self):
         self.reader_title = tk.StringVar(value="Okumak için bir bölüm seçin")
-        ttk.Label(self.reader_tab, textvariable=self.reader_title, font=("Segoe UI", 12, "bold")).pack(anchor="w", pady=(0, 8))
+        reader_heading = ttk.Frame(self.reader_tab)
+        reader_heading.pack(fill="x", pady=(0, 8))
+        ttk.Label(reader_heading, textvariable=self.reader_title, font=("Segoe UI", 12, "bold")).pack(side="left", anchor="w")
+        ttk.Button(reader_heading, text="Ayrı pencerede oku", command=self.open_reader_window).pack(side="right")
         # Pack the fixed navigation bar BEFORE the expanding text widget. If the
         # text widget is packed first, Tk can place the buttons in a side strip.
         nav = ttk.Frame(self.reader_tab)
@@ -1107,6 +1110,10 @@ class NovelReaderApp(tk.Tk):
         self.current_reading_folder = self.active_folder
         self.reader_text.delete("1.0", "end")
         self.reader_text.insert("1.0", content)
+        if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
+            self.reader_window_title.set(display_title)
+            self.reader_window_text.delete("1.0", "end")
+            self.reader_window_text.insert("1.0", content)
         if remember:
             try:
                 self.library.save_reading_progress(self.active_folder, chapter)
@@ -1117,6 +1124,39 @@ class NovelReaderApp(tk.Tk):
         self._update_reader_navigation()
 
     @staticmethod
+    def open_reader_window(self):
+        if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
+            self.reader_window.deiconify()
+            self.reader_window.lift()
+            self.reader_window.focus_force()
+            return
+        window = tk.Toplevel(self)
+        self.reader_window = window
+        window.title("NovelReader2 — Reader")
+        window.geometry("900x700")
+        window.protocol("WM_DELETE_WINDOW", self._close_reader_window)
+        self.reader_window_title = tk.StringVar(value=self.reader_title.get())
+        ttk.Label(window, textvariable=self.reader_window_title, font=("Segoe UI", 12, "bold")).pack(anchor="w", padx=10, pady=8)
+        area = ttk.Frame(window)
+        area.pack(fill="both", expand=True, padx=8)
+        self.reader_window_text = tk.Text(area, wrap="word", font=(self.appearance.get("font_family", "Segoe UI"), int(self.appearance.get("font_size", 11))), padx=14, pady=12)
+        scroll = ttk.Scrollbar(area, orient="vertical", command=self.reader_window_text.yview)
+        self.reader_window_text.configure(yscrollcommand=scroll.set)
+        scroll.pack(side="right", fill="y")
+        self.reader_window_text.pack(side="left", fill="both", expand=True)
+        self.reader_window_text.insert("1.0", self.reader_text.get("1.0", "end-1c"))
+        nav = ttk.Frame(window)
+        nav.pack(fill="x", padx=8, pady=8)
+        ttk.Button(nav, text="← Önceki", command=lambda: self.navigate_chapter(-1)).pack(side="left")
+        ttk.Button(nav, text="Sonraki →", command=lambda: self.navigate_chapter(1)).pack(side="right")
+
+    def _close_reader_window(self):
+        if getattr(self, "reader_window", None) is not None:
+            self.reader_window.destroy()
+        self.reader_window = None
+        self.reader_window_text = None
+        self.reader_window_title = None
+
     def _chapter_identity(chapter):
         if not isinstance(chapter, dict):
             return None
