@@ -1126,13 +1126,26 @@ class NovelReaderApp(tk.Tk):
             content = self.library.read_chapter(self.active_folder, chapter)
             display_title = title + (" — Orijinal" if force_original and translated else " — Kaynak metin (çeviri yok)")
             self.reader_status_var.set("Orijinal kaynak metin gösteriliyor" if force_original else "Bu bölümün Türkçe çevirisi henüz yok; kaynak metin gösteriliyor")
-        if not str(content or "").strip():
+        content_text = str(content or "")
+        if not content_text.strip():
             messagebox.showwarning("Bölüm içeriği boş", "Seçilen bölümün yerel dosyası boş veya okunabilir içerik içermiyor. Bölümü yeniden indirmeyi deneyin.")
         self.reader_title.set(display_title)
         self.current_reading_key = self._chapter_identity(chapter)
         self.current_reading_folder = self.active_folder
-        self.reader_text.delete("1.0", "end")
-        self.reader_text.insert("1.0", content)
+        try:
+            before_len = len(content_text)
+            self.reader_text.delete("1.0", "end")
+            self.reader_text.insert("1.0", content_text)
+            widget_text = self.reader_text.get("1.0", "end-1c")
+            self._write_log(
+                f"[READER-DEBUG] {title} | kaynak={before_len} karakter | "
+                f"widget={len(widget_text)} karakter | "
+                f"widget_state={self.reader_text.cget('state')} | "
+                f"önizleme={content_text[:100]!r}"
+            )
+        except Exception as exc:
+            self._write_log(f"[READER-DEBUG] Metin kutusuna yazma hatası: {type(exc).__name__}: {exc}")
+            raise
         if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
             self.reader_window_title.set(display_title)
             self.reader_window_text.delete("1.0", "end")
