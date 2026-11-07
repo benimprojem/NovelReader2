@@ -38,8 +38,6 @@ class NovelReaderApp(tk.Tk):
         self.active_folder = None
         self.active_site = None
         self.active_chapters = []
-        self.current_reading_key = None
-        self.current_reading_folder = None
         self.events = queue.Queue()
         self.download_stop_event = threading.Event()
         self.translate_stop_event = threading.Event()
@@ -191,10 +189,6 @@ class NovelReaderApp(tk.Tk):
     def _build_appearance_tab(self):
         intro = ttk.Label(self.appearance_tab, text="Arayüz renklerini ve okuma metnini kişiselleştirin. Değişiklikleri uygulayabilir, önizleyebilir ve sonraki açılışlar için kaydedebilirsiniz.", wraplength=900, justify="left")
         intro.pack(anchor="w", fill="x", pady=(0, 12))
-        theme_row = ttk.Frame(self.appearance_tab)
-        theme_row.pack(fill="x", pady=(0, 10))
-        self.theme_btn = ttk.Button(theme_row, text="Tema", command=self._toggle_theme)
-        self.theme_btn.pack(side="left")
         colors_frame = ttk.LabelFrame(self.appearance_tab, text="Renk ayarları", padding=10)
         colors_frame.pack(fill="x", pady=(0, 10))
         self.appearance_color_vars = {}
@@ -305,14 +299,16 @@ class NovelReaderApp(tk.Tk):
         self._attach_paste_menu(self.url_entry)
         self.add_btn = ttk.Button(url_row, text="Romanı Ekle / Bilgileri Yenile", command=self.add_novel)
         self.add_btn.pack(side="left")
+        self.theme_btn = ttk.Button(url_row, text="Koyu tema", command=self._toggle_theme)
+        self.theme_btn.pack(side="right", padx=(8, 0))
 
         actions = ttk.Frame(self.download_tab)
         actions.pack(fill="x", pady=(0, 8))
-        ttk.Label(actions, text="Bölüm sayısı (0 = tümü):").pack(side="left")
-        self.download_limit_var = tk.StringVar(value="10")
-        ttk.Entry(actions, textvariable=self.download_limit_var, width=7).pack(side="left", padx=(3, 12))
         self.download_btn = ttk.Button(actions, text="İndirmeyi başlat", command=self.download_selected)
         self.download_btn.pack(side="left")
+        ttk.Label(actions, text="Bölüm sayısı (0 = tümü):").pack(side="left", padx=(12, 3))
+        self.download_limit_var = tk.StringVar(value="10")
+        ttk.Entry(actions, textvariable=self.download_limit_var, width=7).pack(side="left")
         self.download_stop_btn = ttk.Button(actions, text="İndirmeyi durdur", command=self.download_stop_event.set, state="disabled")
         self.download_stop_btn.pack(side="left", padx=6)
         self.download_progress_var = tk.StringVar(value="İndirme: hazır")
@@ -361,9 +357,8 @@ class NovelReaderApp(tk.Tk):
         bar.pack(fill="x", pady=(0, 8))
         ttk.Button(bar, text="Yenile", command=self.refresh_novels).pack(side="left")
         ttk.Button(bar, text="Bölümleri Aç", command=self.show_selected_chapters).pack(side="left", padx=6)
-        ttk.Button(bar, text="Son Okunan Bölümü Aç", command=self.open_last_read_chapter).pack(side="left", padx=6)
         ttk.Button(bar, text="Seçili romanı sil…", command=self.delete_selected_novel).pack(side="left", padx=6)
-        ttk.Label(bar, text="Listeden bir Novel seçin.").pack(side="left", padx=(12, 3))
+        ttk.Label(bar, text="Çeviri için yukarıdaki listeden roman seçin.").pack(side="left", padx=(12, 3))
         ttk.Label(bar, text="Bölüm sayısı (0 = tümü):").pack(side="left", padx=(8, 3))
         self.translate_limit_var = tk.StringVar(value="10")
         ttk.Entry(bar, textvariable=self.translate_limit_var, width=6).pack(side="left")
@@ -529,10 +524,7 @@ class NovelReaderApp(tk.Tk):
 
     def _build_reader_tab(self):
         self.reader_title = tk.StringVar(value="Okumak için bir bölüm seçin")
-        reader_heading = ttk.Frame(self.reader_tab)
-        reader_heading.pack(fill="x", pady=(0, 8))
-        ttk.Label(reader_heading, textvariable=self.reader_title, font=("Segoe UI", 12, "bold")).pack(side="left", anchor="w")
-        ttk.Button(reader_heading, text="Ayrı pencerede oku", command=self.open_reader_window).pack(side="right")
+        ttk.Label(self.reader_tab, textvariable=self.reader_title, font=("Segoe UI", 12, "bold")).pack(anchor="w", pady=(0, 8))
         # Pack the fixed navigation bar BEFORE the expanding text widget. If the
         # text widget is packed first, Tk can place the buttons in a side strip.
         nav = ttk.Frame(self.reader_tab)
@@ -764,45 +756,6 @@ class NovelReaderApp(tk.Tk):
         self._update_novel_preview(metadata, folder)
         self.status_var.set(f"Seçildi: {metadata.get('title') or folder}")
 
-    def open_last_read_chapter(self):
-        selection = self.novel_tree.selection()
-        folder = selection[0] if selection else self.active_folder
-        if not folder:
-            messagebox.showinfo("Roman seçilmedi", "Önce listeden bir Novel seçin.")
-            return
-        self.active_folder = folder
-        metadata = self.library.get_metadata(folder)
-        self.active_site = next((site for site in self.sites if site.get("id") == metadata.get("site_id")), None)
-        self.active_chapters = self.library.get_chapters(folder)
-
-        saved_id = str(metadata.get("last_read_chapter_id") or "").strip()
-        saved_url = str(metadata.get("last_read_source_url") or "").strip().rstrip("/")
-        saved_title = str(metadata.get("last_read_title") or "").strip().casefold()
-        chapter = None
-        # Use non-empty, stable fields only; a missing identity must never match
-        # the first chapter (often the novel's info page).
-        if saved_id:
-            chapter = next((c for c in self.active_chapters if str(c.get("chapter_id") or "").strip() == saved_id), None)
-        if chapter is None and saved_url:
-            chapter = next((c for c in self.active_chapters if str(c.get("source_url") or "").strip().rstrip("/") == saved_url), None)
-        if chapter is None and saved_title:
-            chapter = next((c for c in self.active_chapters if str(c.get("resolved_title") or c.get("title") or "").strip().casefold() == saved_title), None)
-
-        if chapter is None or not (chapter.get("local_file") or chapter.get("translated_file")):
-            self._populate_chapters()
-            messagebox.showinfo("Okuma konumu açılamadı", "Kayıtlı bölüm bulunamadı veya bölümün yerel içeriği yok. Önce bölümü indirin.")
-            return
-
-        self._populate_chapters()
-        chapter_key = self._chapter_identity(chapter)
-        index = next((i for i, c in enumerate(self.active_chapters) if chapter_key is not None and self._chapter_identity(c) == chapter_key), None)
-        if index is not None:
-            iid = str(index)
-            self.chapter_tree.selection_set(iid)
-            self.chapter_tree.focus(iid)
-            self.chapter_tree.see(iid)
-        self.read_chapter(chapter, remember=False)
-
     def _select_novel(self):
         selection = self.novel_tree.selection()
         folder = selection[0] if selection else self.active_folder
@@ -813,17 +766,7 @@ class NovelReaderApp(tk.Tk):
         self.active_site = next((s for s in self.sites if s["id"] == metadata.get("site_id")), None)
         self.active_chapters = self.library.get_chapters(folder)
         self._populate_chapters()
-        # Rebind chapter selection by stable identity, never by stale row index.
-        if self.current_reading_folder == folder and self.current_reading_key is not None:
-            match = next((i for i, c in enumerate(self.active_chapters) if self._chapter_identity(c) == self.current_reading_key), None)
-            if match is not None:
-                try:
-                    self.chapter_tree.selection_set(str(match))
-                    self.chapter_tree.focus(str(match))
-                except tk.TclError:
-                    pass
         self._update_novel_preview(metadata, folder)
-        self._update_reader_navigation()
 
     def _update_novel_preview(self, metadata, folder):
         self._load_cover_preview(metadata.get("cover_url") or "", folder)
@@ -1058,15 +1001,22 @@ class NovelReaderApp(tk.Tk):
                 state = "Çeviri eksik"
             else:
                 state = ("Çevrildi" if chapter.get("translated") else ("İndirildi" if chapter.get("downloaded") else "Bekliyor"))
-            title = chapter.get("resolved_title") or chapter.get("title") or ""
-            # Never expose internal hash IDs or synthetic local:// recovery URLs as titles.
-            title = SiteScraper._clean_chapter_title(title, novel_title)
-            if not title:
-                source_url = str(chapter.get("source_url") or "")
-                match = re.search(r"/chapter-(\d+)(?:\.html)?/?$", source_url, flags=re.I)
-                number = match.group(1) if match else chapter.get("chapter_number", index)
-                title = f"Bölüm {number}"
+            title = self._chapter_display_name(chapter, index, novel_title)
             self.chapter_tree.insert("", "end", iid=str(index), text=title, values=(state,))
+
+    def _chapter_display_name(self, chapter, index=None, novel_title=""):
+        """Build a display-only chapter title; never alter chapter identity or file paths."""
+        title = chapter.get("resolved_title") or chapter.get("title") or ""
+        title = SiteScraper._clean_chapter_title(str(title), novel_title)
+        if title:
+            return title
+
+        source_url = str(chapter.get("source_url") or "")
+        match = re.search(r"/chapter-(\d+)(?:\.html)?/?$", source_url, flags=re.I)
+        number = match.group(1) if match else chapter.get("chapter_number")
+        if number is None:
+            number = index if index is not None else ""
+        return f"Bölüm {number}" if number != "" else "Bölüm"
 
     def _selected_chapter(self):
         selection = self.chapter_tree.selection()
@@ -1094,39 +1044,7 @@ class NovelReaderApp(tk.Tk):
             return
         self.read_chapter(chapter, remember=True)
 
-    def _read_chapter_title_from_file(self, chapter):
-        """Read a chapter heading from the saved text when metadata has no title."""
-        local_file = chapter.get("local_file")
-        if not local_file or not self.active_folder:
-            return ""
-
-        content = self.library.read_chapter(self.active_folder, chapter)
-        if not isinstance(content, str) or not content.strip():
-            return ""
-
-        # Older saved chapter files may keep the heading as their first line.
-        first_line = next((line.strip() for line in content.splitlines() if line.strip()), "")
-        if not first_line or len(first_line) > 160:
-            return ""
-        if re.search(r"[.!?。！？]\\s*$", first_line):
-            return ""
-        return first_line
-
-    def _chapter_display_name(self, chapter, index=None):
-        title = str(chapter.get("resolved_title") or chapter.get("title") or "").strip()
-        if not title:
-            title = self._read_chapter_title_from_file(chapter)
-        if title:
-            return title
-        number = chapter.get("chapter_number")
-        if number is None and index is not None:
-            number = index
-        if number is None:
-            number = next((i for i, item in enumerate(self.active_chapters, 1) if self._chapter_identity(item) == self._chapter_identity(chapter)), 1)
-        return f"Bölüm {number}"
-
     def read_chapter(self, chapter, remember=True, force_translation=False, force_original=False):
-        # Keep the proven reading flow from app-e.py; title handling is separate.
         title = self._chapter_display_name(chapter)
         translated = bool(chapter.get("translated") and chapter.get("translated_file"))
         if force_translation and not translated:
@@ -1141,18 +1059,9 @@ class NovelReaderApp(tk.Tk):
             content = self.library.read_chapter(self.active_folder, chapter)
             display_title = title + (" — Orijinal" if force_original and translated else " — Kaynak metin (çeviri yok)")
             self.reader_status_var.set("Orijinal kaynak metin gösteriliyor" if force_original else "Bu bölümün Türkçe çevirisi henüz yok; kaynak metin gösteriliyor")
-
         self.reader_title.set(display_title)
-        self.current_reading_key = self._chapter_identity(chapter)
-        self.current_reading_folder = self.active_folder
         self.reader_text.delete("1.0", "end")
         self.reader_text.insert("1.0", content)
-
-        if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
-            self.reader_window_title.set(display_title)
-            self.reader_window_text.delete("1.0", "end")
-            self.reader_window_text.insert("1.0", content)
-
         if remember:
             try:
                 self.library.save_reading_progress(self.active_folder, chapter)
@@ -1162,62 +1071,17 @@ class NovelReaderApp(tk.Tk):
         self.reader_text.focus_set()
         self._update_reader_navigation()
 
-    def open_reader_window(self):
-        if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
-            self.reader_window.deiconify()
-            self.reader_window.lift()
-            self.reader_window.focus_force()
-            return
-        window = tk.Toplevel(self)
-        self.reader_window = window
-        window.title("NovelReader2 — Reader")
-        window.geometry("900x700")
-        window.protocol("WM_DELETE_WINDOW", self._close_reader_window)
-        self.reader_window_title = tk.StringVar(value=self.reader_title.get())
-        ttk.Label(window, textvariable=self.reader_window_title, font=("Segoe UI", 12, "bold")).pack(anchor="w", padx=10, pady=8)
-        area = ttk.Frame(window)
-        area.pack(fill="both", expand=True, padx=8)
-        self.reader_window_text = tk.Text(area, wrap="word", font=(self.appearance.get("font_family", "Segoe UI"), int(self.appearance.get("font_size", 11))), padx=14, pady=12)
-        scroll = ttk.Scrollbar(area, orient="vertical", command=self.reader_window_text.yview)
-        self.reader_window_text.configure(yscrollcommand=scroll.set)
-        scroll.pack(side="right", fill="y")
-        self.reader_window_text.pack(side="left", fill="both", expand=True)
-        self.reader_window_text.insert("1.0", self.reader_text.get("1.0", "end-1c"))
-        nav = ttk.Frame(window)
-        nav.pack(fill="x", padx=8, pady=8)
-        ttk.Button(nav, text="← Önceki", command=lambda: self.navigate_chapter(-1)).pack(side="left")
-        ttk.Button(nav, text="Sonraki →", command=lambda: self.navigate_chapter(1)).pack(side="right")
-
-    def _close_reader_window(self):
-        if getattr(self, "reader_window", None) is not None:
-            self.reader_window.destroy()
-        self.reader_window = None
-        self.reader_window_text = None
-        self.reader_window_title = None
-
-    def _chapter_identity(chapter):
-        if not isinstance(chapter, dict):
-            return None
-        for field in ("url", "source_url", "chapter_url"):
-            value = str(chapter.get(field) or "").strip()
-            if value:
-                return ("url", value.rstrip("/"))
-        number = chapter.get("chapter_number")
-        if number is not None and str(number).strip():
-            return ("number", str(number).strip())
-        title = chapter.get("resolved_title") or chapter.get("title")
-        return ("title", str(title).strip().casefold()) if title else None
-
     def _current_chapter_index(self):
-        if self.current_reading_key is not None and self.current_reading_folder == self.active_folder:
-            for i, chapter in enumerate(self.active_chapters):
-                if self._chapter_identity(chapter) == self.current_reading_key:
-                    return i
-        title = self.reader_title.get().replace(" — Türkçe", "").replace(" — Orijinal", "").replace(" — Kaynak metin (çeviri yok)", "")
+        selected = self.chapter_tree.selection()
+        if selected and selected[0].isdigit():
+            index = int(selected[0])
+            if 0 <= index < len(self.active_chapters):
+                return index
+        title = self.reader_title.get().replace(" — Türkçe", "").replace(" — Kaynak metin (çeviri yok)", "")
         for i, chapter in enumerate(self.active_chapters):
             if (chapter.get("resolved_title") or chapter.get("title", "Bölüm")) == title:
                 return i
-        return -1
+        return 0 if self.active_chapters else -1
 
     def _update_reader_navigation(self):
         index = self._current_chapter_index()
@@ -1476,13 +1340,11 @@ class NovelReaderApp(tk.Tk):
                         self.cover_photo = None
                         self.cover_label.configure(image="", text="")
                 elif event == "download_progress":
-                    chapter_label = payload.get("title") or "Bölüm " + str(payload["index"])
-                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {chapter_label}")
+                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {payload['title']}")
                     self.download_progress_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_progress":
-                    chapter_label = payload.get("title") or "Bölüm " + str(payload["index"])
-                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {chapter_label}")
+                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {payload['title']}")
                     self.translate_progress_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_done":
