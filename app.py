@@ -1135,6 +1135,10 @@ class NovelReaderApp(tk.Tk):
 
     def _update_reader_navigation(self):
         index = self._current_chapter_index()
+        if index < 0:
+            self.prev_chapter_btn.configure(state="disabled")
+            self.next_chapter_btn.configure(state="disabled")
+            return
         readable = [i for i, c in enumerate(self.active_chapters) if c.get("downloaded") or c.get("translated") or c.get("is_info_page")]
         self.prev_chapter_btn.configure(state="normal" if any(i < index for i in readable) else "disabled")
         self.next_chapter_btn.configure(state="normal" if any(i > index for i in readable) else "disabled")
