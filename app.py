@@ -1094,8 +1094,28 @@ class NovelReaderApp(tk.Tk):
             return
         self.read_chapter(chapter, remember=True)
 
+    def _read_chapter_title_from_file(self, chapter):
+        """Read a chapter heading from the saved text when metadata has no title."""
+        local_file = chapter.get("local_file")
+        if not local_file or not self.active_folder:
+            return ""
+
+        content = self.library.read_chapter(self.active_folder, chapter)
+        if not isinstance(content, str) or not content.strip():
+            return ""
+
+        # Older saved chapter files may keep the heading as their first line.
+        first_line = next((line.strip() for line in content.splitlines() if line.strip()), "")
+        if not first_line or len(first_line) > 160:
+            return ""
+        if re.search(r"[.!?。！？]\\s*$", first_line):
+            return ""
+        return first_line
+
     def _chapter_display_name(self, chapter, index=None):
         title = str(chapter.get("resolved_title") or chapter.get("title") or "").strip()
+        if not title:
+            title = self._read_chapter_title_from_file(chapter)
         if title:
             return title
         number = chapter.get("chapter_number")
@@ -1106,6 +1126,7 @@ class NovelReaderApp(tk.Tk):
         return f"Bölüm {number}"
 
     def read_chapter(self, chapter, remember=True, force_translation=False, force_original=False):
+        # Keep the proven reading flow from app-e.py; title handling is separate.
         title = self._chapter_display_name(chapter)
         translated = bool(chapter.get("translated") and chapter.get("translated_file"))
         if force_translation and not translated:
@@ -1114,42 +1135,24 @@ class NovelReaderApp(tk.Tk):
         # Prefer Turkish by default; the explicit original button bypasses translation.
         if translated and not force_original:
             content = self.library.read_translation(self.active_folder, chapter)
-            if not str(content or "").strip() and chapter.get("local_file"):
-                # An empty/stale translation must not hide a valid downloaded source.
-                content = self.library.read_chapter(self.active_folder, chapter)
-                display_title = title + " — Orijinal (çeviri boş)"
-                self.reader_status_var.set("Çeviri dosyası boş; kaynak metin gösteriliyor")
-            else:
-                display_title = title + " — Türkçe"
-                self.reader_status_var.set("Türkçe çeviri gösteriliyor")
+            display_title = title + " — Türkçe"
+            self.reader_status_var.set("Türkçe çeviri gösteriliyor")
         else:
             content = self.library.read_chapter(self.active_folder, chapter)
             display_title = title + (" — Orijinal" if force_original and translated else " — Kaynak metin (çeviri yok)")
             self.reader_status_var.set("Orijinal kaynak metin gösteriliyor" if force_original else "Bu bölümün Türkçe çevirisi henüz yok; kaynak metin gösteriliyor")
-        content_text = str(content or "")
-        if not content_text.strip():
-            messagebox.showwarning("Bölüm içeriği boş", "Seçilen bölümün yerel dosyası boş veya okunabilir içerik içermiyor. Bölümü yeniden indirmeyi deneyin.")
+
         self.reader_title.set(display_title)
         self.current_reading_key = self._chapter_identity(chapter)
         self.current_reading_folder = self.active_folder
-        try:
-            before_len = len(content_text)
-            self.reader_text.delete("1.0", "end")
-            self.reader_text.insert("1.0", content_text)
-            widget_text = self.reader_text.get("1.0", "end-1c")
-            self._write_log(
-                f"[READER-DEBUG] {title} | kaynak={before_len} karakter | "
-                f"widget={len(widget_text)} karakter | "
-                f"widget_state={self.reader_text.cget('state')} | "
-                f"önizleme={content_text[:100]!r}"
-            )
-        except Exception as exc:
-            self._write_log(f"[READER-DEBUG] Metin kutusuna yazma hatası: {type(exc).__name__}: {exc}")
-            raise
+        self.reader_text.delete("1.0", "end")
+        self.reader_text.insert("1.0", content)
+
         if getattr(self, "reader_window", None) is not None and self.reader_window.winfo_exists():
             self.reader_window_title.set(display_title)
             self.reader_window_text.delete("1.0", "end")
             self.reader_window_text.insert("1.0", content)
+
         if remember:
             try:
                 self.library.save_reading_progress(self.active_folder, chapter)
