@@ -234,6 +234,8 @@ class NovelReaderApp(tk.Tk):
         self.appearance_preview.pack(fill="both", expand=True)
         actions = ttk.Frame(self.appearance_tab)
         actions.pack(fill="x")
+        self.theme_btn = ttk.Button(actions, text="Tema: Windows", command=self._toggle_theme)
+        self.theme_btn.pack(side="left", padx=(0, 8))
         ttk.Button(actions, text="Uygula ve kaydet", command=self._apply_appearance_from_controls).pack(side="left")
         ttk.Button(actions, text="Varsayılanlara dön", command=self._reset_appearance_settings).pack(side="left", padx=8)
 
@@ -301,9 +303,6 @@ class NovelReaderApp(tk.Tk):
         self._attach_paste_menu(self.url_entry)
         self.add_btn = ttk.Button(url_row, text="Romanı Ekle / Bilgileri Yenile", command=self.add_novel)
         self.add_btn.pack(side="left")
-        self.theme_btn = ttk.Button(url_row, text="Koyu tema", command=self._toggle_theme)
-        self.theme_btn.pack(side="right", padx=(8, 0))
-
         actions = ttk.Frame(self.download_tab)
         actions.pack(fill="x", pady=(0, 8))
         self.download_btn = ttk.Button(actions, text="İndirmeyi başlat", command=self.download_selected)
