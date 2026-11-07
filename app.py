@@ -1371,11 +1371,13 @@ class NovelReaderApp(tk.Tk):
                         self.cover_photo = None
                         self.cover_label.configure(image="", text="")
                 elif event == "download_progress":
-                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {payload.get('title') or f'Bölüm {payload['index']}'}")
+                    chapter_label = payload.get("title") or "Bölüm " + str(payload["index"])
+                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {chapter_label}")
                     self.download_progress_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_progress":
-                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {payload.get('title') or f'Bölüm {payload['index']}'}")
+                    chapter_label = payload.get("title") or "Bölüm " + str(payload["index"])
+                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {chapter_label}")
                     self.translate_progress_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_done":
