@@ -361,8 +361,9 @@ class NovelReaderApp(tk.Tk):
         bar.pack(fill="x", pady=(0, 8))
         ttk.Button(bar, text="Yenile", command=self.refresh_novels).pack(side="left")
         ttk.Button(bar, text="Bölümleri Aç", command=self.show_selected_chapters).pack(side="left", padx=6)
+        ttk.Button(bar, text="Son Okunan Bölümü Aç", command=self.open_last_read_chapter).pack(side="left", padx=6)
         ttk.Button(bar, text="Seçili romanı sil…", command=self.delete_selected_novel).pack(side="left", padx=6)
-        ttk.Label(bar, text="Çeviri için yukarıdaki listeden roman seçin.").pack(side="left", padx=(12, 3))
+        ttk.Label(bar, text="Listeden bir Novel seçin.").pack(side="left", padx=(12, 3))
         ttk.Label(bar, text="Bölüm sayısı (0 = tümü):").pack(side="left", padx=(8, 3))
         self.translate_limit_var = tk.StringVar(value="10")
         ttk.Entry(bar, textvariable=self.translate_limit_var, width=6).pack(side="left")
@@ -759,6 +760,30 @@ class NovelReaderApp(tk.Tk):
         self._populate_chapters()
         self._update_novel_preview(metadata, folder)
         self.status_var.set(f"Seçildi: {metadata.get('title') or folder}")
+
+    def open_last_read_chapter(self):
+        selection = self.novel_tree.selection()
+        folder = selection[0] if selection else self.active_folder
+        if not folder:
+            messagebox.showinfo("Roman seçilmedi", "Önce listeden bir Novel seçin.")
+            return
+        self.active_folder = folder
+        metadata = self.library.get_metadata(folder)
+        self.active_site = next((site for site in self.sites if site.get("id") == metadata.get("site_id")), None)
+        self.active_chapters = self.library.get_chapters(folder)
+        chapter_id = metadata.get("last_read_chapter_id")
+        source_url = metadata.get("last_read_source_url")
+        chapter = next((c for c in self.active_chapters if (chapter_id and c.get("chapter_id") == chapter_id) or (source_url and c.get("source_url") == source_url)), None)
+        if not chapter:
+            messagebox.showinfo("Okuma konumu yok", "Bu Novel için kayıtlı bir okuma bölümü bulunamadı.")
+            self._populate_chapters()
+            return
+        self._populate_chapters()
+        index = next(i for i, c in enumerate(self.active_chapters) if self._chapter_identity(c) == self._chapter_identity(chapter))
+        self.chapter_tree.selection_set(str(index))
+        self.chapter_tree.focus(str(index))
+        self.chapter_tree.see(str(index))
+        self.read_chapter(chapter, remember=False)
 
     def _select_novel(self):
         selection = self.novel_tree.selection()
