@@ -1114,12 +1114,20 @@ class NovelReaderApp(tk.Tk):
         # Prefer Turkish by default; the explicit original button bypasses translation.
         if translated and not force_original:
             content = self.library.read_translation(self.active_folder, chapter)
-            display_title = title + " — Türkçe"
-            self.reader_status_var.set("Türkçe çeviri gösteriliyor")
+            if not str(content or "").strip() and chapter.get("local_file"):
+                # An empty/stale translation must not hide a valid downloaded source.
+                content = self.library.read_chapter(self.active_folder, chapter)
+                display_title = title + " — Orijinal (çeviri boş)"
+                self.reader_status_var.set("Çeviri dosyası boş; kaynak metin gösteriliyor")
+            else:
+                display_title = title + " — Türkçe"
+                self.reader_status_var.set("Türkçe çeviri gösteriliyor")
         else:
             content = self.library.read_chapter(self.active_folder, chapter)
             display_title = title + (" — Orijinal" if force_original and translated else " — Kaynak metin (çeviri yok)")
             self.reader_status_var.set("Orijinal kaynak metin gösteriliyor" if force_original else "Bu bölümün Türkçe çevirisi henüz yok; kaynak metin gösteriliyor")
+        if not str(content or "").strip():
+            messagebox.showwarning("Bölüm içeriği boş", "Seçilen bölümün yerel dosyası boş veya okunabilir içerik içermiyor. Bölümü yeniden indirmeyi deneyin.")
         self.reader_title.set(display_title)
         self.current_reading_key = self._chapter_identity(chapter)
         self.current_reading_folder = self.active_folder
