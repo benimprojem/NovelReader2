@@ -38,6 +38,8 @@ class NovelReaderApp(tk.Tk):
         self.active_folder = None
         self.active_site = None
         self.active_chapters = []
+        self.current_reading_key = None
+        self.current_reading_folder = None
         self.events = queue.Queue()
         self.download_stop_event = threading.Event()
         self.translate_stop_event = threading.Event()
@@ -766,7 +768,17 @@ class NovelReaderApp(tk.Tk):
         self.active_site = next((s for s in self.sites if s["id"] == metadata.get("site_id")), None)
         self.active_chapters = self.library.get_chapters(folder)
         self._populate_chapters()
+        # Rebind chapter selection by stable identity, never by stale row index.
+        if self.current_reading_folder == folder and self.current_reading_key is not None:
+            match = next((i for i, c in enumerate(self.active_chapters) if self._chapter_identity(c) == self.current_reading_key), None)
+            if match is not None:
+                try:
+                    self.chapter_tree.selection_set(str(match))
+                    self.chapter_tree.focus(str(match))
+                except tk.TclError:
+                    pass
         self._update_novel_preview(metadata, folder)
+        self._update_reader_navigation()
 
     def _update_novel_preview(self, metadata, folder):
         self._load_cover_preview(metadata.get("cover_url") or "", folder)
@@ -1053,6 +1065,8 @@ class NovelReaderApp(tk.Tk):
             display_title = title + (" — Orijinal" if force_original and translated else " — Kaynak metin (çeviri yok)")
             self.reader_status_var.set("Orijinal kaynak metin gösteriliyor" if force_original else "Bu bölümün Türkçe çevirisi henüz yok; kaynak metin gösteriliyor")
         self.reader_title.set(display_title)
+        self.current_reading_key = self._chapter_identity(chapter)
+        self.current_reading_folder = self.active_folder
         self.reader_text.delete("1.0", "end")
         self.reader_text.insert("1.0", content)
         if remember:
@@ -1064,17 +1078,30 @@ class NovelReaderApp(tk.Tk):
         self.reader_text.focus_set()
         self._update_reader_navigation()
 
+    @staticmethod
+    def _chapter_identity(chapter):
+        if not isinstance(chapter, dict):
+            return None
+        for field in ("url", "source_url", "chapter_url"):
+            value = str(chapter.get(field) or "").strip()
+            if value:
+                return ("url", value.rstrip("/"))
+        number = chapter.get("chapter_number")
+        if number is not None and str(number).strip():
+            return ("number", str(number).strip())
+        title = chapter.get("resolved_title") or chapter.get("title")
+        return ("title", str(title).strip().casefold()) if title else None
+
     def _current_chapter_index(self):
-        selected = self.chapter_tree.selection()
-        if selected and selected[0].isdigit():
-            index = int(selected[0])
-            if 0 <= index < len(self.active_chapters):
-                return index
-        title = self.reader_title.get().replace(" — Türkçe", "").replace(" — Kaynak metin (çeviri yok)", "")
+        if self.current_reading_key is not None and self.current_reading_folder == self.active_folder:
+            for i, chapter in enumerate(self.active_chapters):
+                if self._chapter_identity(chapter) == self.current_reading_key:
+                    return i
+        title = self.reader_title.get().replace(" — Türkçe", "").replace(" — Orijinal", "").replace(" — Kaynak metin (çeviri yok)", "")
         for i, chapter in enumerate(self.active_chapters):
             if (chapter.get("resolved_title") or chapter.get("title", "Bölüm")) == title:
                 return i
-        return 0 if self.active_chapters else -1
+        return -1
 
     def _update_reader_navigation(self):
         index = self._current_chapter_index()
