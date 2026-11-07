@@ -774,18 +774,33 @@ class NovelReaderApp(tk.Tk):
         metadata = self.library.get_metadata(folder)
         self.active_site = next((site for site in self.sites if site.get("id") == metadata.get("site_id")), None)
         self.active_chapters = self.library.get_chapters(folder)
-        chapter_id = metadata.get("last_read_chapter_id")
-        source_url = metadata.get("last_read_source_url")
-        chapter = next((c for c in self.active_chapters if (chapter_id and c.get("chapter_id") == chapter_id) or (source_url and c.get("source_url") == source_url)), None)
-        if not chapter:
-            messagebox.showinfo("Okuma konumu yok", "Bu Novel için kayıtlı bir okuma bölümü bulunamadı.")
+
+        saved_id = str(metadata.get("last_read_chapter_id") or "").strip()
+        saved_url = str(metadata.get("last_read_source_url") or "").strip().rstrip("/")
+        saved_title = str(metadata.get("last_read_title") or "").strip().casefold()
+        chapter = None
+        # Use non-empty, stable fields only; a missing identity must never match
+        # the first chapter (often the novel's info page).
+        if saved_id:
+            chapter = next((c for c in self.active_chapters if str(c.get("chapter_id") or "").strip() == saved_id), None)
+        if chapter is None and saved_url:
+            chapter = next((c for c in self.active_chapters if str(c.get("source_url") or "").strip().rstrip("/") == saved_url), None)
+        if chapter is None and saved_title:
+            chapter = next((c for c in self.active_chapters if str(c.get("resolved_title") or c.get("title") or "").strip().casefold() == saved_title), None)
+
+        if chapter is None or not (chapter.get("local_file") or chapter.get("translated_file")):
             self._populate_chapters()
+            messagebox.showinfo("Okuma konumu açılamadı", "Kayıtlı bölüm bulunamadı veya bölümün yerel içeriği yok. Önce bölümü indirin.")
             return
+
         self._populate_chapters()
-        index = next(i for i, c in enumerate(self.active_chapters) if self._chapter_identity(c) == self._chapter_identity(chapter))
-        self.chapter_tree.selection_set(str(index))
-        self.chapter_tree.focus(str(index))
-        self.chapter_tree.see(str(index))
+        chapter_key = self._chapter_identity(chapter)
+        index = next((i for i, c in enumerate(self.active_chapters) if chapter_key is not None and self._chapter_identity(c) == chapter_key), None)
+        if index is not None:
+            iid = str(index)
+            self.chapter_tree.selection_set(iid)
+            self.chapter_tree.focus(iid)
+            self.chapter_tree.see(iid)
         self.read_chapter(chapter, remember=False)
 
     def _select_novel(self):
