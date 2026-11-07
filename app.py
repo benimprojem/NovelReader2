@@ -1049,8 +1049,19 @@ class NovelReaderApp(tk.Tk):
             return
         self.read_chapter(chapter, remember=True)
 
+    def _chapter_display_name(self, chapter, index=None):
+        title = str(chapter.get("resolved_title") or chapter.get("title") or "").strip()
+        if title:
+            return title
+        number = chapter.get("chapter_number")
+        if number is None and index is not None:
+            number = index
+        if number is None:
+            number = next((i for i, item in enumerate(self.active_chapters, 1) if self._chapter_identity(item) == self._chapter_identity(chapter)), 1)
+        return f"Bölüm {number}"
+
     def read_chapter(self, chapter, remember=True, force_translation=False, force_original=False):
-        title = chapter.get("resolved_title") or chapter.get("title", "Bölüm")
+        title = self._chapter_display_name(chapter)
         translated = bool(chapter.get("translated") and chapter.get("translated_file"))
         if force_translation and not translated:
             messagebox.showinfo("Çeviri yok", "Bu bölüm henüz Türkçeye çevrilmedi.")
@@ -1360,11 +1371,11 @@ class NovelReaderApp(tk.Tk):
                         self.cover_photo = None
                         self.cover_label.configure(image="", text="")
                 elif event == "download_progress":
-                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {payload['title']}")
+                    self._write_log(f"[İNDİRME {payload['index']}/{payload['total']}] {payload['state']} — {payload.get('title') or f'Bölüm {payload['index']}'}")
                     self.download_progress_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"İndirme: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_progress":
-                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {payload['title']}")
+                    self._write_log(f"[ÇEVİRİ {payload['index']}/{payload['total']}] {payload['state']} — {payload.get('title') or f'Bölüm {payload['index']}'}")
                     self.translate_progress_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                     self.status_var.set(f"Çeviri: {payload['index']}/{payload['total']} — {payload['state']}")
                 elif event == "translate_done":
