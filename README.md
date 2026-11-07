@@ -22,6 +22,7 @@ Projenin temel hedefi yalnızca roman indirmek değildir. İndirme, çeviri, ar�
 - [Metin temizleme ve Words Filter](#metin-temizleme-ve-words-filter)
 - [Roman ve bölüm yönetimi](#roman-ve-bölüm-yönetimi)
 - [Görünüm ve kişiselleştirme](#görünüm-ve-kişiselleştirme)
+- [Son değişiklikler](#son-değişiklikler)
 - [Veri yapısı ve güvenliği](#veri-yapısı-ve-güvenliği)
 - [Desteklenen siteler](#desteklenen-siteler)
 - [Sorun giderme](#sorun-giderme)
@@ -63,6 +64,11 @@ Projenin temel hedefi yalnızca roman indirmek değildir. İndirme, çeviri, ar�
 - Yazar, tür, açıklama, yayın durumu ve kapak bilgilerini görüntüleme.
 - Bölüm listesinden orijinal veya çevrilmiş metni açma.
 - Okuma ekranında önceki ve sonraki bölüme geçme.
+- Son okunan bölümü roman listesinden tek tuşla yeniden açma.
+- Okuma ekranını ayrı ve yeniden kullanılabilir bir pencerede açma.
+- Ana Reader ile ayrı okuma penceresini bölüm ve gezinme bakımından eşzamanlı tutma.
+- Bölüm listesi yenilendiğinde açık bölümün seçimini kararlı bölüm kimliğiyle koruma.
+- Başlığı eksik bölümleri bölüm numarasıyla gösterme.
 - Çevirisi bulunan bölümleri öncelikli gösterme; çeviri yoksa orijinal metni kullanma.
 - Kaynak sayfasını tarayıcıda açma.
 - Romanın toplam bölüm sayısını elle düzenleme.
@@ -93,7 +99,7 @@ Bu sekmede:
 - Roman eklenir veya roman bilgileri yenilenir.
 - İndirme yapılacak roman seçilir.
 - İndirilecek bölüm sayısı belirlenir.
-- İndirme başlatılır veya durdurulur.
+- Bölüm sayısı girildikten hemen sonra indirme başlatılabilir veya durdurulabilir.
 - İndirme günlüğü ve işlem durumu izlenir.
 - Roman listesi yenilenir.
 
@@ -111,6 +117,7 @@ Bu sekmeden:
 - Toplam bölüm sayısı elle değiştirilebilir.
 - Yayın durumu kaydedilebilir.
 - Bölüm listesi açılabilir.
+- **Son Okunanı Aç** düğmesiyle seçili romanın en son okunan bölümüne dönülebilir. Henüz okuma geçmişi yoksa uygulama ilk uygun bilgi/bölüm kaydını açar.
 - Çeviri başlatılabilir veya durdurulabilir.
 - Eksik çeviriler yeniden denenebilir.
 - İstenirse roman yerel kütüphaneden silinebilir.
@@ -304,7 +311,7 @@ Novel List sekmesindeki **Eksik Bölümleri Çevir** düğmesi, daha önce başa
 3. Chapters sekmesinde okumak istediğiniz bölümü seçin.
 4. **Orijinali oku** veya **Çeviriyi oku** seçeneklerinden birini kullanın.
 
-Reader sekmesindeki önceki/sonraki kontrolleriyle okumaya devam edebilirsiniz.
+Reader sekmesindeki önceki/sonraki kontrolleriyle okumaya devam edebilirsiniz. Okuma ekranının sağ üstündeki **Ayrı Pencerede Oku** düğmesi, aynı bölümü ayrı bir pencerede açar. Bu pencere tek örnek olarak kullanılır; bölüm değişiklikleri, önceki/sonraki gezinme, tema ve yazı ayarları ana Reader ile eşzamanlıdır.
 
 ### Metin temizleme
 
@@ -414,7 +421,7 @@ Toplam bölüm sayısı gerektiğinde Novel List ön izlemesinden elle değişti
 
 ## Görünüm ve kişiselleştirme
 
-Uygulama Windows'un açık/koyu tema tercihini algılayabilir. Tema düğmesi sistem teması, açık tema ve koyu tema arasında geçiş yapar.
+Uygulama Windows'un açık/koyu tema tercihini algılayabilir. Tema düğmesi **Görünüm** sekmesinde bulunur ve sistem teması, açık tema ve koyu tema arasında geçiş yapar.
 
 Görünüm sekmesinde şu alanlar kişiselleştirilebilir:
 
@@ -538,6 +545,20 @@ Orijinal metni yedek olarak saklanan bölümler okunabilir olsa bile başarılı
 ### Renk veya görünüm ayarları beklediğim gibi değil
 
 Görünüm sekmesindeki renk kodlarını kontrol edin. HEX renkleri `#RRGGBB` biçiminde olmalıdır. Gerekirse **Varsayılanlara dön** düğmesini kullanın.
+
+---
+
+## Son değişiklikler
+
+Son arayüz ve Reader iyileştirmeleri:
+
+- **Okuma konumunu koruma:** Bölüm listesi otomatik yenilendiğinde açık bölümün seçimi başlık metnine bağlı kalmak yerine kaynak adresi, bölüm kimliği veya bölüm numarası gibi kararlı bilgilerle yeniden bulunur. Böylece liste yenilendi diye okuma konumunun ilk bölüme sıçraması önlenir. Açık bölüm yenilenen listede bulunamazsa uygulama yanlış bir bölümü seçmek yerine önceki/sonraki gezinmeyi devre dışı bırakır.
+- **Başlıksız bölümler:** Bölüm başlığı boşsa ekranda kaynak adresinden çıkarılabilen bölüm numarası veya kayıtlı bölüm numarası kullanılarak `Bölüm N` biçiminde gösterilir. Bu yalnızca görüntüleme adıdır; bölümün kayıt kimliği ve dosya adı değiştirilmez.
+- **Son okunan bölüme dönme:** Novel List sekmesindeki **Son Okunanı Aç** düğmesi, seçili romanın kaydedilmiş son okuma konumunu açar.
+- **Ayrı Reader penceresi:** **Ayrı Pencerede Oku** düğmesi tek bir ek okuma penceresi açar. Pencere zaten açıksa yeni pencere oluşturulmaz; mevcut pencere öne getirilir. Ana Reader ile içerik, bölüm gezinmesi, tema ve yazı ayarları senkronize edilir.
+- **Daha düzenli kontroller:** Tema düğmesi Downloads alanından Görünüm sekmesine taşındı. Downloads sekmesinde indirme başlatma düğmesi bölüm sayısı alanının hemen arkasına alındı. Novel List sekmesinde çeviri kontrolleri ayrı satıra taşındı ve yönlendirme metni sadeleştirildi.
+
+Bu değişiklikler kaynak kodunda uygulanmış ve kod düzeyinde kontrol edilmiştir. Ayrı pencere davranışı ve diğer arayüz ayrıntıları için farklı Windows ekran/tema koşullarında kullanıcı testi sürmektedir.
 
 ---
 
